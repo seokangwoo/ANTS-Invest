@@ -1,7 +1,37 @@
 <!DOCTYPE html>
 <html>
-<body>
-<div class="tradingview-widget-container">
+
+  <body>
+
+<!-- Bootstrap core CSS -->
+<link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
+  <script type="text/javascript">
+    function getParameterByName(name) { 
+      name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+      var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+      results = regex.exec(location.search); 
+      return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " ")); 
+    }
+  </script>
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+<div class="tradingview-widget-container w-auto p-3 h-auto d-inline-block">
   <div id="tradingview_cb416"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
@@ -24,5 +54,6 @@
   );
   </script>
 </div>
+
 </body>
 </html>
