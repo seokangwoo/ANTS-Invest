@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
-
   <body>
-
-<!-- Bootstrap core CSS -->
-<link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-
-
   <script type="text/javascript">
     function getParameterByName(name) { 
       name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
@@ -15,45 +9,35 @@
       return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " ")); 
     }
   </script>
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
 
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style>
-
-<div class="tradingview-widget-container w-auto p-3 h-auto d-inline-block">
-  <div id="tradingview_cb416"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tradingview_ab314"></div>
+  <div class="tradingview-widget-copyright">TradingView 제공 <a href="https://kr.tradingview.com/symbols/KRX-028050/" rel="noopener" target="_blank"><span class="blue-text">028050 차트</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": 980,
-  "height": 610,
-  "symbol": "NASDAQ:AAPL",
+  "autosize": true,
+  "symbol": "KRX:028050",
   "interval": "D",
   "timezone": "Etc/UTC",
-  "theme": "light",
+  "theme": "dark",
   "style": "1",
-  "locale": "en",
+  "locale": "kr",
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": false,
-  "allow_symbol_change": true,
-  "container_id": "tradingview_cb416"
+  "hide_top_toolbar": true,
+  "hide_legend": true,
+  "save_image": false,
+  "studies": [
+    "MASimple@tv-basicstudies"
+  ],
+  "container_id": "tradingview_ab314"
 }
   );
   </script>
 </div>
-
+<!-- TradingView Widget END -->
 </body>
 </html>
