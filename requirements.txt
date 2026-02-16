@@ -1,0 +1,10 @@
+
+pandas
+numpy
+python-dotenv
+yfinance
+FinanceDataReader
+requests
+openpyxl
+lxml
+beautifulsoup4

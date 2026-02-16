@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "period_hours": 24,
+    "total_errors": 0,
+    "by_severity": {},
+    "by_type": {},
+    "recovery_rate": 0,
+    "most_common": []
+  },
+  "detailed_stats": {},
+  "timestamp": "2026-01-24T22:41:05.930145"
+}

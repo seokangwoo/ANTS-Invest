@@ -1,0 +1,67 @@
+{
+  "timestamp": "2026-01-24T22:41:05.930232",
+  "timestamp_epoch": 1769262065.930233,
+  "modules": {
+    "rate_limiter": {
+      "total_calls": 1,
+      "error_count": 0,
+      "error_rate": 0.0,
+      "max_calls_per_second": 1,
+      "avg_wait_time": 0.0,
+      "current_tokens": 11,
+      "current_window_size": 1,
+      "config": {
+        "nominal_max_calls": 15,
+        "effective_max_calls": 12,
+        "safety_margin": 0.8,
+        "min_interval": 0.06944444444444445
+      }
+    },
+    "backoff_strategy": {
+      "state": "CLOSED",
+      "total_attempts": 0,
+      "total_failures": 0,
+      "success_rate": 1.0,
+      "circuit_opens": 0,
+      "current_failure_count": 0,
+      "avg_backoff_time": 0,
+      "config": {
+        "base_delay": 1.0,
+        "max_delay": 32.0,
+        "failure_threshold": 10,
+        "success_threshold": 3,
+        "circuit_timeout": 60.0
+      }
+    },
+    "error_recovery": {
+      "period_hours": 24,
+      "total_errors": 0,
+      "by_severity": {},
+      "by_type": {},
+      "recovery_rate": 0,
+      "most_common": []
+    },
+    "cache": {
+      "hit_count": 0,
+      "miss_count": 1,
+      "hit_rate": 0.0,
+      "miss_rate": 1.0,
+      "total_entries": 1,
+      "eviction_count": 0,
+      "avg_entry_age": 0.000911712646484375,
+      "memory_usage_mb": 0.00022125244140625,
+      "api_calls_saved": 0
+    }
+  },
+  "summary": {
+    "total_api_calls": 1,
+    "total_errors": 0,
+    "overall_error_rate": 0.0,
+    "avg_tps": 0,
+    "system_health": "HEALTHY",
+    "cache_hit_rate": 0.0,
+    "api_calls_saved": 0,
+    "max_tps": 1,
+    "cache_entries": 0
+  }
+}
