@@ -113,31 +113,65 @@ def main():
              
     except Exception as e:
         print(f"Failed to fetch KRX list via FDR: {e}")
-        print("CRITICAL: FDR fetch failed. Using Hardcoded Top 20 Fallback.")
-        # Fallback List (Top Market Cap as of Late 2025/Early 2026)
-        fallback_data = [
-            {'Code': '005930', 'Name': '삼성전자', 'Sector': '전기전자', 'Marcap': 400000000000000},
-            {'Code': '000660', 'Name': 'SK하이닉스', 'Sector': '전기전자', 'Marcap': 140000000000000},
-            {'Code': '373220', 'Name': 'LG에너지솔루션', 'Sector': '전기전자', 'Marcap': 90000000000000},
-            {'Code': '207940', 'Name': '삼성바이오로직스', 'Sector': '의약품', 'Marcap': 60000000000000},
-            {'Code': '005380', 'Name': '현대차', 'Sector': '운수장비', 'Marcap': 50000000000000},
-            {'Code': '000270', 'Name': '기아', 'Sector': '운수장비', 'Marcap': 40000000000000},
-            {'Code': '005490', 'Name': 'POSCO홀딩스', 'Sector': '철강금속', 'Marcap': 35000000000000},
-            {'Code': '035420', 'Name': 'NAVER', 'Sector': '서비스업', 'Marcap': 30000000000000},
-            {'Code': '068270', 'Name': '셀트리온', 'Sector': '의약품', 'Marcap': 30000000000000},
-            {'Code': '006400', 'Name': '삼성SDI', 'Sector': '전기전자', 'Marcap': 25000000000000},
-            {'Code': '051910', 'Name': 'LG화학', 'Sector': '화학', 'Marcap': 25000000000000},
-            {'Code': '035720', 'Name': '카카오', 'Sector': '서비스업', 'Marcap': 20000000000000},
-            {'Code': '105560', 'Name': 'KB금융', 'Sector': '금융업', 'Marcap': 20000000000000},
-            {'Code': '012330', 'Name': '현대모비스', 'Sector': '운수장비', 'Marcap': 20000000000000},
-            {'Code': '028260', 'Name': '삼성물산', 'Sector': '유통업', 'Marcap': 20000000000000},
-            {'Code': '055550', 'Name': '신한지주', 'Sector': '금융업', 'Marcap': 20000000000000},
-            {'Code': '003550', 'Name': 'LG', 'Sector': '기타금융', 'Marcap': 12000000000000},
-            {'Code': '032830', 'Name': '삼성생명', 'Sector': '보험', 'Marcap': 12000000000000},
-            {'Code': '086790', 'Name': '하나금융지주', 'Sector': '금융업', 'Marcap': 12000000000000},
-            {'Code': '000810', 'Name': '삼성화재', 'Sector': '보험', 'Marcap': 12000000000000},
-        ]
-        stocks = pd.DataFrame(fallback_data)
+    except Exception as e:
+        print(f"Failed to fetch KRX list via FDR: {e}")
+        print("CRITICAL: FDR fetch failed. Attempting KIS API Master Download...")
+        
+        try:
+            # KIS API Fallback
+            ks = broker.fetch_kospi_master()
+            kd = broker.fetch_kosdaq_master()
+            
+            if ks.empty and kd.empty:
+                raise Exception("KIS Master Download Failed")
+            
+            # Standardize Columns
+            # KIS Master returns: 'Code', 'Name', 'DK_Marcap' (in 100M or 100000000? Sample says '억' (100M). Verify later)
+            # We treat DK_Marcap as Marcap.
+            
+            def adapt_kis(df):
+                if df.empty: return pd.DataFrame()
+                out = df[['Code', 'Name', 'DK_Marcap']].copy()
+                out.columns = ['Code', 'Name', 'Marcap']
+                # DK_Marcap is likely in 100 Million units (억).
+                # ANTS logic expects raw value? OR 100M?
+                # In main logic: marcap = float(row.get('Marcap', 0)) -> Deprecated
+                # But for sorting, we need comparable values.
+                # Let's assume it is 100M unit (e.g. 4000000 = 400 Trillion).
+                # Multiplier handled in build loop? 
+                # 'Marcap' column in stocks df is mainly used for SORTING.
+                return out
+
+            stocks = pd.concat([adapt_kis(ks), adapt_kis(kd)], ignore_index=True)
+            print(f"Fetched {len(stocks)} stocks via KIS API Fallback.")
+            
+        except Exception as e2:
+            print(f"KIS API Fallback Failed: {e2}")
+            print("Using Hardcoded Top 20 Fallback.")
+            # Fallback List (Top Market Cap as of Late 2025/Early 2026)
+            fallback_data = [
+                {'Code': '005930', 'Name': '삼성전자', 'Sector': '전기전자', 'Marcap': 400000000000000},
+                {'Code': '000660', 'Name': 'SK하이닉스', 'Sector': '전기전자', 'Marcap': 140000000000000},
+                {'Code': '373220', 'Name': 'LG에너지솔루션', 'Sector': '전기전자', 'Marcap': 90000000000000},
+                {'Code': '207940', 'Name': '삼성바이오로직스', 'Sector': '의약품', 'Marcap': 60000000000000},
+                {'Code': '005380', 'Name': '현대차', 'Sector': '운수장비', 'Marcap': 50000000000000},
+                {'Code': '000270', 'Name': '기아', 'Sector': '운수장비', 'Marcap': 40000000000000},
+                {'Code': '005490', 'Name': 'POSCO홀딩스', 'Sector': '철강금속', 'Marcap': 35000000000000},
+                {'Code': '035420', 'Name': 'NAVER', 'Sector': '서비스업', 'Marcap': 30000000000000},
+                {'Code': '068270', 'Name': '셀트리온', 'Sector': '의약품', 'Marcap': 30000000000000},
+                {'Code': '006400', 'Name': '삼성SDI', 'Sector': '전기전자', 'Marcap': 25000000000000},
+                {'Code': '051910', 'Name': 'LG화학', 'Sector': '화학', 'Marcap': 25000000000000},
+                {'Code': '035720', 'Name': '카카오', 'Sector': '서비스업', 'Marcap': 20000000000000},
+                {'Code': '105560', 'Name': 'KB금융', 'Sector': '금융업', 'Marcap': 20000000000000},
+                {'Code': '012330', 'Name': '현대모비스', 'Sector': '운수장비', 'Marcap': 20000000000000},
+                {'Code': '028260', 'Name': '삼성물산', 'Sector': '유통업', 'Marcap': 20000000000000},
+                {'Code': '055550', 'Name': '신한지주', 'Sector': '금융업', 'Marcap': 20000000000000},
+                {'Code': '003550', 'Name': 'LG', 'Sector': '기타금융', 'Marcap': 12000000000000},
+                {'Code': '032830', 'Name': '삼성생명', 'Sector': '보험', 'Marcap': 12000000000000},
+                {'Code': '086790', 'Name': '하나금융지주', 'Sector': '금융업', 'Marcap': 12000000000000},
+                {'Code': '000810', 'Name': '삼성화재', 'Sector': '보험', 'Marcap': 12000000000000},
+            ]
+            stocks = pd.DataFrame(fallback_data)
 
     # 2. Get ETF List
     print("Fetching ETF list...")
