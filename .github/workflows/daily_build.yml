@@ -39,8 +39,13 @@ jobs:
     - name: Build US Data
       run: python scripts/build_data_us.py
       
+    - name: Create timestamp for cache busting
+      run: date > public/build_time.txt
+      
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: public
         branch: gh-pages
+        token: ${{ secrets.GITHUB_TOKEN }}
+        clean: true
