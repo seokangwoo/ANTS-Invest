@@ -7,6 +7,9 @@ import pandas as pd
 import urllib.request
 import ssl
 import zipfile
+import urllib.request
+import ssl
+import zipfile
 
 class KisApi:
     def __init__(self, api_key, api_secret, acc_no, mock=False):
