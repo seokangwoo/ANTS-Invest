@@ -21,9 +21,9 @@ class KisApi:
         self.token_file = "token.dat"
         self._auth()
 
-    def _auth(self):
+    def _auth(self, force=False):
         # Allow checking existing token
-        if os.path.exists(self.token_file):
+        if not force and os.path.exists(self.token_file):
             try:
                 with open(self.token_file, 'r') as f:
                     data = json.load(f)
@@ -101,6 +101,13 @@ class KisApi:
         # Check Error
         if data.get('rt_cd') != '0':
             # print(f"Error fetching OHLCV for {symbol}: {data.get('msg1')}")
+            # Check for Expired Token Error (EGW00123)
+            if data.get('msg_cd') == 'EGW00123':
+                 print("Token Expired. Refreshing...")
+                 self._auth(force=True)
+                 headers = self.get_headers("FHKST03010100")
+                 res = requests.get(url, headers=headers, params=params)
+                 data = res.json()
             pass
             
         return data
