@@ -16,6 +16,9 @@ TICKERS_FILE = "public/data/us/tickers.json"
 try:
     print("Fetching S&P 500 list from FDR...")
     sp500 = fdr.StockListing('S&P500')
+    # Limit to top 10 by weight/market cap (implied by listing order usually)
+    sp500 = sp500.head(10) # Limited to 10 for testing
+    print(f"Fetched {len(sp500)} US stocks.")
     STOCKS = sp500['Symbol'].tolist() 
     print(f"Loaded {len(STOCKS)} S&P 500 stocks via FDR.")
 except Exception as e:
@@ -27,13 +30,6 @@ except Exception as e:
 # ETFs (Top Market Cap 200)
 try:
     print("Fetching US ETF list...")
-    etf_df = fdr.StockListing('ETF/US')
-    # Use top 300 candidates from fdr (roughly sorted by popularity) and refine by Market Cap
-    candidates = etf_df['Symbol'].tolist()[:300]
-    
-    # 1. Fetch Market Cap for Candidates
-    print(f"Fetching Market Cap for {len(candidates)} candidates to filter Top 200...")
-    etf_caps = []
     
     # Batch processing with yfinance could be faster?
     # yf.Tickers(" ".join(candidates)) might be too long URL.

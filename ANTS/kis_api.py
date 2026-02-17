@@ -141,7 +141,14 @@ class KisApi:
         }
         
         res = requests.get(url, headers=headers, params=params)
-        return res.json()
+        data = res.json()
+        if data.get('msg_cd') == 'EGW00123':
+            print("Token Expired. Refreshing...")
+            self._auth(force=True)
+            headers = self.get_headers("FHKST01010100")
+            res = requests.get(url, headers=headers, params=params)
+            data = res.json()
+        return data
 
     def fetch_estimate_perform(self, symbol):
          # TR_ID: FHKST01010300 ?? (Guessing based on path pattern domestic-stock/quotations/...)
