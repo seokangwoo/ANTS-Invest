@@ -39,8 +39,11 @@ jobs:
     - name: Build US Data
       run: python scripts/build_data_us.py
       
-    - name: Create timestamp for cache busting
-      run: date > public/build_time.txt
+    - name: Create timestamp and .nojekyll
+      run: |
+        date > public/build_time.txt
+        touch public/.nojekyll
+        ls -R public
       
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
