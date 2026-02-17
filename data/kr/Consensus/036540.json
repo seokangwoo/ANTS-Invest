@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20260206",
+    "stck_shrn_iscd": "036540",
+    "hts_kor_isnm": "SFA반도체",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "미래에셋",
+    "stck_prpr": "7080",
+    "prdy_vrss": "-70",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.98",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "6950",
+    "stft_esdg": "7080",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20241011",
+    "stck_shrn_iscd": "036540",
+    "hts_kor_isnm": "SFA반도체",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "교보",
+    "stck_prpr": "7080",
+    "prdy_vrss": "-70",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.98",
+    "hts_goal_prc": "6000",
+    "stck_prdy_clpr": "3655",
+    "stft_esdg": "1080",
+    "dprt": "18.00"
+  }
+]

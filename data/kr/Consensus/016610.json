@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240920",
+    "stck_shrn_iscd": "016610",
+    "hts_kor_isnm": "DB증권",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한국투자",
+    "stck_prpr": "15360",
+    "prdy_vrss": "1600",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "11.63",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "5980",
+    "stft_esdg": "15360",
+    "dprt": "0.00"
+  }
+]

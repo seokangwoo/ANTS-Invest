@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20251212",
+    "stck_shrn_iscd": "342870",
+    "hts_kor_isnm": "오아",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "미래에셋",
+    "stck_prpr": "7510",
+    "prdy_vrss": "-70",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.92",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "8160",
+    "stft_esdg": "7510",
+    "dprt": "0.00"
+  }
+]

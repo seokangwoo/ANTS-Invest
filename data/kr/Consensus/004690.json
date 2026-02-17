@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20250710",
+    "stck_shrn_iscd": "004690",
+    "hts_kor_isnm": "삼천리",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "KB",
+    "stck_prpr": "155100",
+    "prdy_vrss": "4200",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.78",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "158300",
+    "stft_esdg": "155100",
+    "dprt": "0.00"
+  }
+]

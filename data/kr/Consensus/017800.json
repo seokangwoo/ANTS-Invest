@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20250424",
+    "stck_shrn_iscd": "017800",
+    "hts_kor_isnm": "현대엘리베이터",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "유안타",
+    "stck_prpr": "103300",
+    "prdy_vrss": "4900",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "4.98",
+    "hts_goal_prc": "97000",
+    "stck_prdy_clpr": "70100",
+    "stft_esdg": "6300",
+    "dprt": "6.49"
+  }
+]

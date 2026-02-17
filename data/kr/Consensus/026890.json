@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20241230",
+    "stck_shrn_iscd": "026890",
+    "hts_kor_isnm": "스틱인베스트먼트",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한국투자",
+    "stck_prpr": "11660",
+    "prdy_vrss": "-90",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.77",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "8700",
+    "stft_esdg": "11660",
+    "dprt": "0.00"
+  }
+]

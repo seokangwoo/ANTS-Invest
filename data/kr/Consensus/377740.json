@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240527",
+    "stck_shrn_iscd": "377740",
+    "hts_kor_isnm": "바이오노트",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "다올투자",
+    "stck_prpr": "5800",
+    "prdy_vrss": "0",
+    "prdy_vrss_sign": "3",
+    "prdy_ctrt": "0.00",
+    "hts_goal_prc": "5700",
+    "stck_prdy_clpr": "4175",
+    "stft_esdg": "100",
+    "dprt": "1.75"
+  }
+]

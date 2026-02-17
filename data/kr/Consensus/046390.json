@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20250221",
+    "stck_shrn_iscd": "046390",
+    "hts_kor_isnm": "삼화네트웍스",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "DB금융투자",
+    "stck_prpr": "969",
+    "prdy_vrss": "-79",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-7.54",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "1411",
+    "stft_esdg": "969",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20241203",
+    "stck_shrn_iscd": "046390",
+    "hts_kor_isnm": "삼화네트웍스",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "DB금융투자",
+    "stck_prpr": "969",
+    "prdy_vrss": "-79",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-7.54",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "1453",
+    "stft_esdg": "969",
+    "dprt": "0.00"
+  }
+]

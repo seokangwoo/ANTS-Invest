@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20241017",
+    "stck_shrn_iscd": "288330",
+    "hts_kor_isnm": "파라택시스코리아",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "KB",
+    "stck_prpr": "775",
+    "prdy_vrss": "-53",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-6.40",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "5640",
+    "stft_esdg": "775",
+    "dprt": "0.00"
+  }
+]

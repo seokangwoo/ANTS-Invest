@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240311",
+    "stck_shrn_iscd": "037440",
+    "hts_kor_isnm": "희림",
+    "invt_opnn": "Buy",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "Buy",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "이베스트투자",
+    "stck_prpr": "4540",
+    "prdy_vrss": "-60",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.30",
+    "hts_goal_prc": "9000",
+    "stck_prdy_clpr": "6590",
+    "stft_esdg": "-4460",
+    "dprt": "-49.56"
+  }
+]

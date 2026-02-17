@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240531",
+    "stck_shrn_iscd": "016740",
+    "hts_kor_isnm": "두올",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "하나증권",
+    "stck_prpr": "4225",
+    "prdy_vrss": "-945",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-18.28",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "3510",
+    "stft_esdg": "4225",
+    "dprt": "0.00"
+  }
+]

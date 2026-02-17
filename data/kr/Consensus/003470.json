@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240819",
+    "stck_shrn_iscd": "003470",
+    "hts_kor_isnm": "유안타증권",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한국투자",
+    "stck_prpr": "5040",
+    "prdy_vrss": "335",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "7.12",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "2880",
+    "stft_esdg": "5040",
+    "dprt": "0.00"
+  }
+]

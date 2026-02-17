@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20251212",
+    "stck_shrn_iscd": "317450",
+    "hts_kor_isnm": "명인제약",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "KB",
+    "stck_prpr": "61900",
+    "prdy_vrss": "-1000",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.59",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "72300",
+    "stft_esdg": "61900",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20251103",
+    "stck_shrn_iscd": "317450",
+    "hts_kor_isnm": "명인제약",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "유진투자",
+    "stck_prpr": "61900",
+    "prdy_vrss": "-1000",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.59",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "82200",
+    "stft_esdg": "61900",
+    "dprt": "0.00"
+  }
+]

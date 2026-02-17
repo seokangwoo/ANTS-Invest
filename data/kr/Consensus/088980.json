@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20251126",
+    "stck_shrn_iscd": "088980",
+    "hts_kor_isnm": "맥쿼리인프라",
+    "invt_opnn": "매수",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "매수",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신영",
+    "stck_prpr": "11540",
+    "prdy_vrss": "80",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.70",
+    "hts_goal_prc": "13000",
+    "stck_prdy_clpr": "11440",
+    "stft_esdg": "-1460",
+    "dprt": "-11.23"
+  },
+  {
+    "stck_bsop_date": "20250821",
+    "stck_shrn_iscd": "088980",
+    "hts_kor_isnm": "맥쿼리인프라",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "삼성",
+    "stck_prpr": "11540",
+    "prdy_vrss": "80",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.70",
+    "hts_goal_prc": "13600",
+    "stck_prdy_clpr": "11630",
+    "stft_esdg": "-2060",
+    "dprt": "-15.15"
+  }
+]

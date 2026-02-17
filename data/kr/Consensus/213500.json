@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20251104",
+    "stck_shrn_iscd": "213500",
+    "hts_kor_isnm": "한솔제지",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "유진투자",
+    "stck_prpr": "8920",
+    "prdy_vrss": "50",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.56",
+    "hts_goal_prc": "11000",
+    "stck_prdy_clpr": "8010",
+    "stft_esdg": "-2080",
+    "dprt": "-18.91"
+  },
+  {
+    "stck_bsop_date": "20240813",
+    "stck_shrn_iscd": "213500",
+    "hts_kor_isnm": "한솔제지",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "교보",
+    "stck_prpr": "8920",
+    "prdy_vrss": "50",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.56",
+    "hts_goal_prc": "13000",
+    "stck_prdy_clpr": "9830",
+    "stft_esdg": "-4080",
+    "dprt": "-31.38"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20250520",
+    "stck_shrn_iscd": "005680",
+    "hts_kor_isnm": "삼영전자",
+    "invt_opnn": "Buy",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "Buy",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "LS증권",
+    "stck_prpr": "11840",
+    "prdy_vrss": "-280",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.31",
+    "hts_goal_prc": "15000",
+    "stck_prdy_clpr": "10650",
+    "stft_esdg": "-3160",
+    "dprt": "-21.07"
+  },
+  {
+    "stck_bsop_date": "20240404",
+    "stck_shrn_iscd": "005680",
+    "hts_kor_isnm": "삼영전자",
+    "invt_opnn": "Buy",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "Buy",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "이베스트투자",
+    "stck_prpr": "11840",
+    "prdy_vrss": "-280",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.31",
+    "hts_goal_prc": "13000",
+    "stck_prdy_clpr": "9460",
+    "stft_esdg": "-1160",
+    "dprt": "-8.92"
+  }
+]

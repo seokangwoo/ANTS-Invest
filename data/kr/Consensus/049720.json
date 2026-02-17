@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240618",
+    "stck_shrn_iscd": "049720",
+    "hts_kor_isnm": "고려신용정보",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "LS증권",
+    "stck_prpr": "10630",
+    "prdy_vrss": "160",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "1.53",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "10530",
+    "stft_esdg": "10630",
+    "dprt": "0.00"
+  }
+]

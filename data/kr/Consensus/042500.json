@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20240403",
+    "stck_shrn_iscd": "042500",
+    "hts_kor_isnm": "링네트",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신한투자증권",
+    "stck_prpr": "3935",
+    "prdy_vrss": "15",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.38",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "7070",
+    "stft_esdg": "3935",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20240227",
+    "stck_shrn_iscd": "042500",
+    "hts_kor_isnm": "링네트",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신한투자증권",
+    "stck_prpr": "3935",
+    "prdy_vrss": "15",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.38",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "4975",
+    "stft_esdg": "3935",
+    "dprt": "0.00"
+  }
+]

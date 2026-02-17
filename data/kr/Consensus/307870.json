@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20241118",
+    "stck_shrn_iscd": "307870",
+    "hts_kor_isnm": "비투엔",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "상상인",
+    "stck_prpr": "1219",
+    "prdy_vrss": "2",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.16",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "1211",
+    "stft_esdg": "1219",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20240514",
+    "stck_shrn_iscd": "307870",
+    "hts_kor_isnm": "비투엔",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "상상인",
+    "stck_prpr": "1219",
+    "prdy_vrss": "2",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.16",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "1440",
+    "stft_esdg": "1219",
+    "dprt": "0.00"
+  }
+]

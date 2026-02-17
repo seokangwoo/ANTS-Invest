@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240227",
+    "stck_shrn_iscd": "049800",
+    "hts_kor_isnm": "우진플라임",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "이베스트투자",
+    "stck_prpr": "3460",
+    "prdy_vrss": "120",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "3.59",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "3035",
+    "stft_esdg": "3460",
+    "dprt": "0.00"
+  }
+]

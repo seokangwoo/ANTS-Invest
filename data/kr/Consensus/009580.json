@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240315",
+    "stck_shrn_iscd": "009580",
+    "hts_kor_isnm": "무림P&P",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "교보",
+    "stck_prpr": "2450",
+    "prdy_vrss": "0",
+    "prdy_vrss_sign": "3",
+    "prdy_ctrt": "0.00",
+    "hts_goal_prc": "4000",
+    "stck_prdy_clpr": "3040",
+    "stft_esdg": "-1550",
+    "dprt": "-38.75"
+  }
+]
