@@ -32,7 +32,9 @@ jobs:
         KIS_APP_KEY: ${{ secrets.KIS_APP_KEY }}
         KIS_APP_SECRET: ${{ secrets.KIS_APP_SECRET }}
         KIS_ACCOUNT: ${{ secrets.KIS_ACCOUNT }}
-      run: python scripts/build_data.py
+      run: |
+        python scripts/debug_ci.py
+        python scripts/build_data.py
       
     - name: Build US Data
       run: python scripts/build_data_us.py
