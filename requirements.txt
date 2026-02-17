@@ -3,7 +3,7 @@ pandas
 numpy
 python-dotenv
 yfinance
-finance-datareader
+finance-datareader>=0.9.102
 requests
 openpyxl
 lxml

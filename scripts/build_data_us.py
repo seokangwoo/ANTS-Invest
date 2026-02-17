@@ -54,10 +54,10 @@ try:
     etf_caps.sort(key=lambda x: x['mcap'], reverse=True)
     
     # 3. Take Top 200
-    top_200 = etf_caps[:200]
+    top_200 = etf_caps[:10]
     ETFS = [x['symbol'] for x in top_200]
 
-    print(f"Selected Top {len(ETFS)} ETFs by Market Cap.")
+    print(f"Selected Top {len(ETFS)} ETFs by Market Cap (Limited for Test).")
 except Exception as e:
     print(f"Error fetching US ETFs: {e}")
     # Fallback
