@@ -261,6 +261,10 @@ def main():
                 if not os.path.exists(consensus_dir):
                     os.makedirs(consensus_dir)
                 
+                # Initialize variables to avoid UnboundLocalError
+                avg_target = 0
+                upside = 0
+                
                 consensus_res = broker.fetch_invest_opbysec(ticker)
                 
                 if consensus_res and 'output' in consensus_res:
