@@ -179,8 +179,9 @@ def main():
         etfs_kr = fdr.StockListing("ETF/KR")
         # Ensure 'Symbol', 'Name'
         etfs = etfs_kr[['Symbol', 'Name']].copy()
-        etfs = etfs.head(10) # Limited to 10 for testing
+        # etfs = etfs.head(10) # Limited to 10 for testing
         # etfs = etfs.head(20) # Remove limit for production
+
 
         
     except Exception as e:
@@ -213,7 +214,7 @@ def main():
         stocks = stocks.sort_values(by='Marcap', ascending=False)
     
     # Enable Full list
-    stocks = stocks.head(10) # Limited to 10 for testing
+    # stocks = stocks.head(10) # Limited to 10 for testing
     
     print(f"Processing {len(stocks)} stocks (KOSPI/KOSDAQ)...")
 

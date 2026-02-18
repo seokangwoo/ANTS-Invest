@@ -17,7 +17,7 @@ try:
     print("Fetching S&P 500 list from FDR...")
     sp500 = fdr.StockListing('S&P500')
     # Limit to top 10 by weight/market cap (implied by listing order usually)
-    sp500 = sp500.head(10) # Limited to 10 for testing
+    # sp500 = sp500.head(10) # Limited to 10 for testing
     print(f"Fetched {len(sp500)} US stocks.")
     STOCKS = sp500['Symbol'].tolist() 
     print(f"Loaded {len(STOCKS)} S&P 500 stocks via FDR.")
@@ -54,10 +54,10 @@ try:
     etf_caps.sort(key=lambda x: x['mcap'], reverse=True)
     
     # 3. Take Top 200
-    top_200 = etf_caps[:10]
+    top_200 = etf_caps[:200]
     ETFS = [x['symbol'] for x in top_200]
 
-    print(f"Selected Top {len(ETFS)} ETFs by Market Cap (Limited for Test).")
+    print(f"Selected Top {len(ETFS)} ETFs by Market Cap.")
 except Exception as e:
     print(f"Error fetching US ETFs: {e}")
     # Fallback
