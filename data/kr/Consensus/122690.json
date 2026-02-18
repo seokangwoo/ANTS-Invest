@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20241119",
+    "stck_shrn_iscd": "122690",
+    "hts_kor_isnm": "서진오토모티브",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한국투자",
+    "stck_prpr": "2740",
+    "prdy_vrss": "-65",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.32",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "1959",
+    "stft_esdg": "2740",
+    "dprt": "0.00"
+  }
+]

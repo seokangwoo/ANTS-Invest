@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240326",
+    "stck_shrn_iscd": "950190",
+    "hts_kor_isnm": "고스트스튜디오",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "현대차",
+    "stck_prpr": "8460",
+    "prdy_vrss": "-10",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.12",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "11280",
+    "stft_esdg": "8460",
+    "dprt": "0.00"
+  }
+]

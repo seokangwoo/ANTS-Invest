@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20250507",
+    "stck_shrn_iscd": "096350",
+    "hts_kor_isnm": "대창솔루션",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "SK",
+    "stck_prpr": "2175",
+    "prdy_vrss": "-50",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.25",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "365",
+    "stft_esdg": "2175",
+    "dprt": "0.00"
+  }
+]

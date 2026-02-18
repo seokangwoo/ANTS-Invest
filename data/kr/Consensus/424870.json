@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20251118",
+    "stck_shrn_iscd": "424870",
+    "hts_kor_isnm": "이뮨온시아",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한국투자",
+    "stck_prpr": "8770",
+    "prdy_vrss": "-250",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.77",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "6980",
+    "stft_esdg": "8770",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20250926",
+    "stck_shrn_iscd": "424870",
+    "hts_kor_isnm": "이뮨온시아",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "유안타",
+    "stck_prpr": "8770",
+    "prdy_vrss": "-250",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.77",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "5750",
+    "stft_esdg": "8770",
+    "dprt": "0.00"
+  }
+]

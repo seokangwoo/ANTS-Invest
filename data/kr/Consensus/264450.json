@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20260121",
+    "stck_shrn_iscd": "264450",
+    "hts_kor_isnm": "유비쿼스",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "하나증권",
+    "stck_prpr": "12230",
+    "prdy_vrss": "-60",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.49",
+    "hts_goal_prc": "22000",
+    "stck_prdy_clpr": "9180",
+    "stft_esdg": "-9770",
+    "dprt": "-44.41"
+  },
+  {
+    "stck_bsop_date": "20250826",
+    "stck_shrn_iscd": "264450",
+    "hts_kor_isnm": "유비쿼스",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "LS증권",
+    "stck_prpr": "12230",
+    "prdy_vrss": "-60",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.49",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "8960",
+    "stft_esdg": "12230",
+    "dprt": "0.00"
+  }
+]

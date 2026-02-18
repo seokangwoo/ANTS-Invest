@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240627",
+    "stck_shrn_iscd": "261780",
+    "hts_kor_isnm": "차백신연구소",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "삼성",
+    "stck_prpr": "2695",
+    "prdy_vrss": "-50",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.82",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "4765",
+    "stft_esdg": "2695",
+    "dprt": "0.00"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20250508",
+    "stck_shrn_iscd": "086820",
+    "hts_kor_isnm": "바이오솔루션",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "KB",
+    "stck_prpr": "8520",
+    "prdy_vrss": "260",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "3.15",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "30000",
+    "stft_esdg": "8520",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20250113",
+    "stck_shrn_iscd": "086820",
+    "hts_kor_isnm": "바이오솔루션",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한양",
+    "stck_prpr": "8520",
+    "prdy_vrss": "260",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "3.15",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "22150",
+    "stft_esdg": "8520",
+    "dprt": "0.00"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240820",
+    "stck_shrn_iscd": "065680",
+    "hts_kor_isnm": "우주일렉트로",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "현대차",
+    "stck_prpr": "32400",
+    "prdy_vrss": "-400",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.22",
+    "hts_goal_prc": "22000",
+    "stck_prdy_clpr": "16250",
+    "stft_esdg": "10400",
+    "dprt": "47.27"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20241216",
+    "stck_shrn_iscd": "068760",
+    "hts_kor_isnm": "셀트리온제약",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한국투자",
+    "stck_prpr": "72200",
+    "prdy_vrss": "-500",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.69",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "58100",
+    "stft_esdg": "72200",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20240913",
+    "stck_shrn_iscd": "068760",
+    "hts_kor_isnm": "셀트리온제약",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "상상인",
+    "stck_prpr": "72200",
+    "prdy_vrss": "-500",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.69",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "67500",
+    "stft_esdg": "72200",
+    "dprt": "0.00"
+  }
+]

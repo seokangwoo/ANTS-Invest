@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20241011",
+    "stck_shrn_iscd": "383310",
+    "hts_kor_isnm": "에코프로에이치엔",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "대신",
+    "stck_prpr": "34600",
+    "prdy_vrss": "-1050",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.95",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "51800",
+    "stft_esdg": "34600",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20240920",
+    "stck_shrn_iscd": "383310",
+    "hts_kor_isnm": "에코프로에이치엔",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "하나증권",
+    "stck_prpr": "34600",
+    "prdy_vrss": "-1050",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.95",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "40700",
+    "stft_esdg": "34600",
+    "dprt": "0.00"
+  }
+]

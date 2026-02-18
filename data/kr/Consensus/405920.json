@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20250224",
+    "stck_shrn_iscd": "405920",
+    "hts_kor_isnm": "나라셀라",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신영",
+    "stck_prpr": "2620",
+    "prdy_vrss": "-5",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.19",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "2790",
+    "stft_esdg": "2620",
+    "dprt": "0.00"
+  }
+]

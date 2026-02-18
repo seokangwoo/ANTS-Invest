@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20241211",
+    "stck_shrn_iscd": "377330",
+    "hts_kor_isnm": "이지트로닉스",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "NH투자",
+    "stck_prpr": "3480",
+    "prdy_vrss": "-15",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.43",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "4385",
+    "stft_esdg": "3480",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20240624",
+    "stck_shrn_iscd": "377330",
+    "hts_kor_isnm": "이지트로닉스",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "NH투자",
+    "stck_prpr": "3480",
+    "prdy_vrss": "-15",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.43",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "6810",
+    "stft_esdg": "3480",
+    "dprt": "0.00"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20250612",
+    "stck_shrn_iscd": "476080",
+    "hts_kor_isnm": "M83",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신영",
+    "stck_prpr": "8550",
+    "prdy_vrss": "-80",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.93",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "14600",
+    "stft_esdg": "8550",
+    "dprt": "0.00"
+  }
+]

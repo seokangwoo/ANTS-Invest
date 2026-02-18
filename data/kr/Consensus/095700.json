@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240822",
+    "stck_shrn_iscd": "095700",
+    "hts_kor_isnm": "제넥신",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "LS증권",
+    "stck_prpr": "4420",
+    "prdy_vrss": "-165",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.60",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "7560",
+    "stft_esdg": "4420",
+    "dprt": "0.00"
+  }
+]

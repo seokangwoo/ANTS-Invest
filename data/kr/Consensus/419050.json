@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20251223",
+    "stck_shrn_iscd": "419050",
+    "hts_kor_isnm": "삼기에너지솔루션즈",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "대신",
+    "stck_prpr": "1728",
+    "prdy_vrss": "-39",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.21",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "1798",
+    "stft_esdg": "1728",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20250527",
+    "stck_shrn_iscd": "419050",
+    "hts_kor_isnm": "삼기에너지솔루션즈",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신한투자증권",
+    "stck_prpr": "1728",
+    "prdy_vrss": "-39",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.21",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "1676",
+    "stft_esdg": "1728",
+    "dprt": "0.00"
+  }
+]

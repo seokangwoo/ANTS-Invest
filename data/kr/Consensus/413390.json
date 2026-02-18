@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20250613",
+    "stck_shrn_iscd": "413390",
+    "hts_kor_isnm": "엠오티",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한국투자",
+    "stck_prpr": "8860",
+    "prdy_vrss": "-220",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.42",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "8080",
+    "stft_esdg": "8860",
+    "dprt": "0.00"
+  }
+]

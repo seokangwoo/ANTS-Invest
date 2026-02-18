@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20250804",
+    "stck_shrn_iscd": "235980",
+    "hts_kor_isnm": "메드팩토",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "미래에셋",
+    "stck_prpr": "5860",
+    "prdy_vrss": "-160",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.66",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "3850",
+    "stft_esdg": "5860",
+    "dprt": "0.00"
+  }
+]

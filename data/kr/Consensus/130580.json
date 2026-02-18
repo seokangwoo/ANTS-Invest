@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20240816",
+    "stck_shrn_iscd": "130580",
+    "hts_kor_isnm": "나이스디앤비",
+    "invt_opnn": "Buy",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "Buy",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "LS증권",
+    "stck_prpr": "5990",
+    "prdy_vrss": "140",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.39",
+    "hts_goal_prc": "7000",
+    "stck_prdy_clpr": "4770",
+    "stft_esdg": "-1010",
+    "dprt": "-14.43"
+  }
+]

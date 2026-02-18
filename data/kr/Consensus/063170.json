@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20260202",
+    "stck_shrn_iscd": "063170",
+    "hts_kor_isnm": "서울옥션",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "하나증권",
+    "stck_prpr": "9020",
+    "prdy_vrss": "540",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "6.37",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "7730",
+    "stft_esdg": "9020",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20240228",
+    "stck_shrn_iscd": "063170",
+    "hts_kor_isnm": "서울옥션",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "키움",
+    "stck_prpr": "9020",
+    "prdy_vrss": "540",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "6.37",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "11260",
+    "stft_esdg": "9020",
+    "dprt": "0.00"
+  }
+]

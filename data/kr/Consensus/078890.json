@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20260108",
+    "stck_shrn_iscd": "078890",
+    "hts_kor_isnm": "가온그룹",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "키움",
+    "stck_prpr": "5720",
+    "prdy_vrss": "-100",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.72",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "5120",
+    "stft_esdg": "5720",
+    "dprt": "0.00"
+  }
+]

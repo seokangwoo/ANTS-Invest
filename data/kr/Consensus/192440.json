@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20240828",
+    "stck_shrn_iscd": "192440",
+    "hts_kor_isnm": "슈피겐코리아",
+    "invt_opnn": "중립",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "중립",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "IBK투자",
+    "stck_prpr": "24300",
+    "prdy_vrss": "850",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "3.62",
+    "hts_goal_prc": "23000",
+    "stck_prdy_clpr": "25150",
+    "stft_esdg": "1300",
+    "dprt": "5.65"
+  },
+  {
+    "stck_bsop_date": "20240517",
+    "stck_shrn_iscd": "192440",
+    "hts_kor_isnm": "슈피겐코리아",
+    "invt_opnn": "Trading BUY",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "Trading BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "IBK투자",
+    "stck_prpr": "24300",
+    "prdy_vrss": "850",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "3.62",
+    "hts_goal_prc": "33000",
+    "stck_prdy_clpr": "30200",
+    "stft_esdg": "-8700",
+    "dprt": "-26.36"
+  }
+]

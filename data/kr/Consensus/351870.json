@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20250613",
+    "stck_shrn_iscd": "351870",
+    "hts_kor_isnm": "차이커뮤니케이션",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한국투자",
+    "stck_prpr": "4530",
+    "prdy_vrss": "-85",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.84",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "7750",
+    "stft_esdg": "4530",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20241218",
+    "stck_shrn_iscd": "351870",
+    "hts_kor_isnm": "차이커뮤니케이션",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "한국투자",
+    "stck_prpr": "4530",
+    "prdy_vrss": "-85",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.84",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "11450",
+    "stft_esdg": "4530",
+    "dprt": "0.00"
+  }
+]

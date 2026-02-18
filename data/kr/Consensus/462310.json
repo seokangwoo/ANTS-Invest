@@ -1,0 +1,20 @@
+[
+  {
+    "stck_bsop_date": "20250911",
+    "stck_shrn_iscd": "462310",
+    "hts_kor_isnm": "뉴키즈온",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "KB",
+    "stck_prpr": "4550",
+    "prdy_vrss": "-70",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.52",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "7500",
+    "stft_esdg": "4550",
+    "dprt": "0.00"
+  }
+]

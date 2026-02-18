@@ -1,0 +1,38 @@
+[
+  {
+    "stck_bsop_date": "20251212",
+    "stck_shrn_iscd": "406820",
+    "hts_kor_isnm": "뷰티스킨",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "DB증권",
+    "stck_prpr": "2790",
+    "prdy_vrss": "-65",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.28",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "12190",
+    "stft_esdg": "2790",
+    "dprt": "0.00"
+  },
+  {
+    "stck_bsop_date": "20240627",
+    "stck_shrn_iscd": "406820",
+    "hts_kor_isnm": "뷰티스킨",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "DB금융투자",
+    "stck_prpr": "2790",
+    "prdy_vrss": "-65",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.28",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "20600",
+    "stft_esdg": "2790",
+    "dprt": "0.00"
+  }
+]
