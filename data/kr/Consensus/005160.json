@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "이베스트투자",
-    "stck_prpr": "2850",
-    "prdy_vrss": "-50",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.72",
+    "stck_prpr": "2915",
+    "prdy_vrss": "65",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.28",
     "hts_goal_prc": "12000",
     "stck_prdy_clpr": "7240",
-    "stft_esdg": "-9150",
-    "dprt": "-76.25"
+    "stft_esdg": "-9085",
+    "dprt": "-75.71"
   }
 ]

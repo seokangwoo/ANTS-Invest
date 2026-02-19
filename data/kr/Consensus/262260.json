@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "부국",
-    "stck_prpr": "5450",
-    "prdy_vrss": "-190",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.37",
+    "stck_prpr": "5630",
+    "prdy_vrss": "180",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "3.30",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "5900",
-    "stft_esdg": "5450",
+    "stft_esdg": "5630",
     "dprt": "0.00"
   }
 ]

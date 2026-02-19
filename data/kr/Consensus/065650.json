@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한양",
-    "stck_prpr": "1742",
-    "prdy_vrss": "-80",
+    "stck_prpr": "1654",
+    "prdy_vrss": "-88",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-4.39",
+    "prdy_ctrt": "-5.05",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1360",
-    "stft_esdg": "1742",
+    "stft_esdg": "1654",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한양",
-    "stck_prpr": "1742",
-    "prdy_vrss": "-80",
+    "stck_prpr": "1654",
+    "prdy_vrss": "-88",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-4.39",
+    "prdy_ctrt": "-5.05",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1397",
-    "stft_esdg": "1742",
+    "stft_esdg": "1654",
     "dprt": "0.00"
   }
 ]

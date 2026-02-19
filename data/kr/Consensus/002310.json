@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유화",
-    "stck_prpr": "9460",
-    "prdy_vrss": "440",
+    "stck_prpr": "11240",
+    "prdy_vrss": "1780",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.88",
+    "prdy_ctrt": "18.82",
     "hts_goal_prc": "9000",
     "stck_prdy_clpr": "7310",
-    "stft_esdg": "460",
-    "dprt": "5.11"
+    "stft_esdg": "2240",
+    "dprt": "24.89"
   },
   {
     "stck_bsop_date": "20240318",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유화",
-    "stck_prpr": "9460",
-    "prdy_vrss": "440",
+    "stck_prpr": "11240",
+    "prdy_vrss": "1780",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.88",
+    "prdy_ctrt": "18.82",
     "hts_goal_prc": "52000",
     "stck_prdy_clpr": "47000",
-    "stft_esdg": "-42540",
-    "dprt": "-81.81"
+    "stft_esdg": "-40760",
+    "dprt": "-78.38"
   },
   {
     "stck_bsop_date": "20240227",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "9460",
-    "prdy_vrss": "440",
+    "stck_prpr": "11240",
+    "prdy_vrss": "1780",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.88",
+    "prdy_ctrt": "18.82",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "47250",
-    "stft_esdg": "9460",
+    "stft_esdg": "11240",
     "dprt": "0.00"
   }
 ]

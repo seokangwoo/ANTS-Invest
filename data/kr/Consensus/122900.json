@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "7890",
-    "prdy_vrss": "-100",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.25",
+    "stck_prpr": "8110",
+    "prdy_vrss": "220",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.79",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8180",
-    "stft_esdg": "7890",
+    "stft_esdg": "8110",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "7890",
-    "prdy_vrss": "-100",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.25",
+    "stck_prpr": "8110",
+    "prdy_vrss": "220",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.79",
     "hts_goal_prc": "10000",
     "stck_prdy_clpr": "7900",
-    "stft_esdg": "-2110",
-    "dprt": "-21.10"
+    "stft_esdg": "-1890",
+    "dprt": "-18.90"
   }
 ]

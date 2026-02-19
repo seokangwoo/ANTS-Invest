@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "152600",
-    "prdy_vrss": "300",
+    "stck_prpr": "155700",
+    "prdy_vrss": "3100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.20",
+    "prdy_ctrt": "2.03",
     "hts_goal_prc": "170000",
     "stck_prdy_clpr": "129800",
-    "stft_esdg": "-17400",
-    "dprt": "-10.24"
+    "stft_esdg": "-14300",
+    "dprt": "-8.41"
   },
   {
     "stck_bsop_date": "20250827",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "152600",
-    "prdy_vrss": "300",
+    "stck_prpr": "155700",
+    "prdy_vrss": "3100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.20",
+    "prdy_ctrt": "2.03",
     "hts_goal_prc": "150000",
     "stck_prdy_clpr": "126000",
-    "stft_esdg": "2600",
-    "dprt": "1.73"
+    "stft_esdg": "5700",
+    "dprt": "3.80"
   },
   {
     "stck_bsop_date": "20250630",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "152600",
-    "prdy_vrss": "300",
+    "stck_prpr": "155700",
+    "prdy_vrss": "3100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.20",
+    "prdy_ctrt": "2.03",
     "hts_goal_prc": "140000",
     "stck_prdy_clpr": "107000",
-    "stft_esdg": "12600",
-    "dprt": "9.00"
+    "stft_esdg": "15700",
+    "dprt": "11.21"
   }
 ]

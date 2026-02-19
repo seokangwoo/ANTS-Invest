@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "2155",
-    "prdy_vrss": "5",
+    "stck_prpr": "2180",
+    "prdy_vrss": "25",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.23",
+    "prdy_ctrt": "1.16",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1675",
-    "stft_esdg": "2155",
+    "stft_esdg": "2180",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "2155",
-    "prdy_vrss": "5",
+    "stck_prpr": "2180",
+    "prdy_vrss": "25",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.23",
+    "prdy_ctrt": "1.16",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3735",
-    "stft_esdg": "2155",
+    "stft_esdg": "2180",
     "dprt": "0.00"
   }
 ]

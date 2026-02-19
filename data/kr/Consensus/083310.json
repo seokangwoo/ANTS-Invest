@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "12700",
-    "prdy_vrss": "-250",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.93",
+    "stck_prpr": "13810",
+    "prdy_vrss": "1110",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "8.74",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "13320",
-    "stft_esdg": "12700",
+    "stft_esdg": "13810",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "12700",
-    "prdy_vrss": "-250",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.93",
+    "stck_prpr": "13810",
+    "prdy_vrss": "1110",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "8.74",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "21650",
-    "stft_esdg": "12700",
+    "stft_esdg": "13810",
     "dprt": "0.00"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "15390",
-    "prdy_vrss": "330",
+    "stck_prpr": "15650",
+    "prdy_vrss": "260",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.19",
+    "prdy_ctrt": "1.69",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "18890",
-    "stft_esdg": "15390",
+    "stft_esdg": "15650",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "15390",
-    "prdy_vrss": "330",
+    "stck_prpr": "15650",
+    "prdy_vrss": "260",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.19",
+    "prdy_ctrt": "1.69",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "15750",
-    "stft_esdg": "15390",
+    "stft_esdg": "15650",
     "dprt": "0.00"
   }
 ]

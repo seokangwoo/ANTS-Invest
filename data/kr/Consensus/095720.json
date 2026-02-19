@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Trading BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "1181",
-    "prdy_vrss": "-14",
+    "stck_prpr": "1166",
+    "prdy_vrss": "-15",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.17",
+    "prdy_ctrt": "-1.27",
     "hts_goal_prc": "1760",
     "stck_prdy_clpr": "1565",
-    "stft_esdg": "-579",
-    "dprt": "-32.90"
+    "stft_esdg": "-594",
+    "dprt": "-33.75"
   },
   {
     "stck_bsop_date": "20241112",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "1181",
-    "prdy_vrss": "-14",
+    "stck_prpr": "1166",
+    "prdy_vrss": "-15",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.17",
+    "prdy_ctrt": "-1.27",
     "hts_goal_prc": "2400",
     "stck_prdy_clpr": "1689",
-    "stft_esdg": "-1219",
-    "dprt": "-50.79"
+    "stft_esdg": "-1234",
+    "dprt": "-51.42"
   },
   {
     "stck_bsop_date": "20240513",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "1181",
-    "prdy_vrss": "-14",
+    "stck_prpr": "1166",
+    "prdy_vrss": "-15",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.17",
+    "prdy_ctrt": "-1.27",
     "hts_goal_prc": "3100",
     "stck_prdy_clpr": "2130",
-    "stft_esdg": "-1919",
-    "dprt": "-61.90"
+    "stft_esdg": "-1934",
+    "dprt": "-62.39"
   }
 ]

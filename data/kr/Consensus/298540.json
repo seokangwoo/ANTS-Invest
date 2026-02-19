@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "8350",
-    "prdy_vrss": "-40",
+    "stck_prpr": "7730",
+    "prdy_vrss": "-620",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-7.43",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "10430",
-    "stft_esdg": "-6650",
-    "dprt": "-44.33"
+    "stft_esdg": "-7270",
+    "dprt": "-48.47"
   },
   {
     "stck_bsop_date": "20240524",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한양",
-    "stck_prpr": "8350",
-    "prdy_vrss": "-40",
+    "stck_prpr": "7730",
+    "prdy_vrss": "-620",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-7.43",
     "hts_goal_prc": "25000",
     "stck_prdy_clpr": "14100",
-    "stft_esdg": "-16650",
-    "dprt": "-66.60"
+    "stft_esdg": "-17270",
+    "dprt": "-69.08"
   },
   {
     "stck_bsop_date": "20240422",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "8350",
-    "prdy_vrss": "-40",
+    "stck_prpr": "7730",
+    "prdy_vrss": "-620",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-7.43",
     "hts_goal_prc": "19000",
     "stck_prdy_clpr": "14410",
-    "stft_esdg": "-10650",
-    "dprt": "-56.05"
+    "stft_esdg": "-11270",
+    "dprt": "-59.32"
   }
 ]

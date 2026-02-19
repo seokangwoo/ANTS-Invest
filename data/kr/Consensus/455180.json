@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "3370",
-    "prdy_vrss": "-170",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-4.80",
+    "stck_prpr": "3400",
+    "prdy_vrss": "30",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.89",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "4375",
-    "stft_esdg": "3370",
+    "stft_esdg": "3400",
     "dprt": "0.00"
   }
 ]

@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "13540",
-    "prdy_vrss": "730",
+    "stck_prpr": "15260",
+    "prdy_vrss": "1720",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "5.70",
+    "prdy_ctrt": "12.70",
     "hts_goal_prc": "15500",
     "stck_prdy_clpr": "10760",
-    "stft_esdg": "-1960",
-    "dprt": "-12.65"
+    "stft_esdg": "-240",
+    "dprt": "-1.55"
   },
   {
     "stck_bsop_date": "20260112",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "13540",
-    "prdy_vrss": "730",
+    "stck_prpr": "15260",
+    "prdy_vrss": "1720",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "5.70",
+    "prdy_ctrt": "12.70",
     "hts_goal_prc": "14000",
     "stck_prdy_clpr": "9440",
-    "stft_esdg": "-460",
-    "dprt": "-3.29"
+    "stft_esdg": "1260",
+    "dprt": "9.00"
   },
   {
     "stck_bsop_date": "20251215",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "13540",
-    "prdy_vrss": "730",
+    "stck_prpr": "15260",
+    "prdy_vrss": "1720",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "5.70",
+    "prdy_ctrt": "12.70",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8090",
-    "stft_esdg": "13540",
+    "stft_esdg": "15260",
     "dprt": "0.00"
   }
 ]

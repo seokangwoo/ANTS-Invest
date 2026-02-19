@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "REDUCE",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "8810",
-    "prdy_vrss": "-190",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.11",
+    "stck_prpr": "9070",
+    "prdy_vrss": "260",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.95",
     "hts_goal_prc": "9000",
     "stck_prdy_clpr": "12070",
-    "stft_esdg": "-190",
-    "dprt": "-2.11"
+    "stft_esdg": "70",
+    "dprt": "0.78"
   },
   {
     "stck_bsop_date": "20240527",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "8810",
-    "prdy_vrss": "-190",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.11",
+    "stck_prpr": "9070",
+    "prdy_vrss": "260",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.95",
     "hts_goal_prc": "11000",
     "stck_prdy_clpr": "10060",
-    "stft_esdg": "-2190",
-    "dprt": "-19.91"
+    "stft_esdg": "-1930",
+    "dprt": "-17.55"
   },
   {
     "stck_bsop_date": "20240416",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "8810",
-    "prdy_vrss": "-190",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.11",
+    "stck_prpr": "9070",
+    "prdy_vrss": "260",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.95",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "10700",
-    "stft_esdg": "8810",
+    "stft_esdg": "9070",
     "dprt": "0.00"
   }
 ]

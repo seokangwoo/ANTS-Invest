@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "24600",
-    "prdy_vrss": "1650",
+    "stck_prpr": "24750",
+    "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "7.19",
+    "prdy_ctrt": "0.61",
     "hts_goal_prc": "33000",
     "stck_prdy_clpr": "25000",
-    "stft_esdg": "-8400",
-    "dprt": "-25.45"
+    "stft_esdg": "-8250",
+    "dprt": "-25.00"
   },
   {
     "stck_bsop_date": "20250624",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "24600",
-    "prdy_vrss": "1650",
+    "stck_prpr": "24750",
+    "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "7.19",
+    "prdy_ctrt": "0.61",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "16310",
-    "stft_esdg": "4600",
-    "dprt": "23.00"
+    "stft_esdg": "4750",
+    "dprt": "23.75"
   },
   {
     "stck_bsop_date": "20250527",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "24600",
-    "prdy_vrss": "1650",
+    "stck_prpr": "24750",
+    "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "7.19",
+    "prdy_ctrt": "0.61",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "11770",
-    "stft_esdg": "7600",
-    "dprt": "44.71"
+    "stft_esdg": "7750",
+    "dprt": "45.59"
   },
   {
     "stck_bsop_date": "20250515",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "24600",
-    "prdy_vrss": "1650",
+    "stck_prpr": "24750",
+    "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "7.19",
+    "prdy_ctrt": "0.61",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "11830",
-    "stft_esdg": "24600",
+    "stft_esdg": "24750",
     "dprt": "0.00"
   },
   {
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "24600",
-    "prdy_vrss": "1650",
+    "stck_prpr": "24750",
+    "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "7.19",
+    "prdy_ctrt": "0.61",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "7960",
-    "stft_esdg": "24600",
+    "stft_esdg": "24750",
     "dprt": "0.00"
   }
 ]

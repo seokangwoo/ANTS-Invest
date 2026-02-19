@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "5260",
-    "prdy_vrss": "250",
+    "stck_prpr": "5310",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.99",
+    "prdy_ctrt": "0.95",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "7510",
-    "stft_esdg": "5260",
+    "stft_esdg": "5310",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "5260",
-    "prdy_vrss": "250",
+    "stck_prpr": "5310",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.99",
+    "prdy_ctrt": "0.95",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "7410",
-    "stft_esdg": "5260",
+    "stft_esdg": "5310",
     "dprt": "0.00"
   },
   {
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "5260",
-    "prdy_vrss": "250",
+    "stck_prpr": "5310",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.99",
+    "prdy_ctrt": "0.95",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8160",
-    "stft_esdg": "5260",
+    "stft_esdg": "5310",
     "dprt": "0.00"
   }
 ]
