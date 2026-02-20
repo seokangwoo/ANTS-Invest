@@ -113,8 +113,6 @@ def main():
              
     except Exception as e:
         print(f"Failed to fetch KRX list via FDR: {e}")
-    except Exception as e:
-        print(f"Failed to fetch KRX list via FDR: {e}")
         print("CRITICAL: FDR fetch failed. Attempting KIS API Master Download...")
         
         try:
