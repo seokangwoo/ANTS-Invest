@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "1099",
-    "prdy_vrss": "7",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.64",
+    "stck_prpr": "1077",
+    "prdy_vrss": "-22",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.00",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1004",
-    "stft_esdg": "1099",
+    "stft_esdg": "1077",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "1099",
-    "prdy_vrss": "7",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.64",
+    "stck_prpr": "1077",
+    "prdy_vrss": "-22",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.00",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "807",
-    "stft_esdg": "1099",
+    "stft_esdg": "1077",
     "dprt": "0.00"
   }
 ]

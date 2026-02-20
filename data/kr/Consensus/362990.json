@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "1645",
-    "prdy_vrss": "-7",
+    "stck_prpr": "1613",
+    "prdy_vrss": "-32",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.42",
+    "prdy_ctrt": "-1.95",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1731",
-    "stft_esdg": "1645",
+    "stft_esdg": "1613",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "1645",
-    "prdy_vrss": "-7",
+    "stck_prpr": "1613",
+    "prdy_vrss": "-32",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.42",
+    "prdy_ctrt": "-1.95",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1745",
-    "stft_esdg": "1645",
+    "stft_esdg": "1613",
     "dprt": "0.00"
   },
   {
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하이투자",
-    "stck_prpr": "1645",
-    "prdy_vrss": "-7",
+    "stck_prpr": "1613",
+    "prdy_vrss": "-32",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.42",
+    "prdy_ctrt": "-1.95",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2815",
-    "stft_esdg": "1645",
+    "stft_esdg": "1613",
     "dprt": "0.00"
   }
 ]

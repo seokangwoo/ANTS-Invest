@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "중립",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "10080",
+    "stck_prpr": "10000",
     "prdy_vrss": "-80",
     "prdy_vrss_sign": "5",
     "prdy_ctrt": "-0.79",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "11240",
-    "stft_esdg": "10080",
+    "stft_esdg": "10000",
     "dprt": "0.00"
   },
   {
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "Trading BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "10080",
+    "stck_prpr": "10000",
     "prdy_vrss": "-80",
     "prdy_vrss_sign": "5",
     "prdy_ctrt": "-0.79",
     "hts_goal_prc": "11300",
     "stck_prdy_clpr": "10930",
-    "stft_esdg": "-1220",
-    "dprt": "-10.80"
+    "stft_esdg": "-1300",
+    "dprt": "-11.50"
   },
   {
     "stck_bsop_date": "20250407",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Trading BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "10080",
+    "stck_prpr": "10000",
     "prdy_vrss": "-80",
     "prdy_vrss_sign": "5",
     "prdy_ctrt": "-0.79",
     "hts_goal_prc": "8700",
     "stck_prdy_clpr": "8000",
-    "stft_esdg": "1380",
-    "dprt": "15.86"
+    "stft_esdg": "1300",
+    "dprt": "14.94"
   },
   {
     "stck_bsop_date": "20241113",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "Trading BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "10080",
+    "stck_prpr": "10000",
     "prdy_vrss": "-80",
     "prdy_vrss_sign": "5",
     "prdy_ctrt": "-0.79",
     "hts_goal_prc": "10000",
     "stck_prdy_clpr": "9290",
-    "stft_esdg": "80",
-    "dprt": "0.80"
+    "stft_esdg": "0",
+    "dprt": "0.00"
   },
   {
     "stck_bsop_date": "20240327",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "10080",
+    "stck_prpr": "10000",
     "prdy_vrss": "-80",
     "prdy_vrss_sign": "5",
     "prdy_ctrt": "-0.79",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "14850",
-    "stft_esdg": "-9920",
-    "dprt": "-49.60"
+    "stft_esdg": "-10000",
+    "dprt": "-50.00"
   }
 ]

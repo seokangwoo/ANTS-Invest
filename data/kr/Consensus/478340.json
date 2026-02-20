@@ -1,5 +1,23 @@
 [
   {
+    "stck_bsop_date": "20260219",
+    "stck_shrn_iscd": "478340",
+    "hts_kor_isnm": "나라스페이스테크놀로지",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신한투자증권",
+    "stck_prpr": "54300",
+    "prdy_vrss": "-1100",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.99",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "55600",
+    "stft_esdg": "54300",
+    "dprt": "0.00"
+  },
+  {
     "stck_bsop_date": "20260209",
     "stck_shrn_iscd": "478340",
     "hts_kor_isnm": "나라스페이스테크놀로지",
@@ -8,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "55400",
-    "prdy_vrss": "-200",
+    "stck_prpr": "54300",
+    "prdy_vrss": "-1100",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.36",
+    "prdy_ctrt": "-1.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "53600",
-    "stft_esdg": "55400",
+    "stft_esdg": "54300",
     "dprt": "0.00"
   },
   {
@@ -26,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "55400",
-    "prdy_vrss": "-200",
+    "stck_prpr": "54300",
+    "prdy_vrss": "-1100",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.36",
+    "prdy_ctrt": "-1.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "48550",
-    "stft_esdg": "55400",
+    "stft_esdg": "54300",
     "dprt": "0.00"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "6020",
-    "prdy_vrss": "300",
+    "stck_prpr": "6140",
+    "prdy_vrss": "120",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "5.24",
+    "prdy_ctrt": "1.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "5120",
-    "stft_esdg": "6020",
+    "stft_esdg": "6140",
     "dprt": "0.00"
   }
 ]

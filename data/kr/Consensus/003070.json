@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "10120",
-    "prdy_vrss": "60",
+    "stck_prpr": "10240",
+    "prdy_vrss": "120",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.60",
+    "prdy_ctrt": "1.19",
     "hts_goal_prc": "13000",
     "stck_prdy_clpr": "10550",
-    "stft_esdg": "-2880",
-    "dprt": "-22.15"
+    "stft_esdg": "-2760",
+    "dprt": "-21.23"
   },
   {
     "stck_bsop_date": "20250605",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "10120",
-    "prdy_vrss": "60",
+    "stck_prpr": "10240",
+    "prdy_vrss": "120",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.60",
+    "prdy_ctrt": "1.19",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "9180",
-    "stft_esdg": "10120",
+    "stft_esdg": "10240",
     "dprt": "0.00"
   },
   {
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "10120",
-    "prdy_vrss": "60",
+    "stck_prpr": "10240",
+    "prdy_vrss": "120",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.60",
+    "prdy_ctrt": "1.19",
     "hts_goal_prc": "9000",
     "stck_prdy_clpr": "10020",
-    "stft_esdg": "1120",
-    "dprt": "12.44"
+    "stft_esdg": "1240",
+    "dprt": "13.78"
   },
   {
     "stck_bsop_date": "20240528",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "10120",
-    "prdy_vrss": "60",
+    "stck_prpr": "10240",
+    "prdy_vrss": "120",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.60",
+    "prdy_ctrt": "1.19",
     "hts_goal_prc": "9500",
     "stck_prdy_clpr": "8440",
-    "stft_esdg": "620",
-    "dprt": "6.53"
+    "stft_esdg": "740",
+    "dprt": "7.79"
   },
   {
     "stck_bsop_date": "20240308",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "10120",
-    "prdy_vrss": "60",
+    "stck_prpr": "10240",
+    "prdy_vrss": "120",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.60",
+    "prdy_ctrt": "1.19",
     "hts_goal_prc": "12000",
     "stck_prdy_clpr": "9180",
-    "stft_esdg": "-1880",
-    "dprt": "-15.67"
+    "stft_esdg": "-1760",
+    "dprt": "-14.67"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "3225",
-    "prdy_vrss": "-255",
+    "stck_prpr": "3150",
+    "prdy_vrss": "-75",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-7.33",
+    "prdy_ctrt": "-2.33",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "4385",
-    "stft_esdg": "3225",
+    "stft_esdg": "3150",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "3225",
-    "prdy_vrss": "-255",
+    "stck_prpr": "3150",
+    "prdy_vrss": "-75",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-7.33",
+    "prdy_ctrt": "-2.33",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6810",
-    "stft_esdg": "3225",
+    "stft_esdg": "3150",
     "dprt": "0.00"
   }
 ]

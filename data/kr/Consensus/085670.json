@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "6380",
-    "prdy_vrss": "230",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.74",
+    "stck_prpr": "6190",
+    "prdy_vrss": "-190",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.98",
     "hts_goal_prc": "7800",
     "stck_prdy_clpr": "5000",
-    "stft_esdg": "-1420",
-    "dprt": "-18.21"
+    "stft_esdg": "-1610",
+    "dprt": "-20.64"
   },
   {
     "stck_bsop_date": "20250520",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "6380",
-    "prdy_vrss": "230",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.74",
+    "stck_prpr": "6190",
+    "prdy_vrss": "-190",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.98",
     "hts_goal_prc": "7400",
     "stck_prdy_clpr": "4355",
-    "stft_esdg": "-1020",
-    "dprt": "-13.78"
+    "stft_esdg": "-1210",
+    "dprt": "-16.35"
   },
   {
     "stck_bsop_date": "20250113",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "6380",
-    "prdy_vrss": "230",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.74",
+    "stck_prpr": "6190",
+    "prdy_vrss": "-190",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.98",
     "hts_goal_prc": "9000",
     "stck_prdy_clpr": "5570",
-    "stft_esdg": "-2620",
-    "dprt": "-29.11"
+    "stft_esdg": "-2810",
+    "dprt": "-31.22"
   },
   {
     "stck_bsop_date": "20240927",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "6380",
-    "prdy_vrss": "230",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.74",
+    "stck_prpr": "6190",
+    "prdy_vrss": "-190",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.98",
     "hts_goal_prc": "10000",
     "stck_prdy_clpr": "5960",
-    "stft_esdg": "-3620",
-    "dprt": "-36.20"
+    "stft_esdg": "-3810",
+    "dprt": "-38.10"
   }
 ]

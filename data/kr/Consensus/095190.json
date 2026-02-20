@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "2310",
-    "prdy_vrss": "15",
+    "stck_prpr": "2335",
+    "prdy_vrss": "25",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.65",
+    "prdy_ctrt": "1.08",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3115",
-    "stft_esdg": "2310",
+    "stft_esdg": "2335",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "2310",
-    "prdy_vrss": "15",
+    "stck_prpr": "2335",
+    "prdy_vrss": "25",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.65",
+    "prdy_ctrt": "1.08",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2575",
-    "stft_esdg": "2310",
+    "stft_esdg": "2335",
     "dprt": "0.00"
   }
 ]

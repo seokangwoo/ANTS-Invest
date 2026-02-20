@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "46000",
     "stck_prdy_clpr": "29050",
-    "stft_esdg": "-15200",
-    "dprt": "-33.04"
+    "stft_esdg": "-13100",
+    "dprt": "-28.48"
   },
   {
     "stck_bsop_date": "20251117",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "42000",
     "stck_prdy_clpr": "29000",
-    "stft_esdg": "-11200",
-    "dprt": "-26.67"
+    "stft_esdg": "-9100",
+    "dprt": "-21.67"
   },
   {
     "stck_bsop_date": "20251117",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "40000",
     "stck_prdy_clpr": "29000",
-    "stft_esdg": "-9200",
-    "dprt": "-23.00"
+    "stft_esdg": "-7100",
+    "dprt": "-17.75"
   },
   {
     "stck_bsop_date": "20251105",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "35000",
     "stck_prdy_clpr": "30400",
-    "stft_esdg": "-4200",
-    "dprt": "-12.00"
+    "stft_esdg": "-2100",
+    "dprt": "-6.00"
   },
   {
     "stck_bsop_date": "20250729",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "35000",
     "stck_prdy_clpr": "25900",
-    "stft_esdg": "-4200",
-    "dprt": "-12.00"
+    "stft_esdg": "-2100",
+    "dprt": "-6.00"
   },
   {
     "stck_bsop_date": "20250717",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "30000",
     "stck_prdy_clpr": "23700",
-    "stft_esdg": "800",
-    "dprt": "2.67"
+    "stft_esdg": "2900",
+    "dprt": "9.67"
   },
   {
     "stck_bsop_date": "20250516",
@@ -116,14 +116,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "33000",
     "stck_prdy_clpr": "19370",
-    "stft_esdg": "-2200",
-    "dprt": "-6.67"
+    "stft_esdg": "-100",
+    "dprt": "-0.30"
   },
   {
     "stck_bsop_date": "20250516",
@@ -134,14 +134,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "25000",
     "stck_prdy_clpr": "19370",
-    "stft_esdg": "5800",
-    "dprt": "23.20"
+    "stft_esdg": "7900",
+    "dprt": "31.60"
   },
   {
     "stck_bsop_date": "20250421",
@@ -152,14 +152,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "23000",
     "stck_prdy_clpr": "17020",
-    "stft_esdg": "7800",
-    "dprt": "33.91"
+    "stft_esdg": "9900",
+    "dprt": "43.04"
   },
   {
     "stck_bsop_date": "20250311",
@@ -170,14 +170,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "29000",
     "stck_prdy_clpr": "19090",
-    "stft_esdg": "1800",
-    "dprt": "6.21"
+    "stft_esdg": "3900",
+    "dprt": "13.45"
   },
   {
     "stck_bsop_date": "20250206",
@@ -188,14 +188,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "21000",
     "stck_prdy_clpr": "14960",
-    "stft_esdg": "9800",
-    "dprt": "46.67"
+    "stft_esdg": "11900",
+    "dprt": "56.67"
   },
   {
     "stck_bsop_date": "20240517",
@@ -206,14 +206,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "이베스트투자",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "16500",
-    "stft_esdg": "10800",
-    "dprt": "54.00"
+    "stft_esdg": "12900",
+    "dprt": "64.50"
   },
   {
     "stck_bsop_date": "20240227",
@@ -224,13 +224,13 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "이베스트투자",
-    "stck_prpr": "30800",
-    "prdy_vrss": "1000",
+    "stck_prpr": "32900",
+    "prdy_vrss": "2100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.36",
+    "prdy_ctrt": "6.82",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "11720",
-    "stft_esdg": "13800",
-    "dprt": "81.18"
+    "stft_esdg": "15900",
+    "dprt": "93.53"
   }
 ]

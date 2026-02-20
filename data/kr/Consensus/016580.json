@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "11010",
-    "prdy_vrss": "250",
+    "stck_prpr": "11160",
+    "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.32",
+    "prdy_ctrt": "1.36",
     "hts_goal_prc": "14000",
     "stck_prdy_clpr": "10540",
-    "stft_esdg": "-2990",
-    "dprt": "-21.36"
+    "stft_esdg": "-2840",
+    "dprt": "-20.29"
   },
   {
     "stck_bsop_date": "20250325",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "11010",
-    "prdy_vrss": "250",
+    "stck_prpr": "11160",
+    "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.32",
+    "prdy_ctrt": "1.36",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "11530",
-    "stft_esdg": "-4990",
-    "dprt": "-31.19"
+    "stft_esdg": "-4840",
+    "dprt": "-30.25"
   },
   {
     "stck_bsop_date": "20240930",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Outperform",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "11010",
-    "prdy_vrss": "250",
+    "stck_prpr": "11160",
+    "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.32",
+    "prdy_ctrt": "1.36",
     "hts_goal_prc": "15400",
     "stck_prdy_clpr": "13460",
-    "stft_esdg": "-4390",
-    "dprt": "-28.51"
+    "stft_esdg": "-4240",
+    "dprt": "-27.53"
   },
   {
     "stck_bsop_date": "20240401",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "11010",
-    "prdy_vrss": "250",
+    "stck_prpr": "11160",
+    "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.32",
+    "prdy_ctrt": "1.36",
     "hts_goal_prc": "19000",
     "stck_prdy_clpr": "14540",
-    "stft_esdg": "-7990",
-    "dprt": "-42.05"
+    "stft_esdg": "-7840",
+    "dprt": "-41.26"
   }
 ]

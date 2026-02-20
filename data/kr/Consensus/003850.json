@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "10680",
-    "prdy_vrss": "1220",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.90",
+    "stck_prpr": "10350",
+    "prdy_vrss": "-330",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.09",
     "hts_goal_prc": "13000",
     "stck_prdy_clpr": "8660",
-    "stft_esdg": "-2320",
-    "dprt": "-17.85"
+    "stft_esdg": "-2650",
+    "dprt": "-20.38"
   },
   {
     "stck_bsop_date": "20250428",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10680",
-    "prdy_vrss": "1220",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.90",
+    "stck_prpr": "10350",
+    "prdy_vrss": "-330",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.09",
     "hts_goal_prc": "12000",
     "stck_prdy_clpr": "8520",
-    "stft_esdg": "-1320",
-    "dprt": "-11.00"
+    "stft_esdg": "-1650",
+    "dprt": "-13.75"
   },
   {
     "stck_bsop_date": "20241105",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "10680",
-    "prdy_vrss": "1220",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.90",
+    "stck_prpr": "10350",
+    "prdy_vrss": "-330",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.09",
     "hts_goal_prc": "13100",
     "stck_prdy_clpr": "10850",
-    "stft_esdg": "-2420",
-    "dprt": "-18.47"
+    "stft_esdg": "-2750",
+    "dprt": "-20.99"
   },
   {
     "stck_bsop_date": "20241007",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10680",
-    "prdy_vrss": "1220",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.90",
+    "stck_prpr": "10350",
+    "prdy_vrss": "-330",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.09",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "10640",
-    "stft_esdg": "-6320",
-    "dprt": "-37.18"
+    "stft_esdg": "-6650",
+    "dprt": "-39.12"
   },
   {
     "stck_bsop_date": "20240723",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB금융투자",
-    "stck_prpr": "10680",
-    "prdy_vrss": "1220",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.90",
+    "stck_prpr": "10350",
+    "prdy_vrss": "-330",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.09",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "10400",
-    "stft_esdg": "-4320",
-    "dprt": "-28.80"
+    "stft_esdg": "-4650",
+    "dprt": "-31.00"
   },
   {
     "stck_bsop_date": "20240513",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "10680",
-    "prdy_vrss": "1220",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.90",
+    "stck_prpr": "10350",
+    "prdy_vrss": "-330",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.09",
     "hts_goal_prc": "14000",
     "stck_prdy_clpr": "11000",
-    "stft_esdg": "-3320",
-    "dprt": "-23.71"
+    "stft_esdg": "-3650",
+    "dprt": "-26.07"
   },
   {
     "stck_bsop_date": "20240401",
@@ -116,14 +116,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "10680",
-    "prdy_vrss": "1220",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.90",
+    "stck_prpr": "10350",
+    "prdy_vrss": "-330",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.09",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "12940",
-    "stft_esdg": "-5320",
-    "dprt": "-33.25"
+    "stft_esdg": "-5650",
+    "dprt": "-35.31"
   },
   {
     "stck_bsop_date": "20240311",
@@ -134,14 +134,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "부국",
-    "stck_prpr": "10680",
-    "prdy_vrss": "1220",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.90",
+    "stck_prpr": "10350",
+    "prdy_vrss": "-330",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.09",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "12740",
-    "stft_esdg": "-5320",
-    "dprt": "-33.25"
+    "stft_esdg": "-5650",
+    "dprt": "-35.31"
   },
   {
     "stck_bsop_date": "20240226",
@@ -152,13 +152,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB금융투자",
-    "stck_prpr": "10680",
-    "prdy_vrss": "1220",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.90",
+    "stck_prpr": "10350",
+    "prdy_vrss": "-330",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.09",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "12110",
-    "stft_esdg": "-6320",
-    "dprt": "-37.18"
+    "stft_esdg": "-6650",
+    "dprt": "-39.12"
   }
 ]

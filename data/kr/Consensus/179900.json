@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "23150",
-    "prdy_vrss": "1600",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "7.42",
+    "stck_prpr": "22950",
+    "prdy_vrss": "-200",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.86",
     "hts_goal_prc": "40000",
     "stck_prdy_clpr": "27500",
-    "stft_esdg": "-16850",
-    "dprt": "-42.12"
+    "stft_esdg": "-17050",
+    "dprt": "-42.62"
   },
   {
     "stck_bsop_date": "20250701",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "23150",
-    "prdy_vrss": "1600",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "7.42",
+    "stck_prpr": "22950",
+    "prdy_vrss": "-200",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.86",
     "hts_goal_prc": "36000",
     "stck_prdy_clpr": "24700",
-    "stft_esdg": "-12850",
-    "dprt": "-35.69"
+    "stft_esdg": "-13050",
+    "dprt": "-36.25"
   },
   {
     "stck_bsop_date": "20240429",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "23150",
-    "prdy_vrss": "1600",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "7.42",
+    "stck_prpr": "22950",
+    "prdy_vrss": "-200",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.86",
     "hts_goal_prc": "60000",
     "stck_prdy_clpr": "34250",
-    "stft_esdg": "-36850",
-    "dprt": "-61.42"
+    "stft_esdg": "-37050",
+    "dprt": "-61.75"
   }
 ]

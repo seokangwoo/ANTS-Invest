@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "17170",
-    "prdy_vrss": "810",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.95",
+    "stck_prpr": "16930",
+    "prdy_vrss": "-240",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.40",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8280",
-    "stft_esdg": "17170",
+    "stft_esdg": "16930",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "17170",
-    "prdy_vrss": "810",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.95",
+    "stck_prpr": "16930",
+    "prdy_vrss": "-240",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.40",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "11790",
-    "stft_esdg": "17170",
+    "stft_esdg": "16930",
     "dprt": "0.00"
   }
 ]

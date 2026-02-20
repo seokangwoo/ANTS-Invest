@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "33050",
-    "prdy_vrss": "650",
+    "stck_prpr": "33450",
+    "prdy_vrss": "400",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.01",
+    "prdy_ctrt": "1.21",
     "hts_goal_prc": "22000",
     "stck_prdy_clpr": "16250",
-    "stft_esdg": "11050",
-    "dprt": "50.23"
+    "stft_esdg": "11450",
+    "dprt": "52.05"
   }
 ]

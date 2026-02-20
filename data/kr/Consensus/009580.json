@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "교보",
-    "stck_prpr": "2465",
-    "prdy_vrss": "15",
+    "stck_prpr": "2495",
+    "prdy_vrss": "30",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.61",
+    "prdy_ctrt": "1.22",
     "hts_goal_prc": "4000",
     "stck_prdy_clpr": "3040",
-    "stft_esdg": "-1535",
-    "dprt": "-38.38"
+    "stft_esdg": "-1505",
+    "dprt": "-37.62"
   }
 ]

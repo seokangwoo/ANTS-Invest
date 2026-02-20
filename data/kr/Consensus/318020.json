@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "3985",
-    "prdy_vrss": "-25",
+    "stck_prpr": "3925",
+    "prdy_vrss": "-60",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.62",
+    "prdy_ctrt": "-1.51",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "4370",
-    "stft_esdg": "3985",
+    "stft_esdg": "3925",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "3985",
-    "prdy_vrss": "-25",
+    "stck_prpr": "3925",
+    "prdy_vrss": "-60",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.62",
+    "prdy_ctrt": "-1.51",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "4250",
-    "stft_esdg": "3985",
+    "stft_esdg": "3925",
     "dprt": "0.00"
   }
 ]

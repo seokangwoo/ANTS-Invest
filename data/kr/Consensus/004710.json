@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "6390",
-    "prdy_vrss": "510",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "8.67",
+    "stck_prpr": "6330",
+    "prdy_vrss": "-60",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.94",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "5320",
-    "stft_esdg": "6390",
+    "stft_esdg": "6330",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "이베스트투자",
-    "stck_prpr": "6390",
-    "prdy_vrss": "510",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "8.67",
+    "stck_prpr": "6330",
+    "prdy_vrss": "-60",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.94",
     "hts_goal_prc": "8100",
     "stck_prdy_clpr": "5630",
-    "stft_esdg": "-1710",
-    "dprt": "-21.11"
+    "stft_esdg": "-1770",
+    "dprt": "-21.85"
   }
 ]

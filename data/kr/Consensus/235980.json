@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "6050",
-    "prdy_vrss": "190",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.24",
+    "stck_prpr": "5750",
+    "prdy_vrss": "-300",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.96",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3850",
-    "stft_esdg": "6050",
+    "stft_esdg": "5750",
     "dprt": "0.00"
   }
 ]

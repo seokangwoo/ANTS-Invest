@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유화",
-    "stck_prpr": "5680",
-    "prdy_vrss": "710",
+    "stck_prpr": "5900",
+    "prdy_vrss": "220",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "14.29",
+    "prdy_ctrt": "3.87",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3615",
-    "stft_esdg": "5680",
+    "stft_esdg": "5900",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유화",
-    "stck_prpr": "5680",
-    "prdy_vrss": "710",
+    "stck_prpr": "5900",
+    "prdy_vrss": "220",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "14.29",
+    "prdy_ctrt": "3.87",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2880",
-    "stft_esdg": "5680",
+    "stft_esdg": "5900",
     "dprt": "0.00"
   },
   {
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "5680",
-    "prdy_vrss": "710",
+    "stck_prpr": "5900",
+    "prdy_vrss": "220",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "14.29",
+    "prdy_ctrt": "3.87",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3105",
-    "stft_esdg": "5680",
+    "stft_esdg": "5900",
     "dprt": "0.00"
   }
 ]

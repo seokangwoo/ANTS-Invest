@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "8720",
-    "prdy_vrss": "280",
+    "stck_prpr": "8890",
+    "prdy_vrss": "170",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.32",
+    "prdy_ctrt": "1.95",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6550",
-    "stft_esdg": "8720",
+    "stft_esdg": "8890",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "8720",
-    "prdy_vrss": "280",
+    "stck_prpr": "8890",
+    "prdy_vrss": "170",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.32",
+    "prdy_ctrt": "1.95",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "11090",
-    "stft_esdg": "8720",
+    "stft_esdg": "8890",
     "dprt": "0.00"
   }
 ]

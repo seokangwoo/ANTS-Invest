@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "중립",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "24650",
-    "prdy_vrss": "350",
+    "stck_prpr": "25500",
+    "prdy_vrss": "850",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.44",
+    "prdy_ctrt": "3.45",
     "hts_goal_prc": "23000",
     "stck_prdy_clpr": "25150",
-    "stft_esdg": "1650",
-    "dprt": "7.17"
+    "stft_esdg": "2500",
+    "dprt": "10.87"
   },
   {
     "stck_bsop_date": "20240517",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "Trading BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "24650",
-    "prdy_vrss": "350",
+    "stck_prpr": "25500",
+    "prdy_vrss": "850",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.44",
+    "prdy_ctrt": "3.45",
     "hts_goal_prc": "33000",
     "stck_prdy_clpr": "30200",
-    "stft_esdg": "-8350",
-    "dprt": "-25.30"
+    "stft_esdg": "-7500",
+    "dprt": "-22.73"
   }
 ]

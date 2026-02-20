@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "3560",
-    "prdy_vrss": "110",
+    "stck_prpr": "3590",
+    "prdy_vrss": "30",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.19",
+    "prdy_ctrt": "0.84",
     "hts_goal_prc": "3200",
     "stck_prdy_clpr": "2685",
-    "stft_esdg": "360",
-    "dprt": "11.25"
+    "stft_esdg": "390",
+    "dprt": "12.19"
   }
 ]

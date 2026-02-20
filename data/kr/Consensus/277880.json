@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "5730",
-    "prdy_vrss": "90",
+    "stck_prpr": "5790",
+    "prdy_vrss": "60",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.60",
+    "prdy_ctrt": "1.05",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6780",
-    "stft_esdg": "5730",
+    "stft_esdg": "5790",
     "dprt": "0.00"
   }
 ]

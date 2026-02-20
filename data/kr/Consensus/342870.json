@@ -1,5 +1,23 @@
 [
   {
+    "stck_bsop_date": "20260219",
+    "stck_shrn_iscd": "342870",
+    "hts_kor_isnm": "오아",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신한투자증권",
+    "stck_prpr": "7790",
+    "prdy_vrss": "60",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.78",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "7510",
+    "stft_esdg": "7790",
+    "dprt": "0.00"
+  },
+  {
     "stck_bsop_date": "20251212",
     "stck_shrn_iscd": "342870",
     "hts_kor_isnm": "오아",
@@ -8,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "7730",
-    "prdy_vrss": "220",
+    "stck_prpr": "7790",
+    "prdy_vrss": "60",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.93",
+    "prdy_ctrt": "0.78",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8160",
-    "stft_esdg": "7730",
+    "stft_esdg": "7790",
     "dprt": "0.00"
   }
 ]

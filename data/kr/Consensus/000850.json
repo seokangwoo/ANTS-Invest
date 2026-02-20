@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한양",
-    "stck_prpr": "43700",
-    "prdy_vrss": "1050",
+    "stck_prpr": "44300",
+    "prdy_vrss": "600",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.46",
+    "prdy_ctrt": "1.37",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "29250",
-    "stft_esdg": "43700",
+    "stft_esdg": "44300",
     "dprt": "0.00"
   }
 ]

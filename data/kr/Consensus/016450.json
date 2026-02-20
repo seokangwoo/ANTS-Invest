@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "4275",
-    "prdy_vrss": "80",
+    "stck_prpr": "4285",
+    "prdy_vrss": "10",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.91",
+    "prdy_ctrt": "0.23",
     "hts_goal_prc": "5000",
     "stck_prdy_clpr": "4300",
-    "stft_esdg": "-725",
-    "dprt": "-14.50"
+    "stft_esdg": "-715",
+    "dprt": "-14.30"
   },
   {
     "stck_bsop_date": "20241021",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "4275",
-    "prdy_vrss": "80",
+    "stck_prpr": "4285",
+    "prdy_vrss": "10",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.91",
+    "prdy_ctrt": "0.23",
     "hts_goal_prc": "7400",
     "stck_prdy_clpr": "5200",
-    "stft_esdg": "-3125",
-    "dprt": "-42.23"
+    "stft_esdg": "-3115",
+    "dprt": "-42.09"
   }
 ]
