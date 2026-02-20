@@ -30,6 +30,9 @@ except Exception as e:
 # ETFs (Top Market Cap 200)
 try:
     print("Fetching US ETF list...")
+    # Fetch candidates from FDR
+    candidates = fdr.StockListing('ETF/US')['Symbol'].tolist()
+    etf_caps = []
     
     # Batch processing with yfinance could be faster?
     # yf.Tickers(" ".join(candidates)) might be too long URL.
