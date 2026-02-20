@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "80000",
     "stck_prdy_clpr": "70000",
-    "stft_esdg": "-4900",
-    "dprt": "-6.12"
+    "stft_esdg": "-4300",
+    "dprt": "-5.38"
   },
   {
     "stck_bsop_date": "20260119",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "73000",
     "stck_prdy_clpr": "59600",
-    "stft_esdg": "2100",
-    "dprt": "2.88"
+    "stft_esdg": "2700",
+    "dprt": "3.70"
   },
   {
     "stck_bsop_date": "20260106",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB증권",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "74000",
     "stck_prdy_clpr": "58300",
-    "stft_esdg": "1100",
-    "dprt": "1.49"
+    "stft_esdg": "1700",
+    "dprt": "2.30"
   },
   {
     "stck_bsop_date": "20251111",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "중립",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "56900",
-    "stft_esdg": "75100",
+    "stft_esdg": "75700",
     "dprt": "0.00"
   },
   {
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "60000",
     "stck_prdy_clpr": "50600",
-    "stft_esdg": "15100",
-    "dprt": "25.17"
+    "stft_esdg": "15700",
+    "dprt": "26.17"
   },
   {
     "stck_bsop_date": "20251106",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "66000",
     "stck_prdy_clpr": "47750",
-    "stft_esdg": "9100",
-    "dprt": "13.79"
+    "stft_esdg": "9700",
+    "dprt": "14.70"
   },
   {
     "stck_bsop_date": "20250923",
@@ -116,14 +116,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "67000",
     "stck_prdy_clpr": "46100",
-    "stft_esdg": "8100",
-    "dprt": "12.09"
+    "stft_esdg": "8700",
+    "dprt": "12.99"
   },
   {
     "stck_bsop_date": "20250717",
@@ -134,14 +134,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB증권",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "67000",
     "stck_prdy_clpr": "55500",
-    "stft_esdg": "8100",
-    "dprt": "12.09"
+    "stft_esdg": "8700",
+    "dprt": "12.99"
   },
   {
     "stck_bsop_date": "20250609",
@@ -152,14 +152,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "61000",
     "stck_prdy_clpr": "45550",
-    "stft_esdg": "14100",
-    "dprt": "23.11"
+    "stft_esdg": "14700",
+    "dprt": "24.10"
   },
   {
     "stck_bsop_date": "20250121",
@@ -170,14 +170,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB금융투자",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "57000",
     "stck_prdy_clpr": "38600",
-    "stft_esdg": "18100",
-    "dprt": "31.75"
+    "stft_esdg": "18700",
+    "dprt": "32.81"
   },
   {
     "stck_bsop_date": "20240807",
@@ -188,14 +188,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "56000",
     "stck_prdy_clpr": "44300",
-    "stft_esdg": "19100",
-    "dprt": "34.11"
+    "stft_esdg": "19700",
+    "dprt": "35.18"
   },
   {
     "stck_bsop_date": "20240708",
@@ -206,14 +206,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "58000",
     "stck_prdy_clpr": "48300",
-    "stft_esdg": "17100",
-    "dprt": "29.48"
+    "stft_esdg": "17700",
+    "dprt": "30.52"
   },
   {
     "stck_bsop_date": "20240705",
@@ -224,14 +224,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "61000",
     "stck_prdy_clpr": "47700",
-    "stft_esdg": "14100",
-    "dprt": "23.11"
+    "stft_esdg": "14700",
+    "dprt": "24.10"
   },
   {
     "stck_bsop_date": "20240425",
@@ -242,13 +242,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "43350",
-    "stft_esdg": "75100",
+    "stft_esdg": "75700",
     "dprt": "0.00"
   },
   {
@@ -260,14 +260,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "55000",
     "stck_prdy_clpr": "44700",
-    "stft_esdg": "20100",
-    "dprt": "36.55"
+    "stft_esdg": "20700",
+    "dprt": "37.64"
   },
   {
     "stck_bsop_date": "20240409",
@@ -278,14 +278,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "64000",
     "stck_prdy_clpr": "50800",
-    "stft_esdg": "11100",
-    "dprt": "17.34"
+    "stft_esdg": "11700",
+    "dprt": "18.28"
   },
   {
     "stck_bsop_date": "20240223",
@@ -296,13 +296,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "75100",
-    "prdy_vrss": "1900",
+    "stck_prpr": "75700",
+    "prdy_vrss": "2500",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.60",
+    "prdy_ctrt": "3.42",
     "hts_goal_prc": "60000",
     "stck_prdy_clpr": "48550",
-    "stft_esdg": "15100",
-    "dprt": "25.17"
+    "stft_esdg": "15700",
+    "dprt": "26.17"
   }
 ]
