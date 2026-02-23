@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "288500",
-    "prdy_vrss": "0",
-    "prdy_vrss_sign": "3",
-    "prdy_ctrt": "0.00",
+    "stck_prpr": "293500",
+    "prdy_vrss": "5000",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "1.73",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "268500",
-    "stft_esdg": "288500",
+    "stft_esdg": "293500",
     "dprt": "0.00"
   }
 ]

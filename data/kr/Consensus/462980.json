@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "2020",
-    "prdy_vrss": "126",
+    "stck_prpr": "2040",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "6.65",
+    "prdy_ctrt": "0.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1887",
-    "stft_esdg": "2020",
+    "stft_esdg": "2040",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "2020",
-    "prdy_vrss": "126",
+    "stck_prpr": "2040",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "6.65",
+    "prdy_ctrt": "0.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3150",
-    "stft_esdg": "2020",
+    "stft_esdg": "2040",
     "dprt": "0.00"
   }
 ]

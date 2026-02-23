@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "3510",
-    "prdy_vrss": "-235",
+    "stck_prpr": "3425",
+    "prdy_vrss": "-85",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-6.28",
+    "prdy_ctrt": "-2.42",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3740",
-    "stft_esdg": "3510",
+    "stft_esdg": "3425",
     "dprt": "0.00"
   }
 ]

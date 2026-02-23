@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "103000",
     "stck_prdy_clpr": "89400",
-    "stft_esdg": "-11000",
-    "dprt": "-10.68"
+    "stft_esdg": "-10300",
+    "dprt": "-10.00"
   },
   {
     "stck_bsop_date": "20260202",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "96000",
     "stck_prdy_clpr": "79600",
-    "stft_esdg": "-4000",
-    "dprt": "-4.17"
+    "stft_esdg": "-3300",
+    "dprt": "-3.44"
   },
   {
     "stck_bsop_date": "20260130",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "104000",
     "stck_prdy_clpr": "76400",
-    "stft_esdg": "-12000",
-    "dprt": "-11.54"
+    "stft_esdg": "-11300",
+    "dprt": "-10.87"
   },
   {
     "stck_bsop_date": "20250814",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "87500",
     "stck_prdy_clpr": "74700",
-    "stft_esdg": "4500",
-    "dprt": "5.14"
+    "stft_esdg": "5200",
+    "dprt": "5.94"
   },
   {
     "stck_bsop_date": "20250804",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "88000",
     "stck_prdy_clpr": "72600",
-    "stft_esdg": "4000",
-    "dprt": "4.55"
+    "stft_esdg": "4700",
+    "dprt": "5.34"
   },
   {
     "stck_bsop_date": "20250728",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "88000",
     "stck_prdy_clpr": "70900",
-    "stft_esdg": "4000",
-    "dprt": "4.55"
+    "stft_esdg": "4700",
+    "dprt": "5.34"
   },
   {
     "stck_bsop_date": "20250728",
@@ -116,14 +116,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "90000",
     "stck_prdy_clpr": "70900",
-    "stft_esdg": "2000",
-    "dprt": "2.22"
+    "stft_esdg": "2700",
+    "dprt": "3.00"
   },
   {
     "stck_bsop_date": "20250204",
@@ -134,14 +134,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "80000",
     "stck_prdy_clpr": "58500",
-    "stft_esdg": "12000",
-    "dprt": "15.00"
+    "stft_esdg": "12700",
+    "dprt": "15.88"
   },
   {
     "stck_bsop_date": "20250110",
@@ -152,14 +152,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "77000",
     "stck_prdy_clpr": "60200",
-    "stft_esdg": "15000",
-    "dprt": "19.48"
+    "stft_esdg": "15700",
+    "dprt": "20.39"
   },
   {
     "stck_bsop_date": "20241025",
@@ -170,13 +170,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "92000",
-    "prdy_vrss": "1500",
+    "stck_prpr": "92700",
+    "prdy_vrss": "700",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.66",
+    "prdy_ctrt": "0.76",
     "hts_goal_prc": "78000",
     "stck_prdy_clpr": "63000",
-    "stft_esdg": "14000",
-    "dprt": "17.95"
+    "stft_esdg": "14700",
+    "dprt": "18.85"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "64600",
-    "prdy_vrss": "3500",
+    "stck_prpr": "69700",
+    "prdy_vrss": "5100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "5.73",
+    "prdy_ctrt": "7.89",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "43550",
-    "stft_esdg": "64600",
+    "stft_esdg": "69700",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "64600",
-    "prdy_vrss": "3500",
+    "stck_prpr": "69700",
+    "prdy_vrss": "5100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "5.73",
+    "prdy_ctrt": "7.89",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "49650",
-    "stft_esdg": "64600",
+    "stft_esdg": "69700",
     "dprt": "0.00"
   }
 ]

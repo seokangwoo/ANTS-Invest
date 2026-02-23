@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "53100",
+    "stck_prpr": "51700",
     "prdy_vrss": "-1400",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.57",
+    "prdy_ctrt": "-2.64",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "40250",
-    "stft_esdg": "53100",
+    "stft_esdg": "51700",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "53100",
+    "stck_prpr": "51700",
     "prdy_vrss": "-1400",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.57",
+    "prdy_ctrt": "-2.64",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "67600",
-    "stft_esdg": "53100",
+    "stft_esdg": "51700",
     "dprt": "0.00"
   },
   {
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "53100",
+    "stck_prpr": "51700",
     "prdy_vrss": "-1400",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.57",
+    "prdy_ctrt": "-2.64",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "71000",
-    "stft_esdg": "53100",
+    "stft_esdg": "51700",
     "dprt": "0.00"
   }
 ]

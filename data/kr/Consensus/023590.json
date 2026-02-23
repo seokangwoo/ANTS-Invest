@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "60200",
-    "prdy_vrss": "2800",
+    "stck_prpr": "61500",
+    "prdy_vrss": "1300",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.88",
+    "prdy_ctrt": "2.16",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "19280",
-    "stft_esdg": "60200",
+    "stft_esdg": "61500",
     "dprt": "0.00"
   }
 ]

@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "MARKETPERFORM",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "5190",
-    "prdy_vrss": "30",
+    "stck_prpr": "5290",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.58",
+    "prdy_ctrt": "1.93",
     "hts_goal_prc": "5500",
     "stck_prdy_clpr": "5460",
-    "stft_esdg": "-310",
-    "dprt": "-5.64"
+    "stft_esdg": "-210",
+    "dprt": "-3.82"
   },
   {
     "stck_bsop_date": "20241017",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "5190",
-    "prdy_vrss": "30",
+    "stck_prpr": "5290",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.58",
+    "prdy_ctrt": "1.93",
     "hts_goal_prc": "12000",
     "stck_prdy_clpr": "7790",
-    "stft_esdg": "-6810",
-    "dprt": "-56.75"
+    "stft_esdg": "-6710",
+    "dprt": "-55.92"
   },
   {
     "stck_bsop_date": "20240823",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "5190",
-    "prdy_vrss": "30",
+    "stck_prpr": "5290",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.58",
+    "prdy_ctrt": "1.93",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "9760",
-    "stft_esdg": "-9810",
-    "dprt": "-65.40"
+    "stft_esdg": "-9710",
+    "dprt": "-64.73"
   },
   {
     "stck_bsop_date": "20240821",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "5190",
-    "prdy_vrss": "30",
+    "stck_prpr": "5290",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.58",
+    "prdy_ctrt": "1.93",
     "hts_goal_prc": "14500",
     "stck_prdy_clpr": "10380",
-    "stft_esdg": "-9310",
-    "dprt": "-64.21"
+    "stft_esdg": "-9210",
+    "dprt": "-63.52"
   },
   {
     "stck_bsop_date": "20240718",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "5190",
-    "prdy_vrss": "30",
+    "stck_prpr": "5290",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.58",
+    "prdy_ctrt": "1.93",
     "hts_goal_prc": "24000",
     "stck_prdy_clpr": "17500",
-    "stft_esdg": "-18810",
-    "dprt": "-78.38"
+    "stft_esdg": "-18710",
+    "dprt": "-77.96"
   },
   {
     "stck_bsop_date": "20240516",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "5190",
-    "prdy_vrss": "30",
+    "stck_prpr": "5290",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.58",
+    "prdy_ctrt": "1.93",
     "hts_goal_prc": "28000",
     "stck_prdy_clpr": "18130",
-    "stft_esdg": "-22810",
-    "dprt": "-81.46"
+    "stft_esdg": "-22710",
+    "dprt": "-81.11"
   },
   {
     "stck_bsop_date": "20240418",
@@ -116,14 +116,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "5190",
-    "prdy_vrss": "30",
+    "stck_prpr": "5290",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.58",
+    "prdy_ctrt": "1.93",
     "hts_goal_prc": "27000",
     "stck_prdy_clpr": "17110",
-    "stft_esdg": "-21810",
-    "dprt": "-80.78"
+    "stft_esdg": "-21710",
+    "dprt": "-80.41"
   },
   {
     "stck_bsop_date": "20240229",
@@ -134,13 +134,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "5190",
-    "prdy_vrss": "30",
+    "stck_prpr": "5290",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.58",
+    "prdy_ctrt": "1.93",
     "hts_goal_prc": "29000",
     "stck_prdy_clpr": "19490",
-    "stft_esdg": "-23810",
-    "dprt": "-82.10"
+    "stft_esdg": "-23710",
+    "dprt": "-81.76"
   }
 ]

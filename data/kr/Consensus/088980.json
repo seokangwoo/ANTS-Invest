@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "11830",
-    "prdy_vrss": "260",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.25",
+    "stck_prpr": "11700",
+    "prdy_vrss": "-130",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.10",
     "hts_goal_prc": "13000",
     "stck_prdy_clpr": "11440",
-    "stft_esdg": "-1170",
-    "dprt": "-9.00"
+    "stft_esdg": "-1300",
+    "dprt": "-10.00"
   },
   {
     "stck_bsop_date": "20250821",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "11830",
-    "prdy_vrss": "260",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.25",
+    "stck_prpr": "11700",
+    "prdy_vrss": "-130",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.10",
     "hts_goal_prc": "13600",
     "stck_prdy_clpr": "11630",
-    "stft_esdg": "-1770",
-    "dprt": "-13.01"
+    "stft_esdg": "-1900",
+    "dprt": "-13.97"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "24950",
-    "prdy_vrss": "150",
+    "stck_prpr": "25400",
+    "prdy_vrss": "450",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.60",
+    "prdy_ctrt": "1.80",
     "hts_goal_prc": "28000",
     "stck_prdy_clpr": "19440",
-    "stft_esdg": "-3050",
-    "dprt": "-10.89"
+    "stft_esdg": "-2600",
+    "dprt": "-9.29"
   }
 ]

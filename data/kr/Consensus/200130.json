@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "14560",
-    "prdy_vrss": "120",
+    "stck_prpr": "14610",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.83",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "12420",
-    "stft_esdg": "14560",
+    "stft_esdg": "14610",
     "dprt": "0.00"
   },
   {
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "14560",
-    "prdy_vrss": "120",
+    "stck_prpr": "14610",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.83",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "11780",
-    "stft_esdg": "-2440",
-    "dprt": "-14.35"
+    "stft_esdg": "-2390",
+    "dprt": "-14.06"
   },
   {
     "stck_bsop_date": "20241031",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "14560",
-    "prdy_vrss": "120",
+    "stck_prpr": "14610",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.83",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "14220",
-    "stft_esdg": "14560",
+    "stft_esdg": "14610",
     "dprt": "0.00"
   },
   {
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "14560",
-    "prdy_vrss": "120",
+    "stck_prpr": "14610",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.83",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "15440",
-    "stft_esdg": "-5440",
-    "dprt": "-27.20"
+    "stft_esdg": "-5390",
+    "dprt": "-26.95"
   },
   {
     "stck_bsop_date": "20240404",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "14560",
-    "prdy_vrss": "120",
+    "stck_prpr": "14610",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.83",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "15360",
-    "stft_esdg": "14560",
+    "stft_esdg": "14610",
     "dprt": "0.00"
   }
 ]

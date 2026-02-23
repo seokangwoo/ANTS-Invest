@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "4265",
-    "prdy_vrss": "-20",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.47",
+    "stck_prpr": "4270",
+    "prdy_vrss": "5",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.12",
     "hts_goal_prc": "5700",
     "stck_prdy_clpr": "4495",
-    "stft_esdg": "-1435",
-    "dprt": "-25.18"
+    "stft_esdg": "-1430",
+    "dprt": "-25.09"
   }
 ]

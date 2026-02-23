@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "40450",
+    "stck_prpr": "40600",
     "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
     "prdy_ctrt": "0.37",
     "hts_goal_prc": "60000",
     "stck_prdy_clpr": "43500",
-    "stft_esdg": "-19550",
-    "dprt": "-32.58"
+    "stft_esdg": "-19400",
+    "dprt": "-32.33"
   },
   {
     "stck_bsop_date": "20240311",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "40450",
+    "stck_prpr": "40600",
     "prdy_vrss": "150",
     "prdy_vrss_sign": "2",
     "prdy_ctrt": "0.37",
     "hts_goal_prc": "71000",
     "stck_prdy_clpr": "40400",
-    "stft_esdg": "-30550",
-    "dprt": "-43.03"
+    "stft_esdg": "-30400",
+    "dprt": "-42.82"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "교보",
-    "stck_prpr": "3045",
-    "prdy_vrss": "5",
+    "stck_prpr": "3075",
+    "prdy_vrss": "30",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.16",
+    "prdy_ctrt": "0.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2880",
-    "stft_esdg": "3045",
+    "stft_esdg": "3075",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한양",
-    "stck_prpr": "3045",
-    "prdy_vrss": "5",
+    "stck_prpr": "3075",
+    "prdy_vrss": "30",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.16",
+    "prdy_ctrt": "0.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3810",
-    "stft_esdg": "3045",
+    "stft_esdg": "3075",
     "dprt": "0.00"
   }
 ]

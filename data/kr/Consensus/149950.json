@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "11150",
-    "prdy_vrss": "350",
+    "stck_prpr": "11660",
+    "prdy_vrss": "510",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.24",
+    "prdy_ctrt": "4.57",
     "hts_goal_prc": "14000",
     "stck_prdy_clpr": "10270",
-    "stft_esdg": "-2850",
-    "dprt": "-20.36"
+    "stft_esdg": "-2340",
+    "dprt": "-16.71"
   },
   {
     "stck_bsop_date": "20250901",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "11150",
-    "prdy_vrss": "350",
+    "stck_prpr": "11660",
+    "prdy_vrss": "510",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.24",
+    "prdy_ctrt": "4.57",
     "hts_goal_prc": "13000",
     "stck_prdy_clpr": "8140",
-    "stft_esdg": "-1850",
-    "dprt": "-14.23"
+    "stft_esdg": "-1340",
+    "dprt": "-10.31"
   },
   {
     "stck_bsop_date": "20250219",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "11150",
-    "prdy_vrss": "350",
+    "stck_prpr": "11660",
+    "prdy_vrss": "510",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.24",
+    "prdy_ctrt": "4.57",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "9370",
-    "stft_esdg": "-4850",
-    "dprt": "-30.31"
+    "stft_esdg": "-4340",
+    "dprt": "-27.12"
   },
   {
     "stck_bsop_date": "20241125",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "11150",
-    "prdy_vrss": "350",
+    "stck_prpr": "11660",
+    "prdy_vrss": "510",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.24",
+    "prdy_ctrt": "4.57",
     "hts_goal_prc": "16500",
     "stck_prdy_clpr": "8800",
-    "stft_esdg": "-5350",
-    "dprt": "-32.42"
+    "stft_esdg": "-4840",
+    "dprt": "-29.33"
   },
   {
     "stck_bsop_date": "20240903",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "11150",
-    "prdy_vrss": "350",
+    "stck_prpr": "11660",
+    "prdy_vrss": "510",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.24",
+    "prdy_ctrt": "4.57",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "11820",
-    "stft_esdg": "11150",
+    "stft_esdg": "11660",
     "dprt": "0.00"
   },
   {
@@ -98,13 +98,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "11150",
-    "prdy_vrss": "350",
+    "stck_prpr": "11660",
+    "prdy_vrss": "510",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.24",
+    "prdy_ctrt": "4.57",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "13050",
-    "stft_esdg": "-8850",
-    "dprt": "-44.25"
+    "stft_esdg": "-8340",
+    "dprt": "-41.70"
   }
 ]

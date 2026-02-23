@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "28600",
-    "prdy_vrss": "100",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.35",
+    "stck_prpr": "28400",
+    "prdy_vrss": "-200",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.70",
     "hts_goal_prc": "60000",
     "stck_prdy_clpr": "45000",
-    "stft_esdg": "-31400",
-    "dprt": "-52.33"
+    "stft_esdg": "-31600",
+    "dprt": "-52.67"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "8850",
-    "prdy_vrss": "-130",
+    "stck_prpr": "8840",
+    "prdy_vrss": "-10",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.45",
+    "prdy_ctrt": "-0.11",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8210",
-    "stft_esdg": "8850",
+    "stft_esdg": "8840",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "8850",
-    "prdy_vrss": "-130",
+    "stck_prpr": "8840",
+    "prdy_vrss": "-10",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.45",
+    "prdy_ctrt": "-0.11",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8800",
-    "stft_esdg": "8850",
+    "stft_esdg": "8840",
     "dprt": "0.00"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "1713",
-    "prdy_vrss": "-29",
+    "stck_prpr": "1709",
+    "prdy_vrss": "-4",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.66",
+    "prdy_ctrt": "-0.23",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1798",
-    "stft_esdg": "1713",
+    "stft_esdg": "1709",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "1713",
-    "prdy_vrss": "-29",
+    "stck_prpr": "1709",
+    "prdy_vrss": "-4",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.66",
+    "prdy_ctrt": "-0.23",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1676",
-    "stft_esdg": "1713",
+    "stft_esdg": "1709",
     "dprt": "0.00"
   }
 ]

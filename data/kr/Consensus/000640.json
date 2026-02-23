@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "117700",
-    "prdy_vrss": "2100",
+    "stck_prpr": "120500",
+    "prdy_vrss": "2800",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.82",
+    "prdy_ctrt": "2.38",
     "hts_goal_prc": "170000",
     "stck_prdy_clpr": "109600",
-    "stft_esdg": "-52300",
-    "dprt": "-30.76"
+    "stft_esdg": "-49500",
+    "dprt": "-29.12"
   },
   {
     "stck_bsop_date": "20250310",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "117700",
-    "prdy_vrss": "2100",
+    "stck_prpr": "120500",
+    "prdy_vrss": "2800",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.82",
+    "prdy_ctrt": "2.38",
     "hts_goal_prc": "140000",
     "stck_prdy_clpr": "98100",
-    "stft_esdg": "-22300",
-    "dprt": "-15.93"
+    "stft_esdg": "-19500",
+    "dprt": "-13.93"
   },
   {
     "stck_bsop_date": "20241129",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB금융투자",
-    "stck_prpr": "117700",
-    "prdy_vrss": "2100",
+    "stck_prpr": "120500",
+    "prdy_vrss": "2800",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.82",
+    "prdy_ctrt": "2.38",
     "hts_goal_prc": "145000",
     "stck_prdy_clpr": "109300",
-    "stft_esdg": "-27300",
-    "dprt": "-18.83"
+    "stft_esdg": "-24500",
+    "dprt": "-16.90"
   },
   {
     "stck_bsop_date": "20240503",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "117700",
-    "prdy_vrss": "2100",
+    "stck_prpr": "120500",
+    "prdy_vrss": "2800",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.82",
+    "prdy_ctrt": "2.38",
     "hts_goal_prc": "150000",
     "stck_prdy_clpr": "109300",
-    "stft_esdg": "-32300",
-    "dprt": "-21.53"
+    "stft_esdg": "-29500",
+    "dprt": "-19.67"
   },
   {
     "stck_bsop_date": "20240401",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하이투자",
-    "stck_prpr": "117700",
-    "prdy_vrss": "2100",
+    "stck_prpr": "120500",
+    "prdy_vrss": "2800",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.82",
+    "prdy_ctrt": "2.38",
     "hts_goal_prc": "155000",
     "stck_prdy_clpr": "118000",
-    "stft_esdg": "-37300",
-    "dprt": "-24.06"
+    "stft_esdg": "-34500",
+    "dprt": "-22.26"
   }
 ]

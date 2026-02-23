@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "8730",
-    "prdy_vrss": "70",
+    "stck_prpr": "9410",
+    "prdy_vrss": "680",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.81",
+    "prdy_ctrt": "7.79",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6520",
-    "stft_esdg": "8730",
+    "stft_esdg": "9410",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "8730",
-    "prdy_vrss": "70",
+    "stck_prpr": "9410",
+    "prdy_vrss": "680",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.81",
+    "prdy_ctrt": "7.79",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6300",
-    "stft_esdg": "8730",
+    "stft_esdg": "9410",
     "dprt": "0.00"
   },
   {
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "8730",
-    "prdy_vrss": "70",
+    "stck_prpr": "9410",
+    "prdy_vrss": "680",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.81",
+    "prdy_ctrt": "7.79",
     "hts_goal_prc": "5500",
     "stck_prdy_clpr": "4615",
-    "stft_esdg": "3230",
-    "dprt": "58.73"
+    "stft_esdg": "3910",
+    "dprt": "71.09"
   },
   {
     "stck_bsop_date": "20241125",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "8730",
-    "prdy_vrss": "70",
+    "stck_prpr": "9410",
+    "prdy_vrss": "680",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.81",
+    "prdy_ctrt": "7.79",
     "hts_goal_prc": "4500",
     "stck_prdy_clpr": "3975",
-    "stft_esdg": "4230",
-    "dprt": "94.00"
+    "stft_esdg": "4910",
+    "dprt": "109.11"
   },
   {
     "stck_bsop_date": "20240528",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "8730",
-    "prdy_vrss": "70",
+    "stck_prpr": "9410",
+    "prdy_vrss": "680",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.81",
+    "prdy_ctrt": "7.79",
     "hts_goal_prc": "5500",
     "stck_prdy_clpr": "4990",
-    "stft_esdg": "3230",
-    "dprt": "58.73"
+    "stft_esdg": "3910",
+    "dprt": "71.09"
   }
 ]

@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "18520",
-    "prdy_vrss": "-130",
+    "stck_prpr": "18500",
+    "prdy_vrss": "-20",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.70",
+    "prdy_ctrt": "-0.11",
     "hts_goal_prc": "25000",
     "stck_prdy_clpr": "15310",
-    "stft_esdg": "-6480",
-    "dprt": "-25.92"
+    "stft_esdg": "-6500",
+    "dprt": "-26.00"
   },
   {
     "stck_bsop_date": "20240624",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "18520",
-    "prdy_vrss": "-130",
+    "stck_prpr": "18500",
+    "prdy_vrss": "-20",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.70",
+    "prdy_ctrt": "-0.11",
     "hts_goal_prc": "27000",
     "stck_prdy_clpr": "19570",
-    "stft_esdg": "-8480",
-    "dprt": "-31.41"
+    "stft_esdg": "-8500",
+    "dprt": "-31.48"
   }
 ]

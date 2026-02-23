@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "46000",
     "stck_prdy_clpr": "38250",
-    "stft_esdg": "1700",
-    "dprt": "3.70"
+    "stft_esdg": "1650",
+    "dprt": "3.59"
   },
   {
     "stck_bsop_date": "20260202",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "47000",
     "stck_prdy_clpr": "38250",
-    "stft_esdg": "700",
-    "dprt": "1.49"
+    "stft_esdg": "650",
+    "dprt": "1.38"
   },
   {
     "stck_bsop_date": "20260202",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "55000",
     "stck_prdy_clpr": "38250",
-    "stft_esdg": "-7300",
-    "dprt": "-13.27"
+    "stft_esdg": "-7350",
+    "dprt": "-13.36"
   },
   {
     "stck_bsop_date": "20260202",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "중립",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "38000",
     "stck_prdy_clpr": "38250",
-    "stft_esdg": "9700",
-    "dprt": "25.53"
+    "stft_esdg": "9650",
+    "dprt": "25.39"
   },
   {
     "stck_bsop_date": "20260202",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "43000",
     "stck_prdy_clpr": "38250",
-    "stft_esdg": "4700",
-    "dprt": "10.93"
+    "stft_esdg": "4650",
+    "dprt": "10.81"
   },
   {
     "stck_bsop_date": "20260119",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "42000",
     "stck_prdy_clpr": "35650",
-    "stft_esdg": "5700",
-    "dprt": "13.57"
+    "stft_esdg": "5650",
+    "dprt": "13.45"
   },
   {
     "stck_bsop_date": "20250804",
@@ -116,14 +116,14 @@
     "rgbf_invt_opnn": "중립",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "30000",
     "stck_prdy_clpr": "29600",
-    "stft_esdg": "17700",
-    "dprt": "59.00"
+    "stft_esdg": "17650",
+    "dprt": "58.83"
   },
   {
     "stck_bsop_date": "20250710",
@@ -134,14 +134,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "36000",
     "stck_prdy_clpr": "31000",
-    "stft_esdg": "11700",
-    "dprt": "32.50"
+    "stft_esdg": "11650",
+    "dprt": "32.36"
   },
   {
     "stck_bsop_date": "20250708",
@@ -152,14 +152,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "38000",
     "stck_prdy_clpr": "30150",
-    "stft_esdg": "9700",
-    "dprt": "25.53"
+    "stft_esdg": "9650",
+    "dprt": "25.39"
   },
   {
     "stck_bsop_date": "20250702",
@@ -170,14 +170,14 @@
     "rgbf_invt_opnn": "중립",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "33000",
     "stck_prdy_clpr": "32000",
-    "stft_esdg": "14700",
-    "dprt": "44.55"
+    "stft_esdg": "14650",
+    "dprt": "44.39"
   },
   {
     "stck_bsop_date": "20250423",
@@ -188,14 +188,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "37000",
     "stck_prdy_clpr": "25500",
-    "stft_esdg": "10700",
-    "dprt": "28.92"
+    "stft_esdg": "10650",
+    "dprt": "28.78"
   },
   {
     "stck_bsop_date": "20250408",
@@ -206,14 +206,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "35000",
     "stck_prdy_clpr": "23900",
-    "stft_esdg": "12700",
-    "dprt": "36.29"
+    "stft_esdg": "12650",
+    "dprt": "36.14"
   },
   {
     "stck_bsop_date": "20250210",
@@ -224,14 +224,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "34000",
     "stck_prdy_clpr": "26300",
-    "stft_esdg": "13700",
-    "dprt": "40.29"
+    "stft_esdg": "13650",
+    "dprt": "40.15"
   },
   {
     "stck_bsop_date": "20250207",
@@ -242,14 +242,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "33000",
     "stck_prdy_clpr": "24900",
-    "stft_esdg": "14700",
-    "dprt": "44.55"
+    "stft_esdg": "14650",
+    "dprt": "44.39"
   },
   {
     "stck_bsop_date": "20250107",
@@ -260,14 +260,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "37000",
     "stck_prdy_clpr": "27750",
-    "stft_esdg": "10700",
-    "dprt": "28.92"
+    "stft_esdg": "10650",
+    "dprt": "28.78"
   },
   {
     "stck_bsop_date": "20241101",
@@ -278,14 +278,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "37000",
     "stck_prdy_clpr": "30500",
-    "stft_esdg": "10700",
-    "dprt": "28.92"
+    "stft_esdg": "10650",
+    "dprt": "28.78"
   },
   {
     "stck_bsop_date": "20240820",
@@ -296,14 +296,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "39000",
     "stck_prdy_clpr": "29800",
-    "stft_esdg": "8700",
-    "dprt": "22.31"
+    "stft_esdg": "8650",
+    "dprt": "22.18"
   },
   {
     "stck_bsop_date": "20240805",
@@ -314,14 +314,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "33000",
     "stck_prdy_clpr": "30150",
-    "stft_esdg": "14700",
-    "dprt": "44.55"
+    "stft_esdg": "14650",
+    "dprt": "44.39"
   },
   {
     "stck_bsop_date": "20240502",
@@ -332,13 +332,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "47700",
-    "prdy_vrss": "-150",
+    "stck_prpr": "47650",
+    "prdy_vrss": "-50",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.31",
+    "prdy_ctrt": "-0.10",
     "hts_goal_prc": "35000",
     "stck_prdy_clpr": "28000",
-    "stft_esdg": "12700",
-    "dprt": "36.29"
+    "stft_esdg": "12650",
+    "dprt": "36.14"
   }
 ]
