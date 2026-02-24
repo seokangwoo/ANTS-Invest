@@ -1,5 +1,23 @@
 [
   {
+    "stck_bsop_date": "20260223",
+    "stck_shrn_iscd": "035810",
+    "hts_kor_isnm": "이지홀딩스",
+    "invt_opnn": "매수",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "매수",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신한투자증권",
+    "stck_prpr": "8530",
+    "prdy_vrss": "810",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "10.49",
+    "hts_goal_prc": "7700",
+    "stck_prdy_clpr": "5940",
+    "stft_esdg": "830",
+    "dprt": "10.78"
+  },
+  {
     "stck_bsop_date": "20260107",
     "stck_shrn_iscd": "035810",
     "hts_kor_isnm": "이지홀딩스",
@@ -8,13 +26,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "7720",
-    "prdy_vrss": "1780",
-    "prdy_vrss_sign": "1",
-    "prdy_ctrt": "29.97",
+    "stck_prpr": "8530",
+    "prdy_vrss": "810",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "10.49",
     "hts_goal_prc": "6800",
     "stck_prdy_clpr": "4575",
-    "stft_esdg": "920",
-    "dprt": "13.53"
+    "stft_esdg": "1730",
+    "dprt": "25.44"
   }
 ]

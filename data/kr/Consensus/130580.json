@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "6000",
-    "prdy_vrss": "100",
+    "stck_prpr": "6030",
+    "prdy_vrss": "30",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.69",
+    "prdy_ctrt": "0.50",
     "hts_goal_prc": "7000",
     "stck_prdy_clpr": "4770",
-    "stft_esdg": "-1000",
-    "dprt": "-14.29"
+    "stft_esdg": "-970",
+    "dprt": "-13.86"
   }
 ]

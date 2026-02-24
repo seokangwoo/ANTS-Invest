@@ -1,5 +1,23 @@
 [
   {
+    "stck_bsop_date": "20260223",
+    "stck_shrn_iscd": "476830",
+    "hts_kor_isnm": "알지노믹스",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "유진투자",
+    "stck_prpr": "144000",
+    "prdy_vrss": "4000",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.86",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "136900",
+    "stft_esdg": "144000",
+    "dprt": "0.00"
+  },
+  {
     "stck_bsop_date": "20260210",
     "stck_shrn_iscd": "476830",
     "hts_kor_isnm": "알지노믹스",
@@ -8,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "140000",
-    "prdy_vrss": "3100",
+    "stck_prpr": "144000",
+    "prdy_vrss": "4000",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.26",
+    "prdy_ctrt": "2.86",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "133200",
-    "stft_esdg": "140000",
+    "stft_esdg": "144000",
     "dprt": "0.00"
   }
 ]

@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "2065",
-    "prdy_vrss": "-10",
+    "stck_prpr": "2060",
+    "prdy_vrss": "-5",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-0.24",
     "hts_goal_prc": "2300",
     "stck_prdy_clpr": "2015",
-    "stft_esdg": "-235",
-    "dprt": "-10.22"
+    "stft_esdg": "-240",
+    "dprt": "-10.43"
   },
   {
     "stck_bsop_date": "20241128",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "2065",
-    "prdy_vrss": "-10",
+    "stck_prpr": "2060",
+    "prdy_vrss": "-5",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-0.24",
     "hts_goal_prc": "2600",
     "stck_prdy_clpr": "2265",
-    "stft_esdg": "-535",
-    "dprt": "-20.58"
+    "stft_esdg": "-540",
+    "dprt": "-20.77"
   },
   {
     "stck_bsop_date": "20240919",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "2065",
-    "prdy_vrss": "-10",
+    "stck_prpr": "2060",
+    "prdy_vrss": "-5",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-0.24",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2700",
-    "stft_esdg": "2065",
+    "stft_esdg": "2060",
     "dprt": "0.00"
   },
   {
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "2065",
-    "prdy_vrss": "-10",
+    "stck_prpr": "2060",
+    "prdy_vrss": "-5",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-0.24",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2660",
-    "stft_esdg": "2065",
+    "stft_esdg": "2060",
     "dprt": "0.00"
   },
   {
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "2065",
-    "prdy_vrss": "-10",
+    "stck_prpr": "2060",
+    "prdy_vrss": "-5",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-0.24",
     "hts_goal_prc": "3500",
     "stck_prdy_clpr": "3095",
-    "stft_esdg": "-1435",
-    "dprt": "-41.00"
+    "stft_esdg": "-1440",
+    "dprt": "-41.14"
   }
 ]

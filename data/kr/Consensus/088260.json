@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "4830",
-    "prdy_vrss": "35",
+    "stck_prpr": "4895",
+    "prdy_vrss": "65",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.73",
+    "prdy_ctrt": "1.35",
     "hts_goal_prc": "6000",
     "stck_prdy_clpr": "4595",
-    "stft_esdg": "-1170",
-    "dprt": "-19.50"
+    "stft_esdg": "-1105",
+    "dprt": "-18.42"
   },
   {
     "stck_bsop_date": "20250331",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "4830",
-    "prdy_vrss": "35",
+    "stck_prpr": "4895",
+    "prdy_vrss": "65",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.73",
+    "prdy_ctrt": "1.35",
     "hts_goal_prc": "5700",
     "stck_prdy_clpr": "4305",
-    "stft_esdg": "-870",
-    "dprt": "-15.26"
+    "stft_esdg": "-805",
+    "dprt": "-14.12"
   },
   {
     "stck_bsop_date": "20241028",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "4830",
-    "prdy_vrss": "35",
+    "stck_prpr": "4895",
+    "prdy_vrss": "65",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.73",
+    "prdy_ctrt": "1.35",
     "hts_goal_prc": "6500",
     "stck_prdy_clpr": "4455",
-    "stft_esdg": "-1670",
-    "dprt": "-25.69"
+    "stft_esdg": "-1605",
+    "dprt": "-24.69"
   },
   {
     "stck_bsop_date": "20241023",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "4830",
-    "prdy_vrss": "35",
+    "stck_prpr": "4895",
+    "prdy_vrss": "65",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.73",
+    "prdy_ctrt": "1.35",
     "hts_goal_prc": "4800",
     "stck_prdy_clpr": "5040",
-    "stft_esdg": "30",
-    "dprt": "0.62"
+    "stft_esdg": "95",
+    "dprt": "1.98"
   },
   {
     "stck_bsop_date": "20240423",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "4830",
-    "prdy_vrss": "35",
+    "stck_prpr": "4895",
+    "prdy_vrss": "65",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.73",
+    "prdy_ctrt": "1.35",
     "hts_goal_prc": "5200",
     "stck_prdy_clpr": "4785",
-    "stft_esdg": "-370",
-    "dprt": "-7.12"
+    "stft_esdg": "-305",
+    "dprt": "-5.87"
   }
 ]

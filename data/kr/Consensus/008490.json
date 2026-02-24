@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "22950",
-    "prdy_vrss": "-550",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.34",
+    "stck_prpr": "23250",
+    "prdy_vrss": "300",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "1.31",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "23800",
-    "stft_esdg": "22950",
+    "stft_esdg": "23250",
     "dprt": "0.00"
   },
   {
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "22950",
-    "prdy_vrss": "-550",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.34",
+    "stck_prpr": "23250",
+    "prdy_vrss": "300",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "1.31",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "16170",
-    "stft_esdg": "5950",
-    "dprt": "35.00"
+    "stft_esdg": "6250",
+    "dprt": "36.76"
   },
   {
     "stck_bsop_date": "20241114",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "22950",
-    "prdy_vrss": "-550",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.34",
+    "stck_prpr": "23250",
+    "prdy_vrss": "300",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "1.31",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "13300",
-    "stft_esdg": "7950",
-    "dprt": "53.00"
+    "stft_esdg": "8250",
+    "dprt": "55.00"
   },
   {
     "stck_bsop_date": "20240814",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "22950",
-    "prdy_vrss": "-550",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.34",
+    "stck_prpr": "23250",
+    "prdy_vrss": "300",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "1.31",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "17800",
-    "stft_esdg": "2950",
-    "dprt": "14.75"
+    "stft_esdg": "3250",
+    "dprt": "16.25"
   },
   {
     "stck_bsop_date": "20240516",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "이베스트투자",
-    "stck_prpr": "22950",
-    "prdy_vrss": "-550",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.34",
+    "stck_prpr": "23250",
+    "prdy_vrss": "300",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "1.31",
     "hts_goal_prc": "25000",
     "stck_prdy_clpr": "22450",
-    "stft_esdg": "-2050",
-    "dprt": "-8.20"
+    "stft_esdg": "-1750",
+    "dprt": "-7.00"
   }
 ]

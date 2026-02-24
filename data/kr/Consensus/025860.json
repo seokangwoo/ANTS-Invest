@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "7640",
-    "prdy_vrss": "40",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.53",
+    "stck_prpr": "7580",
+    "prdy_vrss": "-60",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.79",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6840",
-    "stft_esdg": "7640",
+    "stft_esdg": "7580",
     "dprt": "0.00"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "2045",
-    "prdy_vrss": "15",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.74",
+    "stck_prpr": "2035",
+    "prdy_vrss": "-10",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.49",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2870",
-    "stft_esdg": "2045",
+    "stft_esdg": "2035",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "2045",
-    "prdy_vrss": "15",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.74",
+    "stck_prpr": "2035",
+    "prdy_vrss": "-10",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.49",
     "hts_goal_prc": "4200",
     "stck_prdy_clpr": "3810",
-    "stft_esdg": "-2155",
-    "dprt": "-51.31"
+    "stft_esdg": "-2165",
+    "dprt": "-51.55"
   }
 ]

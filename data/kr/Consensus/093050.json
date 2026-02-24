@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "23700",
-    "prdy_vrss": "400",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.72",
+    "stck_prpr": "22750",
+    "prdy_vrss": "-950",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.01",
     "hts_goal_prc": "30000",
     "stck_prdy_clpr": "21350",
-    "stft_esdg": "-6300",
-    "dprt": "-21.00"
+    "stft_esdg": "-7250",
+    "dprt": "-24.17"
   }
 ]

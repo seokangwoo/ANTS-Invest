@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "교보",
-    "stck_prpr": "3515",
-    "prdy_vrss": "40",
+    "stck_prpr": "3975",
+    "prdy_vrss": "460",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.15",
+    "prdy_ctrt": "13.09",
     "hts_goal_prc": "3200",
     "stck_prdy_clpr": "2740",
-    "stft_esdg": "315",
-    "dprt": "9.84"
+    "stft_esdg": "775",
+    "dprt": "24.22"
   },
   {
     "stck_bsop_date": "20250526",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "3515",
-    "prdy_vrss": "40",
+    "stck_prpr": "3975",
+    "prdy_vrss": "460",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.15",
+    "prdy_ctrt": "13.09",
     "hts_goal_prc": "3500",
     "stck_prdy_clpr": "2500",
-    "stft_esdg": "15",
-    "dprt": "0.43"
+    "stft_esdg": "475",
+    "dprt": "13.57"
   },
   {
     "stck_bsop_date": "20241125",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "3515",
-    "prdy_vrss": "40",
+    "stck_prpr": "3975",
+    "prdy_vrss": "460",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.15",
+    "prdy_ctrt": "13.09",
     "hts_goal_prc": "3000",
     "stck_prdy_clpr": "2350",
-    "stft_esdg": "515",
-    "dprt": "17.17"
+    "stft_esdg": "975",
+    "dprt": "32.50"
   },
   {
     "stck_bsop_date": "20241122",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "3515",
-    "prdy_vrss": "40",
+    "stck_prpr": "3975",
+    "prdy_vrss": "460",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.15",
+    "prdy_ctrt": "13.09",
     "hts_goal_prc": "3400",
     "stck_prdy_clpr": "2355",
-    "stft_esdg": "115",
-    "dprt": "3.38"
+    "stft_esdg": "575",
+    "dprt": "16.91"
   },
   {
     "stck_bsop_date": "20240903",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한화투자",
-    "stck_prpr": "3515",
-    "prdy_vrss": "40",
+    "stck_prpr": "3975",
+    "prdy_vrss": "460",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.15",
+    "prdy_ctrt": "13.09",
     "hts_goal_prc": "3800",
     "stck_prdy_clpr": "2650",
-    "stft_esdg": "-285",
-    "dprt": "-7.50"
+    "stft_esdg": "175",
+    "dprt": "4.61"
   },
   {
     "stck_bsop_date": "20240823",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "교보",
-    "stck_prpr": "3515",
-    "prdy_vrss": "40",
+    "stck_prpr": "3975",
+    "prdy_vrss": "460",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.15",
+    "prdy_ctrt": "13.09",
     "hts_goal_prc": "3500",
     "stck_prdy_clpr": "2650",
-    "stft_esdg": "15",
-    "dprt": "0.43"
+    "stft_esdg": "475",
+    "dprt": "13.57"
   },
   {
     "stck_bsop_date": "20240516",
@@ -116,13 +116,13 @@
     "rgbf_invt_opnn": "Trading BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "3515",
-    "prdy_vrss": "40",
+    "stck_prpr": "3975",
+    "prdy_vrss": "460",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.15",
+    "prdy_ctrt": "13.09",
     "hts_goal_prc": "2300",
     "stck_prdy_clpr": "2015",
-    "stft_esdg": "1215",
-    "dprt": "52.83"
+    "stft_esdg": "1675",
+    "dprt": "72.83"
   }
 ]

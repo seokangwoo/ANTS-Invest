@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "1962",
-    "prdy_vrss": "7",
+    "stck_prpr": "1987",
+    "prdy_vrss": "25",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.36",
+    "prdy_ctrt": "1.27",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2305",
-    "stft_esdg": "1962",
+    "stft_esdg": "1987",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "1962",
-    "prdy_vrss": "7",
+    "stck_prpr": "1987",
+    "prdy_vrss": "25",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.36",
+    "prdy_ctrt": "1.27",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2165",
-    "stft_esdg": "1962",
+    "stft_esdg": "1987",
     "dprt": "0.00"
   },
   {
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "1962",
-    "prdy_vrss": "7",
+    "stck_prpr": "1987",
+    "prdy_vrss": "25",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.36",
+    "prdy_ctrt": "1.27",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2000",
-    "stft_esdg": "1962",
+    "stft_esdg": "1987",
     "dprt": "0.00"
   }
 ]

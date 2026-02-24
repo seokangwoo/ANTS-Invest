@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "7310",
-    "prdy_vrss": "110",
+    "stck_prpr": "7340",
+    "prdy_vrss": "30",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.53",
+    "prdy_ctrt": "0.41",
     "hts_goal_prc": "10000",
     "stck_prdy_clpr": "6200",
-    "stft_esdg": "-2690",
-    "dprt": "-26.90"
+    "stft_esdg": "-2660",
+    "dprt": "-26.60"
   },
   {
     "stck_bsop_date": "20250217",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "7310",
-    "prdy_vrss": "110",
+    "stck_prpr": "7340",
+    "prdy_vrss": "30",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.53",
+    "prdy_ctrt": "0.41",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "7330",
-    "stft_esdg": "7310",
+    "stft_esdg": "7340",
     "dprt": "0.00"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "8810",
-    "prdy_vrss": "110",
+    "stck_prpr": "8870",
+    "prdy_vrss": "60",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.26",
+    "prdy_ctrt": "0.68",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "7800",
-    "stft_esdg": "8810",
+    "stft_esdg": "8870",
     "dprt": "0.00"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "22900",
-    "prdy_vrss": "950",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.33",
+    "stck_prpr": "22400",
+    "prdy_vrss": "-500",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.18",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "19500",
-    "stft_esdg": "22900",
+    "stft_esdg": "22400",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "22900",
-    "prdy_vrss": "950",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.33",
+    "stck_prpr": "22400",
+    "prdy_vrss": "-500",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.18",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "19630",
-    "stft_esdg": "22900",
+    "stft_esdg": "22400",
     "dprt": "0.00"
   }
 ]

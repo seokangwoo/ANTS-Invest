@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "413500",
-    "prdy_vrss": "13000",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.25",
+    "stck_prpr": "411000",
+    "prdy_vrss": "-2500",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.60",
     "hts_goal_prc": "520000",
     "stck_prdy_clpr": "383000",
-    "stft_esdg": "-106500",
-    "dprt": "-20.48"
+    "stft_esdg": "-109000",
+    "dprt": "-20.96"
   },
   {
     "stck_bsop_date": "20250818",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "413500",
-    "prdy_vrss": "13000",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.25",
+    "stck_prpr": "411000",
+    "prdy_vrss": "-2500",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.60",
     "hts_goal_prc": "550000",
     "stck_prdy_clpr": "390500",
-    "stft_esdg": "-136500",
-    "dprt": "-24.82"
+    "stft_esdg": "-139000",
+    "dprt": "-25.27"
   }
 ]

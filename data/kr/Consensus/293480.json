@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10950",
-    "prdy_vrss": "190",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.77",
+    "stck_prpr": "10880",
+    "prdy_vrss": "-70",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.64",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "11340",
-    "stft_esdg": "-6050",
-    "dprt": "-35.59"
+    "stft_esdg": "-6120",
+    "dprt": "-36.00"
   },
   {
     "stck_bsop_date": "20250519",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10950",
-    "prdy_vrss": "190",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.77",
+    "stck_prpr": "10880",
+    "prdy_vrss": "-70",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.64",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "11260",
-    "stft_esdg": "-5050",
-    "dprt": "-31.56"
+    "stft_esdg": "-5120",
+    "dprt": "-32.00"
   },
   {
     "stck_bsop_date": "20241028",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10950",
-    "prdy_vrss": "190",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.77",
+    "stck_prpr": "10880",
+    "prdy_vrss": "-70",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.64",
     "hts_goal_prc": "18000",
     "stck_prdy_clpr": "11040",
-    "stft_esdg": "-7050",
-    "dprt": "-39.17"
+    "stft_esdg": "-7120",
+    "dprt": "-39.56"
   },
   {
     "stck_bsop_date": "20240429",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10950",
-    "prdy_vrss": "190",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.77",
+    "stck_prpr": "10880",
+    "prdy_vrss": "-70",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.64",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "13310",
-    "stft_esdg": "-9050",
-    "dprt": "-45.25"
+    "stft_esdg": "-9120",
+    "dprt": "-45.60"
   }
 ]

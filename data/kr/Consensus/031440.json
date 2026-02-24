@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한화투자",
-    "stck_prpr": "48000",
-    "prdy_vrss": "250",
+    "stck_prpr": "49300",
+    "prdy_vrss": "1300",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.52",
+    "prdy_ctrt": "2.71",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "42200",
-    "stft_esdg": "48000",
+    "stft_esdg": "49300",
     "dprt": "0.00"
   },
   {
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "48000",
-    "prdy_vrss": "250",
+    "stck_prpr": "49300",
+    "prdy_vrss": "1300",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.52",
+    "prdy_ctrt": "2.71",
     "hts_goal_prc": "50000",
     "stck_prdy_clpr": "42000",
-    "stft_esdg": "-2000",
-    "dprt": "-4.00"
+    "stft_esdg": "-700",
+    "dprt": "-1.40"
   },
   {
     "stck_bsop_date": "20250401",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "48000",
-    "prdy_vrss": "250",
+    "stck_prpr": "49300",
+    "prdy_vrss": "1300",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.52",
+    "prdy_ctrt": "2.71",
     "hts_goal_prc": "50000",
     "stck_prdy_clpr": "29400",
-    "stft_esdg": "-2000",
-    "dprt": "-4.00"
+    "stft_esdg": "-700",
+    "dprt": "-1.40"
   },
   {
     "stck_bsop_date": "20250114",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "48000",
-    "prdy_vrss": "250",
+    "stck_prpr": "49300",
+    "prdy_vrss": "1300",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.52",
+    "prdy_ctrt": "2.71",
     "hts_goal_prc": "58000",
     "stck_prdy_clpr": "34450",
-    "stft_esdg": "-10000",
-    "dprt": "-17.24"
+    "stft_esdg": "-8700",
+    "dprt": "-15.00"
   },
   {
     "stck_bsop_date": "20241002",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "48000",
-    "prdy_vrss": "250",
+    "stck_prpr": "49300",
+    "prdy_vrss": "1300",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.52",
+    "prdy_ctrt": "2.71",
     "hts_goal_prc": "61000",
     "stck_prdy_clpr": "36050",
-    "stft_esdg": "-13000",
-    "dprt": "-21.31"
+    "stft_esdg": "-11700",
+    "dprt": "-19.18"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "24600",
-    "prdy_vrss": "1600",
+    "stck_prpr": "25600",
+    "prdy_vrss": "1000",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "6.96",
+    "prdy_ctrt": "4.07",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "21100",
-    "stft_esdg": "24600",
+    "stft_esdg": "25600",
     "dprt": "0.00"
   }
 ]

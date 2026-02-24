@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "12670",
-    "prdy_vrss": "-470",
+    "stck_prpr": "12580",
+    "prdy_vrss": "-90",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.58",
+    "prdy_ctrt": "-0.71",
     "hts_goal_prc": "22000",
     "stck_prdy_clpr": "9180",
-    "stft_esdg": "-9330",
-    "dprt": "-42.41"
+    "stft_esdg": "-9420",
+    "dprt": "-42.82"
   },
   {
     "stck_bsop_date": "20250826",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "12670",
-    "prdy_vrss": "-470",
+    "stck_prpr": "12580",
+    "prdy_vrss": "-90",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.58",
+    "prdy_ctrt": "-0.71",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8960",
-    "stft_esdg": "12670",
+    "stft_esdg": "12580",
     "dprt": "0.00"
   }
 ]
