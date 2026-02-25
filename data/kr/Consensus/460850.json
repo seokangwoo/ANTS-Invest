@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "5920",
-    "prdy_vrss": "0",
-    "prdy_vrss_sign": "3",
-    "prdy_ctrt": "0.00",
+    "stck_prpr": "5960",
+    "prdy_vrss": "40",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.68",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6730",
-    "stft_esdg": "5920",
+    "stft_esdg": "5960",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "5920",
-    "prdy_vrss": "0",
-    "prdy_vrss_sign": "3",
-    "prdy_ctrt": "0.00",
+    "stck_prpr": "5960",
+    "prdy_vrss": "40",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.68",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6780",
-    "stft_esdg": "5920",
+    "stft_esdg": "5960",
     "dprt": "0.00"
   }
 ]

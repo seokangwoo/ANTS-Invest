@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "5550",
-    "prdy_vrss": "-60",
+    "stck_prpr": "5510",
+    "prdy_vrss": "-40",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.72",
     "hts_goal_prc": "6200",
     "stck_prdy_clpr": "5480",
-    "stft_esdg": "-650",
-    "dprt": "-10.48"
+    "stft_esdg": "-690",
+    "dprt": "-11.13"
   },
   {
     "stck_bsop_date": "20251031",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "5550",
-    "prdy_vrss": "-60",
+    "stck_prpr": "5510",
+    "prdy_vrss": "-40",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.72",
     "hts_goal_prc": "5800",
     "stck_prdy_clpr": "4940",
-    "stft_esdg": "-250",
-    "dprt": "-4.31"
+    "stft_esdg": "-290",
+    "dprt": "-5.00"
   },
   {
     "stck_bsop_date": "20250731",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "5550",
-    "prdy_vrss": "-60",
+    "stck_prpr": "5510",
+    "prdy_vrss": "-40",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.72",
     "hts_goal_prc": "6100",
     "stck_prdy_clpr": "5280",
-    "stft_esdg": "-550",
-    "dprt": "-9.02"
+    "stft_esdg": "-590",
+    "dprt": "-9.67"
   },
   {
     "stck_bsop_date": "20250604",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "5550",
-    "prdy_vrss": "-60",
+    "stck_prpr": "5510",
+    "prdy_vrss": "-40",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.72",
     "hts_goal_prc": "5000",
     "stck_prdy_clpr": "4365",
-    "stft_esdg": "550",
-    "dprt": "11.00"
+    "stft_esdg": "510",
+    "dprt": "10.20"
   },
   {
     "stck_bsop_date": "20241030",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "5550",
-    "prdy_vrss": "-60",
+    "stck_prpr": "5510",
+    "prdy_vrss": "-40",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.72",
     "hts_goal_prc": "5100",
     "stck_prdy_clpr": "4410",
-    "stft_esdg": "450",
-    "dprt": "8.82"
+    "stft_esdg": "410",
+    "dprt": "8.04"
   },
   {
     "stck_bsop_date": "20240528",
@@ -98,13 +98,13 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "5550",
-    "prdy_vrss": "-60",
+    "stck_prpr": "5510",
+    "prdy_vrss": "-40",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.72",
     "hts_goal_prc": "6300",
     "stck_prdy_clpr": "5160",
-    "stft_esdg": "-750",
-    "dprt": "-11.90"
+    "stft_esdg": "-790",
+    "dprt": "-12.54"
   }
 ]

@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "5900",
-    "prdy_vrss": "30",
+    "stck_prpr": "5920",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.51",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "6500",
     "stck_prdy_clpr": "4955",
-    "stft_esdg": "-600",
-    "dprt": "-9.23"
+    "stft_esdg": "-580",
+    "dprt": "-8.92"
   },
   {
     "stck_bsop_date": "20250530",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "5900",
-    "prdy_vrss": "30",
+    "stck_prpr": "5920",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.51",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "8000",
     "stck_prdy_clpr": "5520",
-    "stft_esdg": "-2100",
-    "dprt": "-26.25"
+    "stft_esdg": "-2080",
+    "dprt": "-26.00"
   },
   {
     "stck_bsop_date": "20241016",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "5900",
-    "prdy_vrss": "30",
+    "stck_prpr": "5920",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.51",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "9000",
     "stck_prdy_clpr": "5630",
-    "stft_esdg": "-3100",
-    "dprt": "-34.44"
+    "stft_esdg": "-3080",
+    "dprt": "-34.22"
   },
   {
     "stck_bsop_date": "20241011",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "5900",
-    "prdy_vrss": "30",
+    "stck_prpr": "5920",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.51",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "8000",
     "stck_prdy_clpr": "5580",
-    "stft_esdg": "-2100",
-    "dprt": "-26.25"
+    "stft_esdg": "-2080",
+    "dprt": "-26.00"
   },
   {
     "stck_bsop_date": "20240416",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "5900",
-    "prdy_vrss": "30",
+    "stck_prpr": "5920",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.51",
+    "prdy_ctrt": "0.34",
     "hts_goal_prc": "10000",
     "stck_prdy_clpr": "7380",
-    "stft_esdg": "-4100",
-    "dprt": "-41.00"
+    "stft_esdg": "-4080",
+    "dprt": "-40.80"
   }
 ]

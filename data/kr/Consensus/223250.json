@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "6390",
-    "prdy_vrss": "-90",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.39",
+    "stck_prpr": "6620",
+    "prdy_vrss": "230",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "3.60",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6080",
-    "stft_esdg": "6390",
+    "stft_esdg": "6620",
     "dprt": "0.00"
   }
 ]

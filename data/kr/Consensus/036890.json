@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "15740",
-    "prdy_vrss": "140",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.90",
+    "stck_prpr": "15500",
+    "prdy_vrss": "-240",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "12420",
-    "stft_esdg": "15740",
+    "stft_esdg": "15500",
     "dprt": "0.00"
   },
   {
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "15740",
-    "prdy_vrss": "140",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.90",
+    "stck_prpr": "15500",
+    "prdy_vrss": "-240",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "13400",
     "stck_prdy_clpr": "8640",
-    "stft_esdg": "2340",
-    "dprt": "17.46"
+    "stft_esdg": "2100",
+    "dprt": "15.67"
   },
   {
     "stck_bsop_date": "20240911",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "15740",
-    "prdy_vrss": "140",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.90",
+    "stck_prpr": "15500",
+    "prdy_vrss": "-240",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "14000",
     "stck_prdy_clpr": "8160",
-    "stft_esdg": "1740",
-    "dprt": "12.43"
+    "stft_esdg": "1500",
+    "dprt": "10.71"
   }
 ]

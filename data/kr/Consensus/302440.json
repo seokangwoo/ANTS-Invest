@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Marketperform",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "50400",
-    "prdy_vrss": "400",
+    "stck_prpr": "50500",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.80",
+    "prdy_ctrt": "0.20",
     "hts_goal_prc": "55000",
     "stck_prdy_clpr": "50700",
-    "stft_esdg": "-4600",
-    "dprt": "-8.36"
+    "stft_esdg": "-4500",
+    "dprt": "-8.18"
   },
   {
     "stck_bsop_date": "20250801",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB증권",
-    "stck_prpr": "50400",
-    "prdy_vrss": "400",
+    "stck_prpr": "50500",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.80",
+    "prdy_ctrt": "0.20",
     "hts_goal_prc": "46000",
     "stck_prdy_clpr": "45750",
-    "stft_esdg": "4400",
-    "dprt": "9.57"
+    "stft_esdg": "4500",
+    "dprt": "9.78"
   },
   {
     "stck_bsop_date": "20250508",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Marketperform",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "50400",
-    "prdy_vrss": "400",
+    "stck_prpr": "50500",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.80",
+    "prdy_ctrt": "0.20",
     "hts_goal_prc": "43000",
     "stck_prdy_clpr": "38800",
-    "stft_esdg": "7400",
-    "dprt": "17.21"
+    "stft_esdg": "7500",
+    "dprt": "17.44"
   },
   {
     "stck_bsop_date": "20241029",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "Marketperform",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "50400",
-    "prdy_vrss": "400",
+    "stck_prpr": "50500",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.80",
+    "prdy_ctrt": "0.20",
     "hts_goal_prc": "56000",
     "stck_prdy_clpr": "53300",
-    "stft_esdg": "-5600",
-    "dprt": "-10.00"
+    "stft_esdg": "-5500",
+    "dprt": "-9.82"
   },
   {
     "stck_bsop_date": "20240829",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB금융투자",
-    "stck_prpr": "50400",
-    "prdy_vrss": "400",
+    "stck_prpr": "50500",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.80",
+    "prdy_ctrt": "0.20",
     "hts_goal_prc": "59000",
     "stck_prdy_clpr": "55200",
-    "stft_esdg": "-8600",
-    "dprt": "-14.58"
+    "stft_esdg": "-8500",
+    "dprt": "-14.41"
   },
   {
     "stck_bsop_date": "20240503",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "50400",
-    "prdy_vrss": "400",
+    "stck_prpr": "50500",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.80",
+    "prdy_ctrt": "0.20",
     "hts_goal_prc": "60000",
     "stck_prdy_clpr": "58700",
-    "stft_esdg": "-9600",
-    "dprt": "-16.00"
+    "stft_esdg": "-9500",
+    "dprt": "-15.83"
   },
   {
     "stck_bsop_date": "20240503",
@@ -116,13 +116,13 @@
     "rgbf_invt_opnn": "중립",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "50400",
-    "prdy_vrss": "400",
+    "stck_prpr": "50500",
+    "prdy_vrss": "100",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.80",
+    "prdy_ctrt": "0.20",
     "hts_goal_prc": "60000",
     "stck_prdy_clpr": "58700",
-    "stft_esdg": "-9600",
-    "dprt": "-16.00"
+    "stft_esdg": "-9500",
+    "dprt": "-15.83"
   }
 ]

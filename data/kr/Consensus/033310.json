@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "1994",
-    "prdy_vrss": "13",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.66",
+    "stck_prpr": "1956",
+    "prdy_vrss": "-38",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.91",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2255",
-    "stft_esdg": "1994",
+    "stft_esdg": "1956",
     "dprt": "0.00"
   }
 ]

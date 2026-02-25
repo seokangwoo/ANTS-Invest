@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "1006",
-    "prdy_vrss": "8",
+    "stck_prpr": "1008",
+    "prdy_vrss": "2",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.80",
+    "prdy_ctrt": "0.20",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1395",
-    "stft_esdg": "1006",
+    "stft_esdg": "1008",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "1006",
-    "prdy_vrss": "8",
+    "stck_prpr": "1008",
+    "prdy_vrss": "2",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.80",
+    "prdy_ctrt": "0.20",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1983",
-    "stft_esdg": "1006",
+    "stft_esdg": "1008",
     "dprt": "0.00"
   }
 ]

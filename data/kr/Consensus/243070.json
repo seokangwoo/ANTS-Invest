@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "29050",
-    "prdy_vrss": "-350",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.19",
+    "stck_prpr": "29200",
+    "prdy_vrss": "150",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.52",
     "hts_goal_prc": "37000",
     "stck_prdy_clpr": "28850",
-    "stft_esdg": "-7950",
-    "dprt": "-21.49"
+    "stft_esdg": "-7800",
+    "dprt": "-21.08"
   },
   {
     "stck_bsop_date": "20240513",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "이베스트투자",
-    "stck_prpr": "29050",
-    "prdy_vrss": "-350",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.19",
+    "stck_prpr": "29200",
+    "prdy_vrss": "150",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.52",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "33900",
-    "stft_esdg": "29050",
+    "stft_esdg": "29200",
     "dprt": "0.00"
   }
 ]

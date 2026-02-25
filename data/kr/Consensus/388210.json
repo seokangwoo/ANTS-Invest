@@ -1,5 +1,23 @@
 [
   {
+    "stck_bsop_date": "20260224",
+    "stck_shrn_iscd": "388210",
+    "hts_kor_isnm": "씨엠티엑스",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "하나증권",
+    "stck_prpr": "159600",
+    "prdy_vrss": "-4800",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.92",
+    "hts_goal_prc": "210000",
+    "stck_prdy_clpr": "149000",
+    "stft_esdg": "-50400",
+    "dprt": "-24.00"
+  },
+  {
     "stck_bsop_date": "20260219",
     "stck_shrn_iscd": "388210",
     "hts_kor_isnm": "씨엠티엑스",
@@ -8,14 +26,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "164400",
-    "prdy_vrss": "15400",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "10.34",
+    "stck_prpr": "159600",
+    "prdy_vrss": "-4800",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.92",
     "hts_goal_prc": "200000",
     "stck_prdy_clpr": "146700",
-    "stft_esdg": "-35600",
-    "dprt": "-17.80"
+    "stft_esdg": "-40400",
+    "dprt": "-20.20"
   },
   {
     "stck_bsop_date": "20260129",
@@ -26,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "164400",
-    "prdy_vrss": "15400",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "10.34",
+    "stck_prpr": "159600",
+    "prdy_vrss": "-4800",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.92",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "131700",
-    "stft_esdg": "164400",
+    "stft_esdg": "159600",
     "dprt": "0.00"
   },
   {
@@ -44,13 +62,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "164400",
-    "prdy_vrss": "15400",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "10.34",
+    "stck_prpr": "159600",
+    "prdy_vrss": "-4800",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.92",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "91200",
-    "stft_esdg": "164400",
+    "stft_esdg": "159600",
     "dprt": "0.00"
   }
 ]

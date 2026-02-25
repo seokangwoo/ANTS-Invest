@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "2500",
-    "prdy_vrss": "-35",
+    "stck_prpr": "2440",
+    "prdy_vrss": "-60",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.38",
+    "prdy_ctrt": "-2.40",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "2345",
-    "stft_esdg": "2500",
+    "stft_esdg": "2440",
     "dprt": "0.00"
   }
 ]

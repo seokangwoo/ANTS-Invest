@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한화투자",
-    "stck_prpr": "101300",
-    "prdy_vrss": "-200",
+    "stck_prpr": "100800",
+    "prdy_vrss": "-500",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.20",
+    "prdy_ctrt": "-0.49",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "88000",
-    "stft_esdg": "101300",
+    "stft_esdg": "100800",
     "dprt": "0.00"
   }
 ]

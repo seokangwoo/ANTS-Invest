@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "8990",
-    "prdy_vrss": "20",
+    "stck_prpr": "9050",
+    "prdy_vrss": "60",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.22",
+    "prdy_ctrt": "0.67",
     "hts_goal_prc": "11000",
     "stck_prdy_clpr": "8010",
-    "stft_esdg": "-2010",
-    "dprt": "-18.27"
+    "stft_esdg": "-1950",
+    "dprt": "-17.73"
   },
   {
     "stck_bsop_date": "20240813",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "교보",
-    "stck_prpr": "8990",
-    "prdy_vrss": "20",
+    "stck_prpr": "9050",
+    "prdy_vrss": "60",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.22",
+    "prdy_ctrt": "0.67",
     "hts_goal_prc": "13000",
     "stck_prdy_clpr": "9830",
-    "stft_esdg": "-4010",
-    "dprt": "-30.85"
+    "stft_esdg": "-3950",
+    "dprt": "-30.38"
   }
 ]

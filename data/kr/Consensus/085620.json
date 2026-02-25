@@ -1,5 +1,23 @@
 [
   {
+    "stck_bsop_date": "20260224",
+    "stck_shrn_iscd": "085620",
+    "hts_kor_isnm": "미래에셋생명",
+    "invt_opnn": "중립",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "중립",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "신한투자증권",
+    "stck_prpr": "14880",
+    "prdy_vrss": "-230",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.52",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "16120",
+    "stft_esdg": "14880",
+    "dprt": "0.00"
+  },
+  {
     "stck_bsop_date": "20250916",
     "stck_shrn_iscd": "085620",
     "hts_kor_isnm": "미래에셋생명",
@@ -8,14 +26,14 @@
     "rgbf_invt_opnn": "Trading BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "15110",
-    "prdy_vrss": "-1010",
+    "stck_prpr": "14880",
+    "prdy_vrss": "-230",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-6.27",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "9000",
     "stck_prdy_clpr": "7980",
-    "stft_esdg": "6110",
-    "dprt": "67.89"
+    "stft_esdg": "5880",
+    "dprt": "65.33"
   },
   {
     "stck_bsop_date": "20250704",
@@ -26,14 +44,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "15110",
-    "prdy_vrss": "-1010",
+    "stck_prpr": "14880",
+    "prdy_vrss": "-230",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-6.27",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "6100",
     "stck_prdy_clpr": "6470",
-    "stft_esdg": "9010",
-    "dprt": "147.70"
+    "stft_esdg": "8780",
+    "dprt": "143.93"
   },
   {
     "stck_bsop_date": "20250611",
@@ -44,14 +62,14 @@
     "rgbf_invt_opnn": "Trading BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "15110",
-    "prdy_vrss": "-1010",
+    "stck_prpr": "14880",
+    "prdy_vrss": "-230",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-6.27",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "6600",
     "stck_prdy_clpr": "6290",
-    "stft_esdg": "8510",
-    "dprt": "128.94"
+    "stft_esdg": "8280",
+    "dprt": "125.45"
   },
   {
     "stck_bsop_date": "20250203",
@@ -62,14 +80,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "15110",
-    "prdy_vrss": "-1010",
+    "stck_prpr": "14880",
+    "prdy_vrss": "-230",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-6.27",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "5600",
     "stck_prdy_clpr": "5080",
-    "stft_esdg": "9510",
-    "dprt": "169.82"
+    "stft_esdg": "9280",
+    "dprt": "165.71"
   },
   {
     "stck_bsop_date": "20241108",
@@ -80,14 +98,14 @@
     "rgbf_invt_opnn": "Trading BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "15110",
-    "prdy_vrss": "-1010",
+    "stck_prpr": "14880",
+    "prdy_vrss": "-230",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-6.27",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "5500",
     "stck_prdy_clpr": "5260",
-    "stft_esdg": "9610",
-    "dprt": "174.73"
+    "stft_esdg": "9380",
+    "dprt": "170.55"
   },
   {
     "stck_bsop_date": "20240924",
@@ -98,14 +116,14 @@
     "rgbf_invt_opnn": "",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "SK",
-    "stck_prpr": "15110",
-    "prdy_vrss": "-1010",
+    "stck_prpr": "14880",
+    "prdy_vrss": "-230",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-6.27",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "5500",
     "stck_prdy_clpr": "5260",
-    "stft_esdg": "9610",
-    "dprt": "174.73"
+    "stft_esdg": "9380",
+    "dprt": "170.55"
   },
   {
     "stck_bsop_date": "20240305",
@@ -116,13 +134,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "15110",
-    "prdy_vrss": "-1010",
+    "stck_prpr": "14880",
+    "prdy_vrss": "-230",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-6.27",
+    "prdy_ctrt": "-1.52",
     "hts_goal_prc": "6500",
     "stck_prdy_clpr": "4875",
-    "stft_esdg": "8610",
-    "dprt": "132.46"
+    "stft_esdg": "8380",
+    "dprt": "128.92"
   }
 ]

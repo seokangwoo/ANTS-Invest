@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "46850",
-    "prdy_vrss": "250",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.54",
+    "stck_prpr": "46150",
+    "prdy_vrss": "-700",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.49",
     "hts_goal_prc": "52000",
     "stck_prdy_clpr": "36100",
-    "stft_esdg": "-5150",
-    "dprt": "-9.90"
+    "stft_esdg": "-5850",
+    "dprt": "-11.25"
   },
   {
     "stck_bsop_date": "20260116",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "46850",
-    "prdy_vrss": "250",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.54",
+    "stck_prpr": "46150",
+    "prdy_vrss": "-700",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.49",
     "hts_goal_prc": "33000",
     "stck_prdy_clpr": "27100",
-    "stft_esdg": "13850",
-    "dprt": "41.97"
+    "stft_esdg": "13150",
+    "dprt": "39.85"
   },
   {
     "stck_bsop_date": "20250709",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "46850",
-    "prdy_vrss": "250",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.54",
+    "stck_prpr": "46150",
+    "prdy_vrss": "-700",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.49",
     "hts_goal_prc": "37000",
     "stck_prdy_clpr": "27200",
-    "stft_esdg": "9850",
-    "dprt": "26.62"
+    "stft_esdg": "9150",
+    "dprt": "24.73"
   },
   {
     "stck_bsop_date": "20240925",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "46850",
-    "prdy_vrss": "250",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.54",
+    "stck_prpr": "46150",
+    "prdy_vrss": "-700",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.49",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "16510",
-    "stft_esdg": "46850",
+    "stft_esdg": "46150",
     "dprt": "0.00"
   },
   {
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "46850",
-    "prdy_vrss": "250",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.54",
+    "stck_prpr": "46150",
+    "prdy_vrss": "-700",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-1.49",
     "hts_goal_prc": "22000",
     "stck_prdy_clpr": "16890",
-    "stft_esdg": "24850",
-    "dprt": "112.95"
+    "stft_esdg": "24150",
+    "dprt": "109.77"
   }
 ]

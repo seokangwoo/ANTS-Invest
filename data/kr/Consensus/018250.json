@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "18000",
-    "prdy_vrss": "2020",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.64",
+    "stck_prpr": "17280",
+    "prdy_vrss": "-720",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.00",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "14000",
-    "stft_esdg": "2000",
-    "dprt": "12.50"
+    "stft_esdg": "1280",
+    "dprt": "8.00"
   },
   {
     "stck_bsop_date": "20250430",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한화투자",
-    "stck_prpr": "18000",
-    "prdy_vrss": "2020",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.64",
+    "stck_prpr": "17280",
+    "prdy_vrss": "-720",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.00",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "14150",
-    "stft_esdg": "3000",
-    "dprt": "20.00"
+    "stft_esdg": "2280",
+    "dprt": "15.20"
   },
   {
     "stck_bsop_date": "20250131",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "18000",
-    "prdy_vrss": "2020",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.64",
+    "stck_prpr": "17280",
+    "prdy_vrss": "-720",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.00",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "12350",
-    "stft_esdg": "2000",
-    "dprt": "12.50"
+    "stft_esdg": "1280",
+    "dprt": "8.00"
   },
   {
     "stck_bsop_date": "20241227",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "18000",
-    "prdy_vrss": "2020",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.64",
+    "stck_prpr": "17280",
+    "prdy_vrss": "-720",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.00",
     "hts_goal_prc": "18000",
     "stck_prdy_clpr": "14130",
-    "stft_esdg": "0",
-    "dprt": "0.00"
+    "stft_esdg": "-720",
+    "dprt": "-4.00"
   },
   {
     "stck_bsop_date": "20241126",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한화투자",
-    "stck_prpr": "18000",
-    "prdy_vrss": "2020",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.64",
+    "stck_prpr": "17280",
+    "prdy_vrss": "-720",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.00",
     "hts_goal_prc": "19000",
     "stck_prdy_clpr": "13850",
-    "stft_esdg": "-1000",
-    "dprt": "-5.26"
+    "stft_esdg": "-1720",
+    "dprt": "-9.05"
   },
   {
     "stck_bsop_date": "20241025",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "18000",
-    "prdy_vrss": "2020",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.64",
+    "stck_prpr": "17280",
+    "prdy_vrss": "-720",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.00",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "16740",
-    "stft_esdg": "-2000",
-    "dprt": "-10.00"
+    "stft_esdg": "-2720",
+    "dprt": "-13.60"
   },
   {
     "stck_bsop_date": "20240904",
@@ -116,13 +116,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "18000",
-    "prdy_vrss": "2020",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "12.64",
+    "stck_prpr": "17280",
+    "prdy_vrss": "-720",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.00",
     "hts_goal_prc": "27000",
     "stck_prdy_clpr": "17280",
-    "stft_esdg": "-9000",
-    "dprt": "-33.33"
+    "stft_esdg": "-9720",
+    "dprt": "-36.00"
   }
 ]

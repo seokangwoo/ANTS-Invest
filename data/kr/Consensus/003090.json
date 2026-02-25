@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "28550",
-    "prdy_vrss": "-800",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.73",
+    "stck_prpr": "28900",
+    "prdy_vrss": "350",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "1.23",
     "hts_goal_prc": "28000",
     "stck_prdy_clpr": "20900",
-    "stft_esdg": "550",
-    "dprt": "1.96"
+    "stft_esdg": "900",
+    "dprt": "3.21"
   }
 ]

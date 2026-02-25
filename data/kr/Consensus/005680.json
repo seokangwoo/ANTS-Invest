@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "12840",
-    "prdy_vrss": "60",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.47",
+    "stck_prpr": "12740",
+    "prdy_vrss": "-100",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.78",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "10650",
-    "stft_esdg": "-2160",
-    "dprt": "-14.40"
+    "stft_esdg": "-2260",
+    "dprt": "-15.07"
   },
   {
     "stck_bsop_date": "20240404",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "이베스트투자",
-    "stck_prpr": "12840",
-    "prdy_vrss": "60",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.47",
+    "stck_prpr": "12740",
+    "prdy_vrss": "-100",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.78",
     "hts_goal_prc": "13000",
     "stck_prdy_clpr": "9460",
-    "stft_esdg": "-160",
-    "dprt": "-1.23"
+    "stft_esdg": "-260",
+    "dprt": "-2.00"
   }
 ]

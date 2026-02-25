@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "20350",
-    "prdy_vrss": "350",
+    "stck_prpr": "20400",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.75",
+    "prdy_ctrt": "0.25",
     "hts_goal_prc": "30000",
     "stck_prdy_clpr": "21850",
-    "stft_esdg": "-9650",
-    "dprt": "-32.17"
+    "stft_esdg": "-9600",
+    "dprt": "-32.00"
   },
   {
     "stck_bsop_date": "20251117",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "20350",
-    "prdy_vrss": "350",
+    "stck_prpr": "20400",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.75",
+    "prdy_ctrt": "0.25",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "14780",
-    "stft_esdg": "4350",
-    "dprt": "27.19"
+    "stft_esdg": "4400",
+    "dprt": "27.50"
   },
   {
     "stck_bsop_date": "20250404",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "20350",
-    "prdy_vrss": "350",
+    "stck_prpr": "20400",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.75",
+    "prdy_ctrt": "0.25",
     "hts_goal_prc": "22000",
     "stck_prdy_clpr": "15990",
-    "stft_esdg": "-1650",
-    "dprt": "-7.50"
+    "stft_esdg": "-1600",
+    "dprt": "-7.27"
   },
   {
     "stck_bsop_date": "20241028",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "20350",
-    "prdy_vrss": "350",
+    "stck_prpr": "20400",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.75",
+    "prdy_ctrt": "0.25",
     "hts_goal_prc": "30000",
     "stck_prdy_clpr": "19280",
-    "stft_esdg": "-9650",
-    "dprt": "-32.17"
+    "stft_esdg": "-9600",
+    "dprt": "-32.00"
   },
   {
     "stck_bsop_date": "20240703",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "20350",
-    "prdy_vrss": "350",
+    "stck_prpr": "20400",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.75",
+    "prdy_ctrt": "0.25",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "23200",
-    "stft_esdg": "20350",
+    "stft_esdg": "20400",
     "dprt": "0.00"
   },
   {
@@ -98,13 +98,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "20350",
-    "prdy_vrss": "350",
+    "stck_prpr": "20400",
+    "prdy_vrss": "50",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.75",
+    "prdy_ctrt": "0.25",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "30700",
-    "stft_esdg": "20350",
+    "stft_esdg": "20400",
     "dprt": "0.00"
   }
 ]

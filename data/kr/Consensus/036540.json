@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "7320",
-    "prdy_vrss": "200",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.81",
+    "stck_prpr": "7170",
+    "prdy_vrss": "-150",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.05",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6950",
-    "stft_esdg": "7320",
+    "stft_esdg": "7170",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "교보",
-    "stck_prpr": "7320",
-    "prdy_vrss": "200",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.81",
+    "stck_prpr": "7170",
+    "prdy_vrss": "-150",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.05",
     "hts_goal_prc": "6000",
     "stck_prdy_clpr": "3655",
-    "stft_esdg": "1320",
-    "dprt": "22.00"
+    "stft_esdg": "1170",
+    "dprt": "19.50"
   }
 ]

@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "8290",
-    "prdy_vrss": "-40",
+    "stck_prpr": "8090",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-2.41",
     "hts_goal_prc": "28000",
     "stck_prdy_clpr": "10380",
-    "stft_esdg": "-19710",
-    "dprt": "-70.39"
+    "stft_esdg": "-19910",
+    "dprt": "-71.11"
   },
   {
     "stck_bsop_date": "20251222",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "8290",
-    "prdy_vrss": "-40",
+    "stck_prpr": "8090",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-2.41",
     "hts_goal_prc": "25000",
     "stck_prdy_clpr": "9080",
-    "stft_esdg": "-16710",
-    "dprt": "-66.84"
+    "stft_esdg": "-16910",
+    "dprt": "-67.64"
   },
   {
     "stck_bsop_date": "20251117",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "8290",
-    "prdy_vrss": "-40",
+    "stck_prpr": "8090",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-2.41",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "7810",
-    "stft_esdg": "-11710",
-    "dprt": "-58.55"
+    "stft_esdg": "-11910",
+    "dprt": "-59.55"
   },
   {
     "stck_bsop_date": "20241008",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "8290",
-    "prdy_vrss": "-40",
+    "stck_prpr": "8090",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-2.41",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "15020",
-    "stft_esdg": "8290",
+    "stft_esdg": "8090",
     "dprt": "0.00"
   },
   {
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "8290",
-    "prdy_vrss": "-40",
+    "stck_prpr": "8090",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-2.41",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8900",
-    "stft_esdg": "8290",
+    "stft_esdg": "8090",
     "dprt": "0.00"
   },
   {
@@ -98,13 +98,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "8290",
-    "prdy_vrss": "-40",
+    "stck_prpr": "8090",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.48",
+    "prdy_ctrt": "-2.41",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "5850",
-    "stft_esdg": "8290",
+    "stft_esdg": "8090",
     "dprt": "0.00"
   }
 ]

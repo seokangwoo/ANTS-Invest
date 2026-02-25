@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "8320",
-    "prdy_vrss": "-90",
+    "stck_prpr": "8250",
+    "prdy_vrss": "-70",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.84",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "9030",
-    "stft_esdg": "-11680",
-    "dprt": "-58.40"
+    "stft_esdg": "-11750",
+    "dprt": "-58.75"
   },
   {
     "stck_bsop_date": "20250908",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "8320",
-    "prdy_vrss": "-90",
+    "stck_prpr": "8250",
+    "prdy_vrss": "-70",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.84",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8800",
-    "stft_esdg": "8320",
+    "stft_esdg": "8250",
     "dprt": "0.00"
   },
   {
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "8320",
-    "prdy_vrss": "-90",
+    "stck_prpr": "8250",
+    "prdy_vrss": "-70",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.84",
     "hts_goal_prc": "11500",
     "stck_prdy_clpr": "7480",
-    "stft_esdg": "-3180",
-    "dprt": "-27.65"
+    "stft_esdg": "-3250",
+    "dprt": "-28.26"
   },
   {
     "stck_bsop_date": "20250806",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "8320",
-    "prdy_vrss": "-90",
+    "stck_prpr": "8250",
+    "prdy_vrss": "-70",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.84",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6150",
-    "stft_esdg": "8320",
+    "stft_esdg": "8250",
     "dprt": "0.00"
   },
   {
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "8320",
-    "prdy_vrss": "-90",
+    "stck_prpr": "8250",
+    "prdy_vrss": "-70",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.84",
     "hts_goal_prc": "9000",
     "stck_prdy_clpr": "5680",
-    "stft_esdg": "-680",
-    "dprt": "-7.56"
+    "stft_esdg": "-750",
+    "dprt": "-8.33"
   },
   {
     "stck_bsop_date": "20250120",
@@ -98,13 +98,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "8320",
-    "prdy_vrss": "-90",
+    "stck_prpr": "8250",
+    "prdy_vrss": "-70",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.84",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "5820",
-    "stft_esdg": "8320",
+    "stft_esdg": "8250",
     "dprt": "0.00"
   },
   {
@@ -116,14 +116,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "8320",
-    "prdy_vrss": "-90",
+    "stck_prpr": "8250",
+    "prdy_vrss": "-70",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.84",
     "hts_goal_prc": "8500",
     "stck_prdy_clpr": "4130",
-    "stft_esdg": "-180",
-    "dprt": "-2.12"
+    "stft_esdg": "-250",
+    "dprt": "-2.94"
   },
   {
     "stck_bsop_date": "20240717",
@@ -134,13 +134,13 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "8320",
-    "prdy_vrss": "-90",
+    "stck_prpr": "8250",
+    "prdy_vrss": "-70",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.07",
+    "prdy_ctrt": "-0.84",
     "hts_goal_prc": "7000",
     "stck_prdy_clpr": "4130",
-    "stft_esdg": "1320",
-    "dprt": "18.86"
+    "stft_esdg": "1250",
+    "dprt": "17.86"
   }
 ]

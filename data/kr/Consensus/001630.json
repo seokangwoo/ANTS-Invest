@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Trading Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "53200",
-    "prdy_vrss": "-100",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.19",
+    "stck_prpr": "53300",
+    "prdy_vrss": "100",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.19",
     "hts_goal_prc": "50000",
     "stck_prdy_clpr": "43150",
-    "stft_esdg": "3200",
-    "dprt": "6.40"
+    "stft_esdg": "3300",
+    "dprt": "6.60"
   },
   {
     "stck_bsop_date": "20240325",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "Trading Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "53200",
-    "prdy_vrss": "-100",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.19",
+    "stck_prpr": "53300",
+    "prdy_vrss": "100",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.19",
     "hts_goal_prc": "70000",
     "stck_prdy_clpr": "62500",
-    "stft_esdg": "-16800",
-    "dprt": "-24.00"
+    "stft_esdg": "-16700",
+    "dprt": "-23.86"
   }
 ]

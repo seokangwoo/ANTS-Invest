@@ -1,5 +1,23 @@
 [
   {
+    "stck_bsop_date": "20260224",
+    "stck_shrn_iscd": "085910",
+    "hts_kor_isnm": "네오티스",
+    "invt_opnn": "NotRated",
+    "invt_opnn_cls_code": "3",
+    "rgbf_invt_opnn": "NotRated",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "메리츠",
+    "stck_prpr": "17690",
+    "prdy_vrss": "10",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "0.06",
+    "hts_goal_prc": "0",
+    "stck_prdy_clpr": "16890",
+    "stft_esdg": "17690",
+    "dprt": "0.00"
+  },
+  {
     "stck_bsop_date": "20260120",
     "stck_shrn_iscd": "085910",
     "hts_kor_isnm": "네오티스",
@@ -8,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "17680",
-    "prdy_vrss": "790",
+    "stck_prpr": "17690",
+    "prdy_vrss": "10",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.68",
+    "prdy_ctrt": "0.06",
     "hts_goal_prc": "15500",
     "stck_prdy_clpr": "10760",
-    "stft_esdg": "2180",
-    "dprt": "14.06"
+    "stft_esdg": "2190",
+    "dprt": "14.13"
   },
   {
     "stck_bsop_date": "20260112",
@@ -26,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "17680",
-    "prdy_vrss": "790",
+    "stck_prpr": "17690",
+    "prdy_vrss": "10",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.68",
+    "prdy_ctrt": "0.06",
     "hts_goal_prc": "14000",
     "stck_prdy_clpr": "9440",
-    "stft_esdg": "3680",
-    "dprt": "26.29"
+    "stft_esdg": "3690",
+    "dprt": "26.36"
   },
   {
     "stck_bsop_date": "20251215",
@@ -44,13 +62,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "17680",
-    "prdy_vrss": "790",
+    "stck_prpr": "17690",
+    "prdy_vrss": "10",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "4.68",
+    "prdy_ctrt": "0.06",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "8090",
-    "stft_esdg": "17680",
+    "stft_esdg": "17690",
     "dprt": "0.00"
   }
 ]

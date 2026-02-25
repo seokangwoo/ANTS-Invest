@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "6110",
-    "prdy_vrss": "-380",
+    "stck_prpr": "5990",
+    "prdy_vrss": "-120",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-5.86",
+    "prdy_ctrt": "-1.96",
     "hts_goal_prc": "7900",
     "stck_prdy_clpr": "6180",
-    "stft_esdg": "-1790",
-    "dprt": "-22.66"
+    "stft_esdg": "-1910",
+    "dprt": "-24.18"
   },
   {
     "stck_bsop_date": "20240709",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "6110",
-    "prdy_vrss": "-380",
+    "stck_prpr": "5990",
+    "prdy_vrss": "-120",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-5.86",
+    "prdy_ctrt": "-1.96",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "9360",
-    "stft_esdg": "-8890",
-    "dprt": "-59.27"
+    "stft_esdg": "-9010",
+    "dprt": "-60.07"
   },
   {
     "stck_bsop_date": "20240627",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "6110",
-    "prdy_vrss": "-380",
+    "stck_prpr": "5990",
+    "prdy_vrss": "-120",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-5.86",
+    "prdy_ctrt": "-1.96",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "9930",
-    "stft_esdg": "6110",
+    "stft_esdg": "5990",
     "dprt": "0.00"
   }
 ]

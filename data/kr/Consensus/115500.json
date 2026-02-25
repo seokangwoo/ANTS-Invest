@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "9250",
-    "prdy_vrss": "-80",
+    "stck_prpr": "9220",
+    "prdy_vrss": "-30",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.86",
+    "prdy_ctrt": "-0.32",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "12300",
-    "stft_esdg": "9250",
+    "stft_esdg": "9220",
     "dprt": "0.00"
   }
 ]

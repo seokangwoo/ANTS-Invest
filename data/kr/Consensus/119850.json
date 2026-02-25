@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "40150",
-    "prdy_vrss": "350",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.88",
+    "stck_prpr": "39300",
+    "prdy_vrss": "-850",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.12",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "34350",
-    "stft_esdg": "40150",
+    "stft_esdg": "39300",
     "dprt": "0.00"
   },
   {
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신한투자증권",
-    "stck_prpr": "40150",
-    "prdy_vrss": "350",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.88",
+    "stck_prpr": "39300",
+    "prdy_vrss": "-850",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.12",
     "hts_goal_prc": "41000",
     "stck_prdy_clpr": "29850",
-    "stft_esdg": "-850",
-    "dprt": "-2.07"
+    "stft_esdg": "-1700",
+    "dprt": "-4.15"
   },
   {
     "stck_bsop_date": "20250729",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "40150",
-    "prdy_vrss": "350",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "0.88",
+    "stck_prpr": "39300",
+    "prdy_vrss": "-850",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.12",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "32550",
-    "stft_esdg": "40150",
+    "stft_esdg": "39300",
     "dprt": "0.00"
   }
 ]

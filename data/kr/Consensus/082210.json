@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "2300",
-    "prdy_vrss": "-120",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-4.96",
+    "stck_prpr": "2400",
+    "prdy_vrss": "100",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "4.35",
     "hts_goal_prc": "2500",
     "stck_prdy_clpr": "1715",
-    "stft_esdg": "-200",
-    "dprt": "-8.00"
+    "stft_esdg": "-100",
+    "dprt": "-4.00"
   },
   {
     "stck_bsop_date": "20240403",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "2300",
-    "prdy_vrss": "-120",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-4.96",
+    "stck_prpr": "2400",
+    "prdy_vrss": "100",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "4.35",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "4695",
-    "stft_esdg": "2300",
+    "stft_esdg": "2400",
     "dprt": "0.00"
   },
   {
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "2300",
-    "prdy_vrss": "-120",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-4.96",
+    "stck_prpr": "2400",
+    "prdy_vrss": "100",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "4.35",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "4610",
-    "stft_esdg": "2300",
+    "stft_esdg": "2400",
     "dprt": "0.00"
   }
 ]
