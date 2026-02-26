@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10730",
+    "stck_prpr": "10580",
     "prdy_vrss": "-150",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.38",
+    "prdy_ctrt": "-1.40",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "11340",
-    "stft_esdg": "-6270",
-    "dprt": "-36.88"
+    "stft_esdg": "-6420",
+    "dprt": "-37.76"
   },
   {
     "stck_bsop_date": "20250519",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10730",
+    "stck_prpr": "10580",
     "prdy_vrss": "-150",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.38",
+    "prdy_ctrt": "-1.40",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "11260",
-    "stft_esdg": "-5270",
-    "dprt": "-32.94"
+    "stft_esdg": "-5420",
+    "dprt": "-33.88"
   },
   {
     "stck_bsop_date": "20241028",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10730",
+    "stck_prpr": "10580",
     "prdy_vrss": "-150",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.38",
+    "prdy_ctrt": "-1.40",
     "hts_goal_prc": "18000",
     "stck_prdy_clpr": "11040",
-    "stft_esdg": "-7270",
-    "dprt": "-40.39"
+    "stft_esdg": "-7420",
+    "dprt": "-41.22"
   },
   {
     "stck_bsop_date": "20240429",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "10730",
+    "stck_prpr": "10580",
     "prdy_vrss": "-150",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.38",
+    "prdy_ctrt": "-1.40",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "13310",
-    "stft_esdg": "-9270",
-    "dprt": "-46.35"
+    "stft_esdg": "-9420",
+    "dprt": "-47.10"
   }
 ]

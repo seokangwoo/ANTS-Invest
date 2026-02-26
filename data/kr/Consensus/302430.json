@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "부국",
-    "stck_prpr": "7210",
-    "prdy_vrss": "-110",
+    "stck_prpr": "7080",
+    "prdy_vrss": "-130",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.50",
+    "prdy_ctrt": "-1.80",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "7580",
-    "stft_esdg": "7210",
+    "stft_esdg": "7080",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "7210",
-    "prdy_vrss": "-110",
+    "stck_prpr": "7080",
+    "prdy_vrss": "-130",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.50",
+    "prdy_ctrt": "-1.80",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "11480",
-    "stft_esdg": "7210",
+    "stft_esdg": "7080",
     "dprt": "0.00"
   }
 ]

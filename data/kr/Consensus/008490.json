@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "23100",
-    "prdy_vrss": "-150",
+    "stck_prpr": "22900",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.65",
+    "prdy_ctrt": "-0.87",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "23800",
-    "stft_esdg": "23100",
+    "stft_esdg": "22900",
     "dprt": "0.00"
   },
   {
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "23100",
-    "prdy_vrss": "-150",
+    "stck_prpr": "22900",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.65",
+    "prdy_ctrt": "-0.87",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "16170",
-    "stft_esdg": "6100",
-    "dprt": "35.88"
+    "stft_esdg": "5900",
+    "dprt": "34.71"
   },
   {
     "stck_bsop_date": "20241114",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "23100",
-    "prdy_vrss": "-150",
+    "stck_prpr": "22900",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.65",
+    "prdy_ctrt": "-0.87",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "13300",
-    "stft_esdg": "8100",
-    "dprt": "54.00"
+    "stft_esdg": "7900",
+    "dprt": "52.67"
   },
   {
     "stck_bsop_date": "20240814",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "23100",
-    "prdy_vrss": "-150",
+    "stck_prpr": "22900",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.65",
+    "prdy_ctrt": "-0.87",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "17800",
-    "stft_esdg": "3100",
-    "dprt": "15.50"
+    "stft_esdg": "2900",
+    "dprt": "14.50"
   },
   {
     "stck_bsop_date": "20240516",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "이베스트투자",
-    "stck_prpr": "23100",
-    "prdy_vrss": "-150",
+    "stck_prpr": "22900",
+    "prdy_vrss": "-200",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.65",
+    "prdy_ctrt": "-0.87",
     "hts_goal_prc": "25000",
     "stck_prdy_clpr": "22450",
-    "stft_esdg": "-1900",
-    "dprt": "-7.60"
+    "stft_esdg": "-2100",
+    "dprt": "-8.40"
   }
 ]

@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "9220",
-    "prdy_vrss": "260",
+    "stck_prpr": "9240",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.90",
+    "prdy_ctrt": "0.22",
     "hts_goal_prc": "10000",
     "stck_prdy_clpr": "8170",
-    "stft_esdg": "-780",
-    "dprt": "-7.80"
+    "stft_esdg": "-760",
+    "dprt": "-7.60"
   },
   {
     "stck_bsop_date": "20260119",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "9220",
-    "prdy_vrss": "260",
+    "stck_prpr": "9240",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.90",
+    "prdy_ctrt": "0.22",
     "hts_goal_prc": "14000",
     "stck_prdy_clpr": "8160",
-    "stft_esdg": "-4780",
-    "dprt": "-34.14"
+    "stft_esdg": "-4760",
+    "dprt": "-34.00"
   },
   {
     "stck_bsop_date": "20251103",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "9220",
-    "prdy_vrss": "260",
+    "stck_prpr": "9240",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.90",
+    "prdy_ctrt": "0.22",
     "hts_goal_prc": "13800",
     "stck_prdy_clpr": "8520",
-    "stft_esdg": "-4580",
-    "dprt": "-33.19"
+    "stft_esdg": "-4560",
+    "dprt": "-33.04"
   },
   {
     "stck_bsop_date": "20250729",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "9220",
-    "prdy_vrss": "260",
+    "stck_prpr": "9240",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.90",
+    "prdy_ctrt": "0.22",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "10750",
-    "stft_esdg": "-5780",
-    "dprt": "-38.53"
+    "stft_esdg": "-5760",
+    "dprt": "-38.40"
   },
   {
     "stck_bsop_date": "20250728",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "9220",
-    "prdy_vrss": "260",
+    "stck_prpr": "9240",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.90",
+    "prdy_ctrt": "0.22",
     "hts_goal_prc": "16000",
     "stck_prdy_clpr": "11790",
-    "stft_esdg": "-6780",
-    "dprt": "-42.38"
+    "stft_esdg": "-6760",
+    "dprt": "-42.25"
   },
   {
     "stck_bsop_date": "20250709",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "9220",
-    "prdy_vrss": "260",
+    "stck_prpr": "9240",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.90",
+    "prdy_ctrt": "0.22",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "11030",
-    "stft_esdg": "-7780",
-    "dprt": "-45.76"
+    "stft_esdg": "-7760",
+    "dprt": "-45.65"
   },
   {
     "stck_bsop_date": "20250528",
@@ -116,14 +116,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "9220",
-    "prdy_vrss": "260",
+    "stck_prpr": "9240",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.90",
+    "prdy_ctrt": "0.22",
     "hts_goal_prc": "12000",
     "stck_prdy_clpr": "8340",
-    "stft_esdg": "-2780",
-    "dprt": "-23.17"
+    "stft_esdg": "-2760",
+    "dprt": "-23.00"
   },
   {
     "stck_bsop_date": "20241120",
@@ -134,14 +134,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "9220",
-    "prdy_vrss": "260",
+    "stck_prpr": "9240",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.90",
+    "prdy_ctrt": "0.22",
     "hts_goal_prc": "13000",
     "stck_prdy_clpr": "8410",
-    "stft_esdg": "-3780",
-    "dprt": "-29.08"
+    "stft_esdg": "-3760",
+    "dprt": "-28.92"
   },
   {
     "stck_bsop_date": "20240528",
@@ -152,13 +152,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "9220",
-    "prdy_vrss": "260",
+    "stck_prpr": "9240",
+    "prdy_vrss": "20",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.90",
+    "prdy_ctrt": "0.22",
     "hts_goal_prc": "15000",
     "stck_prdy_clpr": "10510",
-    "stft_esdg": "-5780",
-    "dprt": "-38.53"
+    "stft_esdg": "-5760",
+    "dprt": "-38.40"
   }
 ]

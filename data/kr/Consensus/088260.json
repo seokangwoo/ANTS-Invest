@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "4900",
+    "stck_prpr": "4905",
     "prdy_vrss": "5",
     "prdy_vrss_sign": "2",
     "prdy_ctrt": "0.10",
     "hts_goal_prc": "6000",
     "stck_prdy_clpr": "4595",
-    "stft_esdg": "-1100",
-    "dprt": "-18.33"
+    "stft_esdg": "-1095",
+    "dprt": "-18.25"
   },
   {
     "stck_bsop_date": "20250331",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "4900",
+    "stck_prpr": "4905",
     "prdy_vrss": "5",
     "prdy_vrss_sign": "2",
     "prdy_ctrt": "0.10",
     "hts_goal_prc": "5700",
     "stck_prdy_clpr": "4305",
-    "stft_esdg": "-800",
-    "dprt": "-14.04"
+    "stft_esdg": "-795",
+    "dprt": "-13.95"
   },
   {
     "stck_bsop_date": "20241028",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "4900",
+    "stck_prpr": "4905",
     "prdy_vrss": "5",
     "prdy_vrss_sign": "2",
     "prdy_ctrt": "0.10",
     "hts_goal_prc": "6500",
     "stck_prdy_clpr": "4455",
-    "stft_esdg": "-1600",
-    "dprt": "-24.62"
+    "stft_esdg": "-1595",
+    "dprt": "-24.54"
   },
   {
     "stck_bsop_date": "20241023",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "4900",
+    "stck_prpr": "4905",
     "prdy_vrss": "5",
     "prdy_vrss_sign": "2",
     "prdy_ctrt": "0.10",
     "hts_goal_prc": "4800",
     "stck_prdy_clpr": "5040",
-    "stft_esdg": "100",
-    "dprt": "2.08"
+    "stft_esdg": "105",
+    "dprt": "2.19"
   },
   {
     "stck_bsop_date": "20240423",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "Hold",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "4900",
+    "stck_prpr": "4905",
     "prdy_vrss": "5",
     "prdy_vrss_sign": "2",
     "prdy_ctrt": "0.10",
     "hts_goal_prc": "5200",
     "stck_prdy_clpr": "4785",
-    "stft_esdg": "-300",
-    "dprt": "-5.77"
+    "stft_esdg": "-295",
+    "dprt": "-5.67"
   }
 ]

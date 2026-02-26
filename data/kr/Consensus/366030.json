@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "5800",
-    "prdy_vrss": "-870",
+    "stck_prpr": "5650",
+    "prdy_vrss": "-150",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-13.04",
+    "prdy_ctrt": "-2.59",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3865",
-    "stft_esdg": "5800",
+    "stft_esdg": "5650",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "5800",
-    "prdy_vrss": "-870",
+    "stck_prpr": "5650",
+    "prdy_vrss": "-150",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-13.04",
+    "prdy_ctrt": "-2.59",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "6150",
-    "stft_esdg": "5800",
+    "stft_esdg": "5650",
     "dprt": "0.00"
   }
 ]

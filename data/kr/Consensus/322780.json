@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB금융투자",
-    "stck_prpr": "399",
-    "prdy_vrss": "-1",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.25",
+    "stck_prpr": "414",
+    "prdy_vrss": "15",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "3.76",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1370",
-    "stft_esdg": "399",
+    "stft_esdg": "414",
     "dprt": "0.00"
   }
 ]

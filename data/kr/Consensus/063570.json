@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "4360",
-    "prdy_vrss": "-40",
+    "stck_prpr": "4300",
+    "prdy_vrss": "-60",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.91",
+    "prdy_ctrt": "-1.38",
     "hts_goal_prc": "7000",
     "stck_prdy_clpr": "4880",
-    "stft_esdg": "-2640",
-    "dprt": "-37.71"
+    "stft_esdg": "-2700",
+    "dprt": "-38.57"
   },
   {
     "stck_bsop_date": "20240903",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "Buy",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "4360",
-    "prdy_vrss": "-40",
+    "stck_prpr": "4300",
+    "prdy_vrss": "-60",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.91",
+    "prdy_ctrt": "-1.38",
     "hts_goal_prc": "8000",
     "stck_prdy_clpr": "4795",
-    "stft_esdg": "-3640",
-    "dprt": "-45.50"
+    "stft_esdg": "-3700",
+    "dprt": "-46.25"
   }
 ]

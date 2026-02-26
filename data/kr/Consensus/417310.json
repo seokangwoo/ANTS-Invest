@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "9230",
-    "prdy_vrss": "170",
+    "stck_prpr": "9360",
+    "prdy_vrss": "130",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.88",
+    "prdy_ctrt": "1.41",
     "hts_goal_prc": "6600",
     "stck_prdy_clpr": "6530",
-    "stft_esdg": "2630",
-    "dprt": "39.85"
+    "stft_esdg": "2760",
+    "dprt": "41.82"
   },
   {
     "stck_bsop_date": "20250627",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "9230",
-    "prdy_vrss": "170",
+    "stck_prpr": "9360",
+    "prdy_vrss": "130",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.88",
+    "prdy_ctrt": "1.41",
     "hts_goal_prc": "6700",
     "stck_prdy_clpr": "5390",
-    "stft_esdg": "2530",
-    "dprt": "37.76"
+    "stft_esdg": "2660",
+    "dprt": "39.70"
   },
   {
     "stck_bsop_date": "20250613",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "9230",
-    "prdy_vrss": "170",
+    "stck_prpr": "9360",
+    "prdy_vrss": "130",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.88",
+    "prdy_ctrt": "1.41",
     "hts_goal_prc": "6600",
     "stck_prdy_clpr": "5200",
-    "stft_esdg": "2630",
-    "dprt": "39.85"
+    "stft_esdg": "2760",
+    "dprt": "41.82"
   },
   {
     "stck_bsop_date": "20250122",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "9230",
-    "prdy_vrss": "170",
+    "stck_prpr": "9360",
+    "prdy_vrss": "130",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.88",
+    "prdy_ctrt": "1.41",
     "hts_goal_prc": "5400",
     "stck_prdy_clpr": "4430",
-    "stft_esdg": "3830",
-    "dprt": "70.93"
+    "stft_esdg": "3960",
+    "dprt": "73.33"
   },
   {
     "stck_bsop_date": "20240923",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "삼성",
-    "stck_prpr": "9230",
-    "prdy_vrss": "170",
+    "stck_prpr": "9360",
+    "prdy_vrss": "130",
     "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.88",
+    "prdy_ctrt": "1.41",
     "hts_goal_prc": "6400",
     "stck_prdy_clpr": "5000",
-    "stft_esdg": "2830",
-    "dprt": "44.22"
+    "stft_esdg": "2960",
+    "dprt": "46.25"
   }
 ]

@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "14500",
-    "prdy_vrss": "-20",
+    "stck_prpr": "14200",
+    "prdy_vrss": "-300",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.14",
+    "prdy_ctrt": "-2.07",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "12420",
-    "stft_esdg": "14500",
+    "stft_esdg": "14200",
     "dprt": "0.00"
   },
   {
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "14500",
-    "prdy_vrss": "-20",
+    "stck_prpr": "14200",
+    "prdy_vrss": "-300",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.14",
+    "prdy_ctrt": "-2.07",
     "hts_goal_prc": "17000",
     "stck_prdy_clpr": "11780",
-    "stft_esdg": "-2500",
-    "dprt": "-14.71"
+    "stft_esdg": "-2800",
+    "dprt": "-16.47"
   },
   {
     "stck_bsop_date": "20241031",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "14500",
-    "prdy_vrss": "-20",
+    "stck_prpr": "14200",
+    "prdy_vrss": "-300",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.14",
+    "prdy_ctrt": "-2.07",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "14220",
-    "stft_esdg": "14500",
+    "stft_esdg": "14200",
     "dprt": "0.00"
   },
   {
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "상상인",
-    "stck_prpr": "14500",
-    "prdy_vrss": "-20",
+    "stck_prpr": "14200",
+    "prdy_vrss": "-300",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.14",
+    "prdy_ctrt": "-2.07",
     "hts_goal_prc": "20000",
     "stck_prdy_clpr": "15440",
-    "stft_esdg": "-5500",
-    "dprt": "-27.50"
+    "stft_esdg": "-5800",
+    "dprt": "-29.00"
   },
   {
     "stck_bsop_date": "20240404",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "14500",
-    "prdy_vrss": "-20",
+    "stck_prpr": "14200",
+    "prdy_vrss": "-300",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.14",
+    "prdy_ctrt": "-2.07",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "15360",
-    "stft_esdg": "14500",
+    "stft_esdg": "14200",
     "dprt": "0.00"
   }
 ]

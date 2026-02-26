@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "2065",
-    "prdy_vrss": "45",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.23",
+    "stck_prpr": "2005",
+    "prdy_vrss": "-60",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.91",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "1887",
-    "stft_esdg": "2065",
+    "stft_esdg": "2005",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한국투자",
-    "stck_prpr": "2065",
-    "prdy_vrss": "45",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "2.23",
+    "stck_prpr": "2005",
+    "prdy_vrss": "-60",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-2.91",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "3150",
-    "stft_esdg": "2065",
+    "stft_esdg": "2005",
     "dprt": "0.00"
   }
 ]

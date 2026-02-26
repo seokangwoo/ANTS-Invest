@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "39250",
-    "prdy_vrss": "1500",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "3.97",
+    "stck_prpr": "39150",
+    "prdy_vrss": "-100",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.25",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "54300",
-    "stft_esdg": "39250",
+    "stft_esdg": "39150",
     "dprt": "0.00"
   }
 ]

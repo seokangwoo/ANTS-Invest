@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB증권",
-    "stck_prpr": "2650",
-    "prdy_vrss": "-70",
+    "stck_prpr": "2565",
+    "prdy_vrss": "-85",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.57",
+    "prdy_ctrt": "-3.21",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "12190",
-    "stft_esdg": "2650",
+    "stft_esdg": "2565",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB금융투자",
-    "stck_prpr": "2650",
-    "prdy_vrss": "-70",
+    "stck_prpr": "2565",
+    "prdy_vrss": "-85",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-2.57",
+    "prdy_ctrt": "-3.21",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "20600",
-    "stft_esdg": "2650",
+    "stft_esdg": "2565",
     "dprt": "0.00"
   }
 ]

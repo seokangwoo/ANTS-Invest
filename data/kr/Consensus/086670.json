@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "메리츠",
-    "stck_prpr": "13560",
-    "prdy_vrss": "-260",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.88",
+    "stck_prpr": "13920",
+    "prdy_vrss": "360",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.65",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "7310",
-    "stft_esdg": "13560",
+    "stft_esdg": "13920",
     "dprt": "0.00"
   },
   {
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "대신",
-    "stck_prpr": "13560",
-    "prdy_vrss": "-260",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.88",
+    "stck_prpr": "13920",
+    "prdy_vrss": "360",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.65",
     "hts_goal_prc": "14000",
     "stck_prdy_clpr": "10670",
-    "stft_esdg": "-440",
-    "dprt": "-3.14"
+    "stft_esdg": "-80",
+    "dprt": "-0.57"
   },
   {
     "stck_bsop_date": "20240607",
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "13560",
-    "prdy_vrss": "-260",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-1.88",
+    "stck_prpr": "13920",
+    "prdy_vrss": "360",
+    "prdy_vrss_sign": "2",
+    "prdy_ctrt": "2.65",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "12750",
-    "stft_esdg": "13560",
+    "stft_esdg": "13920",
     "dprt": "0.00"
   }
 ]

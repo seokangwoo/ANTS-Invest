@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "23950",
-    "prdy_vrss": "-2300",
+    "stck_prpr": "21400",
+    "prdy_vrss": "-2550",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-8.76",
+    "prdy_ctrt": "-10.65",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "5520",
-    "stft_esdg": "23950",
+    "stft_esdg": "21400",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "23950",
-    "prdy_vrss": "-2300",
+    "stck_prpr": "21400",
+    "prdy_vrss": "-2550",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-8.76",
+    "prdy_ctrt": "-10.65",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "5310",
-    "stft_esdg": "23950",
+    "stft_esdg": "21400",
     "dprt": "0.00"
   },
   {
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "23950",
-    "prdy_vrss": "-2300",
+    "stck_prpr": "21400",
+    "prdy_vrss": "-2550",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-8.76",
+    "prdy_ctrt": "-10.65",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "4790",
-    "stft_esdg": "23950",
+    "stft_esdg": "21400",
     "dprt": "0.00"
   }
 ]

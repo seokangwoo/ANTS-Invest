@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB증권",
-    "stck_prpr": "16000",
-    "prdy_vrss": "-30",
+    "stck_prpr": "15610",
+    "prdy_vrss": "-390",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.19",
+    "prdy_ctrt": "-2.44",
     "hts_goal_prc": "29000",
     "stck_prdy_clpr": "20600",
-    "stft_esdg": "-13000",
-    "dprt": "-44.83"
+    "stft_esdg": "-13390",
+    "dprt": "-46.17"
   },
   {
     "stck_bsop_date": "20250313",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "16000",
-    "prdy_vrss": "-30",
+    "stck_prpr": "15610",
+    "prdy_vrss": "-390",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.19",
+    "prdy_ctrt": "-2.44",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "28150",
-    "stft_esdg": "16000",
+    "stft_esdg": "15610",
     "dprt": "0.00"
   },
   {
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "DB금융투자",
-    "stck_prpr": "16000",
-    "prdy_vrss": "-30",
+    "stck_prpr": "15610",
+    "prdy_vrss": "-390",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.19",
+    "prdy_ctrt": "-2.44",
     "hts_goal_prc": "48000",
     "stck_prdy_clpr": "41300",
-    "stft_esdg": "-32000",
-    "dprt": "-66.67"
+    "stft_esdg": "-32390",
+    "dprt": "-67.48"
   },
   {
     "stck_bsop_date": "20240619",
@@ -62,13 +62,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "LS증권",
-    "stck_prpr": "16000",
-    "prdy_vrss": "-30",
+    "stck_prpr": "15610",
+    "prdy_vrss": "-390",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.19",
+    "prdy_ctrt": "-2.44",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "54000",
-    "stft_esdg": "16000",
+    "stft_esdg": "15610",
     "dprt": "0.00"
   },
   {
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "이베스트투자",
-    "stck_prpr": "16000",
-    "prdy_vrss": "-30",
+    "stck_prpr": "15610",
+    "prdy_vrss": "-390",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.19",
+    "prdy_ctrt": "-2.44",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "65000",
-    "stft_esdg": "16000",
+    "stft_esdg": "15610",
     "dprt": "0.00"
   }
 ]

@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "10540",
-    "prdy_vrss": "-410",
+    "stck_prpr": "10200",
+    "prdy_vrss": "-340",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.74",
+    "prdy_ctrt": "-3.23",
     "hts_goal_prc": "13000",
     "stck_prdy_clpr": "10550",
-    "stft_esdg": "-2460",
-    "dprt": "-18.92"
+    "stft_esdg": "-2800",
+    "dprt": "-21.54"
   },
   {
     "stck_bsop_date": "20250605",
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "하나증권",
-    "stck_prpr": "10540",
-    "prdy_vrss": "-410",
+    "stck_prpr": "10200",
+    "prdy_vrss": "-340",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.74",
+    "prdy_ctrt": "-3.23",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "9180",
-    "stft_esdg": "10540",
+    "stft_esdg": "10200",
     "dprt": "0.00"
   },
   {
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "10540",
-    "prdy_vrss": "-410",
+    "stck_prpr": "10200",
+    "prdy_vrss": "-340",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.74",
+    "prdy_ctrt": "-3.23",
     "hts_goal_prc": "9000",
     "stck_prdy_clpr": "10020",
-    "stft_esdg": "1540",
-    "dprt": "17.11"
+    "stft_esdg": "1200",
+    "dprt": "13.33"
   },
   {
     "stck_bsop_date": "20240528",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "10540",
-    "prdy_vrss": "-410",
+    "stck_prpr": "10200",
+    "prdy_vrss": "-340",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.74",
+    "prdy_ctrt": "-3.23",
     "hts_goal_prc": "9500",
     "stck_prdy_clpr": "8440",
-    "stft_esdg": "1040",
-    "dprt": "10.95"
+    "stft_esdg": "700",
+    "dprt": "7.37"
   },
   {
     "stck_bsop_date": "20240308",
@@ -80,13 +80,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "10540",
-    "prdy_vrss": "-410",
+    "stck_prpr": "10200",
+    "prdy_vrss": "-340",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.74",
+    "prdy_ctrt": "-3.23",
     "hts_goal_prc": "12000",
     "stck_prdy_clpr": "9180",
-    "stft_esdg": "-1460",
-    "dprt": "-12.17"
+    "stft_esdg": "-1800",
+    "dprt": "-15.00"
   }
 ]

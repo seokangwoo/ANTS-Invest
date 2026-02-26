@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IM증권",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "120000",
     "stck_prdy_clpr": "83200",
-    "stft_esdg": "-25300",
-    "dprt": "-21.08"
+    "stft_esdg": "-27200",
+    "dprt": "-22.67"
   },
   {
     "stck_bsop_date": "20251021",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "100000",
     "stck_prdy_clpr": "81200",
-    "stft_esdg": "-5300",
-    "dprt": "-5.30"
+    "stft_esdg": "-7200",
+    "dprt": "-7.20"
   },
   {
     "stck_bsop_date": "20250804",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "110000",
     "stck_prdy_clpr": "82000",
-    "stft_esdg": "-15300",
-    "dprt": "-13.91"
+    "stft_esdg": "-17200",
+    "dprt": "-15.64"
   },
   {
     "stck_bsop_date": "20250717",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "110000",
     "stck_prdy_clpr": "82400",
-    "stft_esdg": "-15300",
-    "dprt": "-13.91"
+    "stft_esdg": "-17200",
+    "dprt": "-15.64"
   },
   {
     "stck_bsop_date": "20250710",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유안타",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "110000",
     "stck_prdy_clpr": "84400",
-    "stft_esdg": "-15300",
-    "dprt": "-13.91"
+    "stft_esdg": "-17200",
+    "dprt": "-15.64"
   },
   {
     "stck_bsop_date": "20250709",
@@ -98,14 +98,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "110000",
     "stck_prdy_clpr": "84800",
-    "stft_esdg": "-15300",
-    "dprt": "-13.91"
+    "stft_esdg": "-17200",
+    "dprt": "-15.64"
   },
   {
     "stck_bsop_date": "20250708",
@@ -116,14 +116,14 @@
     "rgbf_invt_opnn": "Outperform",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "100000",
     "stck_prdy_clpr": "85900",
-    "stft_esdg": "-5300",
-    "dprt": "-5.30"
+    "stft_esdg": "-7200",
+    "dprt": "-7.20"
   },
   {
     "stck_bsop_date": "20250416",
@@ -134,14 +134,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "120000",
     "stck_prdy_clpr": "77300",
-    "stft_esdg": "-25300",
-    "dprt": "-21.08"
+    "stft_esdg": "-27200",
+    "dprt": "-22.67"
   },
   {
     "stck_bsop_date": "20250205",
@@ -152,14 +152,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "신영",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "120000",
     "stck_prdy_clpr": "82000",
-    "stft_esdg": "-25300",
-    "dprt": "-21.08"
+    "stft_esdg": "-27200",
+    "dprt": "-22.67"
   },
   {
     "stck_bsop_date": "20250204",
@@ -170,14 +170,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "100000",
     "stck_prdy_clpr": "82800",
-    "stft_esdg": "-5300",
-    "dprt": "-5.30"
+    "stft_esdg": "-7200",
+    "dprt": "-7.20"
   },
   {
     "stck_bsop_date": "20250204",
@@ -188,14 +188,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "KB",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "130000",
     "stck_prdy_clpr": "82800",
-    "stft_esdg": "-35300",
-    "dprt": "-27.15"
+    "stft_esdg": "-37200",
+    "dprt": "-28.62"
   },
   {
     "stck_bsop_date": "20250204",
@@ -206,14 +206,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "115000",
     "stck_prdy_clpr": "82800",
-    "stft_esdg": "-20300",
-    "dprt": "-17.65"
+    "stft_esdg": "-22200",
+    "dprt": "-19.30"
   },
   {
     "stck_bsop_date": "20250204",
@@ -224,14 +224,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "유진투자",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "125000",
     "stck_prdy_clpr": "82800",
-    "stft_esdg": "-30300",
-    "dprt": "-24.24"
+    "stft_esdg": "-32200",
+    "dprt": "-25.76"
   },
   {
     "stck_bsop_date": "20250204",
@@ -242,14 +242,14 @@
     "rgbf_invt_opnn": "매수",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "미래에셋",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "130000",
     "stck_prdy_clpr": "82800",
-    "stft_esdg": "-35300",
-    "dprt": "-27.15"
+    "stft_esdg": "-37200",
+    "dprt": "-28.62"
   },
   {
     "stck_bsop_date": "20250120",
@@ -260,14 +260,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "130000",
     "stck_prdy_clpr": "91000",
-    "stft_esdg": "-35300",
-    "dprt": "-27.15"
+    "stft_esdg": "-37200",
+    "dprt": "-28.62"
   },
   {
     "stck_bsop_date": "20250116",
@@ -278,14 +278,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "130000",
     "stck_prdy_clpr": "92100",
-    "stft_esdg": "-35300",
-    "dprt": "-27.15"
+    "stft_esdg": "-37200",
+    "dprt": "-28.62"
   },
   {
     "stck_bsop_date": "20250115",
@@ -296,14 +296,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "130000",
     "stck_prdy_clpr": "94500",
-    "stft_esdg": "-35300",
-    "dprt": "-27.15"
+    "stft_esdg": "-37200",
+    "dprt": "-28.62"
   },
   {
     "stck_bsop_date": "20240729",
@@ -314,14 +314,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "160000",
     "stck_prdy_clpr": "108200",
-    "stft_esdg": "-65300",
-    "dprt": "-40.81"
+    "stft_esdg": "-67200",
+    "dprt": "-42.00"
   },
   {
     "stck_bsop_date": "20240429",
@@ -332,14 +332,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "키움",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "140000",
     "stck_prdy_clpr": "101100",
-    "stft_esdg": "-45300",
-    "dprt": "-32.36"
+    "stft_esdg": "-47200",
+    "dprt": "-33.71"
   },
   {
     "stck_bsop_date": "20240402",
@@ -350,13 +350,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "NH투자",
-    "stck_prpr": "94700",
-    "prdy_vrss": "-500",
+    "stck_prpr": "92800",
+    "prdy_vrss": "-1900",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.53",
+    "prdy_ctrt": "-2.01",
     "hts_goal_prc": "143000",
     "stck_prdy_clpr": "111300",
-    "stft_esdg": "-48300",
-    "dprt": "-33.78"
+    "stft_esdg": "-50200",
+    "dprt": "-35.10"
   }
 ]

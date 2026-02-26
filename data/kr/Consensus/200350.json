@@ -8,13 +8,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "4810",
-    "prdy_vrss": "-160",
+    "stck_prpr": "4570",
+    "prdy_vrss": "-240",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.22",
+    "prdy_ctrt": "-4.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "15840",
-    "stft_esdg": "4810",
+    "stft_esdg": "4570",
     "dprt": "0.00"
   },
   {
@@ -26,13 +26,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "IBK투자",
-    "stck_prpr": "4810",
-    "prdy_vrss": "-160",
+    "stck_prpr": "4570",
+    "prdy_vrss": "-240",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.22",
+    "prdy_ctrt": "-4.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "13580",
-    "stft_esdg": "4810",
+    "stft_esdg": "4570",
     "dprt": "0.00"
   },
   {
@@ -44,13 +44,13 @@
     "rgbf_invt_opnn": "NotRated",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "현대차",
-    "stck_prpr": "4810",
-    "prdy_vrss": "-160",
+    "stck_prpr": "4570",
+    "prdy_vrss": "-240",
     "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.22",
+    "prdy_ctrt": "-4.99",
     "hts_goal_prc": "0",
     "stck_prdy_clpr": "14990",
-    "stft_esdg": "4810",
+    "stft_esdg": "4570",
     "dprt": "0.00"
   }
 ]

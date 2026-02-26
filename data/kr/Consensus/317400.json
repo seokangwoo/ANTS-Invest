@@ -8,14 +8,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "한화투자",
-    "stck_prpr": "4880",
-    "prdy_vrss": "80",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.67",
+    "stck_prpr": "4665",
+    "prdy_vrss": "-215",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.41",
     "hts_goal_prc": "6800",
     "stck_prdy_clpr": "4695",
-    "stft_esdg": "-1920",
-    "dprt": "-28.24"
+    "stft_esdg": "-2135",
+    "dprt": "-31.40"
   },
   {
     "stck_bsop_date": "20250526",
@@ -26,14 +26,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "4880",
-    "prdy_vrss": "80",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.67",
+    "stck_prpr": "4665",
+    "prdy_vrss": "-215",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.41",
     "hts_goal_prc": "4500",
     "stck_prdy_clpr": "3480",
-    "stft_esdg": "380",
-    "dprt": "8.44"
+    "stft_esdg": "165",
+    "dprt": "3.67"
   },
   {
     "stck_bsop_date": "20241125",
@@ -44,14 +44,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "4880",
-    "prdy_vrss": "80",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.67",
+    "stck_prpr": "4665",
+    "prdy_vrss": "-215",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.41",
     "hts_goal_prc": "3900",
     "stck_prdy_clpr": "3500",
-    "stft_esdg": "980",
-    "dprt": "25.13"
+    "stft_esdg": "765",
+    "dprt": "19.62"
   },
   {
     "stck_bsop_date": "20241113",
@@ -62,14 +62,14 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "교보",
-    "stck_prpr": "4880",
-    "prdy_vrss": "80",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.67",
+    "stck_prpr": "4665",
+    "prdy_vrss": "-215",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.41",
     "hts_goal_prc": "4500",
     "stck_prdy_clpr": "3495",
-    "stft_esdg": "380",
-    "dprt": "8.44"
+    "stft_esdg": "165",
+    "dprt": "3.67"
   },
   {
     "stck_bsop_date": "20240528",
@@ -80,14 +80,14 @@
     "rgbf_invt_opnn": "HOLD",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "다올투자",
-    "stck_prpr": "4880",
-    "prdy_vrss": "80",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.67",
+    "stck_prpr": "4665",
+    "prdy_vrss": "-215",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.41",
     "hts_goal_prc": "4500",
     "stck_prdy_clpr": "4260",
-    "stft_esdg": "380",
-    "dprt": "8.44"
+    "stft_esdg": "165",
+    "dprt": "3.67"
   },
   {
     "stck_bsop_date": "20240320",
@@ -98,13 +98,13 @@
     "rgbf_invt_opnn": "BUY",
     "rgbf_invt_opnn_cls_code": "3",
     "mbcr_name": "교보",
-    "stck_prpr": "4880",
-    "prdy_vrss": "80",
-    "prdy_vrss_sign": "2",
-    "prdy_ctrt": "1.67",
+    "stck_prpr": "4665",
+    "prdy_vrss": "-215",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-4.41",
     "hts_goal_prc": "6000",
     "stck_prdy_clpr": "4215",
-    "stft_esdg": "-1120",
-    "dprt": "-18.67"
+    "stft_esdg": "-1335",
+    "dprt": "-22.25"
   }
 ]
