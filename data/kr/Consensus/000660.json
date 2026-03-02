@@ -1,5 +1,23 @@
 [
   {
+    "stck_bsop_date": "20260227",
+    "stck_shrn_iscd": "000660",
+    "hts_kor_isnm": "SK하이닉스",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "현대차",
+    "stck_prpr": "1061000",
+    "prdy_vrss": "-38000",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-3.46",
+    "hts_goal_prc": "1290000",
+    "stck_prdy_clpr": "1099000",
+    "stft_esdg": "-229000",
+    "dprt": "-17.75"
+  },
+  {
     "stck_bsop_date": "20260224",
     "stck_shrn_iscd": "000660",
     "hts_kor_isnm": "SK하이닉스",
@@ -1778,24 +1796,6 @@
     "prdy_ctrt": "-3.46",
     "hts_goal_prc": "400000",
     "stck_prdy_clpr": "353000",
-    "stft_esdg": "661000",
-    "dprt": "165.25"
-  },
-  {
-    "stck_bsop_date": "20250918",
-    "stck_shrn_iscd": "000660",
-    "hts_kor_isnm": "SK하이닉스",
-    "invt_opnn": "BUY",
-    "invt_opnn_cls_code": "2",
-    "rgbf_invt_opnn": "BUY",
-    "rgbf_invt_opnn_cls_code": "3",
-    "mbcr_name": "대신",
-    "stck_prpr": "1061000",
-    "prdy_vrss": "-38000",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-3.46",
-    "hts_goal_prc": "400000",
-    "stck_prdy_clpr": "333500",
     "stft_esdg": "661000",
     "dprt": "165.25"
   }

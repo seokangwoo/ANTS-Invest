@@ -1,5 +1,23 @@
 [
   {
+    "stck_bsop_date": "20260227",
+    "stck_shrn_iscd": "005930",
+    "hts_kor_isnm": "삼성전자",
+    "invt_opnn": "BUY",
+    "invt_opnn_cls_code": "2",
+    "rgbf_invt_opnn": "BUY",
+    "rgbf_invt_opnn_cls_code": "3",
+    "mbcr_name": "현대차",
+    "stck_prpr": "216500",
+    "prdy_vrss": "-1500",
+    "prdy_vrss_sign": "5",
+    "prdy_ctrt": "-0.69",
+    "hts_goal_prc": "258500",
+    "stck_prdy_clpr": "218000",
+    "stft_esdg": "-42000",
+    "dprt": "-16.25"
+  },
+  {
     "stck_bsop_date": "20260224",
     "stck_shrn_iscd": "005930",
     "hts_kor_isnm": "삼성전자",
@@ -1780,23 +1798,5 @@
     "stck_prdy_clpr": "83500",
     "stft_esdg": "111500",
     "dprt": "106.19"
-  },
-  {
-    "stck_bsop_date": "20250923",
-    "stck_shrn_iscd": "005930",
-    "hts_kor_isnm": "삼성전자",
-    "invt_opnn": "BUY",
-    "invt_opnn_cls_code": "2",
-    "rgbf_invt_opnn": "BUY",
-    "rgbf_invt_opnn_cls_code": "3",
-    "mbcr_name": "삼성",
-    "stck_prpr": "216500",
-    "prdy_vrss": "-1500",
-    "prdy_vrss_sign": "5",
-    "prdy_ctrt": "-0.69",
-    "hts_goal_prc": "93000",
-    "stck_prdy_clpr": "83500",
-    "stft_esdg": "123500",
-    "dprt": "132.80"
   }
 ]
